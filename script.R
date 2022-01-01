@@ -34,5 +34,3 @@ urls <- c(edesur = "https://www.enre.gov.ar/paginacorte/js/data_EDS.js",
 
 lapply(urls, get_data)
 
-gert::git_commit(message = "Agrega datos (autom\u00E1tico)")
-gert::git_push()
