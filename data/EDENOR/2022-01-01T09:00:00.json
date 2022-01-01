@@ -1,0 +1,141 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.926",
+  "totalUsuariosConSuministro": "2.995.565",
+  "ultimaActualizacion": "9:00",
+  "totalUsuariosAyer": "41.223",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "subestacion_alimentador": "- / R:MELO / 237-TR2 / 237-5533",
+      "usuarios": "16",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA PUEYRRED?N",
+      "subestacion_alimentador": "- / R:AGRONOMIA / 47-TR5 / 47-5561",
+      "usuarios": "607",
+      "normalizacion": "2022-01-01 10:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR2 / 59-5531",
+      "usuarios": "29",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR1 / 66-5513",
+      "usuarios": "152",
+      "normalizacion": "2022-01-01 10:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR1 / 51-5511",
+      "usuarios": "256",
+      "normalizacion": "2022-01-01 10:00"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "VILLA ADELINA (SI)",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR1 / 266-5541",
+      "usuarios": "621",
+      "normalizacion": "2022-01-01 10:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "subestacion_alimentador": "- / R:MORON / 67-TR4 / 67-5527",
+      "usuarios": "750",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "CAMPO DE MAYO",
+      "subestacion_alimentador": "- / R:MORON / 67-TR4 / 67-5527",
+      "usuarios": "54",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "usuarios": "43"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA ORTUZAR",
+      "usuarios": "28"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA URQUIZA",
+      "usuarios": "30"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN GREGORIO LAS HERAS",
+      "usuarios": "66"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "70"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "22"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "47"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "usuarios": "28"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "21"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "1"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "usuarios": "28"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "19"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "usuarios": "11"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "usuarios": "27"
+    }
+  ]
+}
