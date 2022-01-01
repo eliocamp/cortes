@@ -1,0 +1,197 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "9.060",
+  "totalUsuariosConSuministro": "2.989.431",
+  "ultimaActualizacion": "10:30",
+  "totalUsuariosAyer": "41.223",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "7",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "VILLA BOSCH",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5515",
+      "usuarios": "807",
+      "normalizacion": "2022-01-01 14:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CHACARITA",
+      "subestacion_alimentador": "- / R:COLEGIALES / 46-TR3 / 46-5511",
+      "usuarios": "946",
+      "normalizacion": "2022-01-01 11:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "COLEGIALES",
+      "subestacion_alimentador": "- / R:COLEGIALES / 46-TR3 / 46-5511",
+      "usuarios": "268",
+      "normalizacion": "2022-01-01 11:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "subestacion_alimentador": "- / R:COLEGIALES / 46-TR3 / 46-5511",
+      "usuarios": "218",
+      "normalizacion": "2022-01-01 11:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "subestacion_alimentador": "- / R:MELO / 237-TR2 / 237-5533",
+      "usuarios": "16",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "BILLINGHURST",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5515",
+      "usuarios": "2954",
+      "normalizacion": "2022-01-01 14:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5531",
+      "usuarios": "1",
+      "normalizacion": "2022-01-01 12:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5526",
+      "usuarios": "7",
+      "normalizacion": "2022-01-01 12:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR1 / 51-5511",
+      "usuarios": "256",
+      "normalizacion": "2022-01-01 11:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "ZELAYA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR1 / 51-5513",
+      "usuarios": "1111",
+      "normalizacion": "2022-01-01 12:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "394",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "248",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "VILLA ADELINA (SI)",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR1 / 266-5541",
+      "usuarios": "621",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "subestacion_alimentador": "- / R:MORON / 67-TR4 / 67-5527",
+      "usuarios": "750",
+      "normalizacion": "2022-01-01 11:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "CAMPO DE MAYO",
+      "subestacion_alimentador": "- / R:MORON / 67-TR4 / 67-5527",
+      "usuarios": "54",
+      "normalizacion": "2022-01-01 11:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NU?EZ",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAAVEDRA",
+      "usuarios": "27"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA ORTUZAR",
+      "usuarios": "28"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA URQUIZA",
+      "usuarios": "30"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN GREGORIO LAS HERAS",
+      "usuarios": "66"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "47"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "usuarios": "28"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "1"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "usuarios": "37"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "usuarios": "3"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BECCAR",
+      "usuarios": "31"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "19"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RICARDO ROJAS",
+      "usuarios": "49"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "usuarios": "27"
+    }
+  ]
+}
