@@ -1,9 +1,9 @@
 {
   "fuente": "Web Service",
   "empresa": "EDESUR",
-  "totalUsuariosSinSuministro": "30.678",
-  "totalUsuariosConSuministro": "2.503.502",
-  "ultimaActualizacion": "16:00",
+  "totalUsuariosSinSuministro": "29.141",
+  "totalUsuariosConSuministro": "2.505.039",
+  "ultimaActualizacion": "16:30",
   "totalUsuariosAyer": "107.134",
   "cortesPreventivos": [],
   "cortesProgramados": [
@@ -28,28 +28,28 @@
       "localidad": "ZONA RURAL 1",
       "subestacion_alimentador": "271-CAnUELAS / R:271-2-27 / 271-2-27",
       "usuarios": "54",
-      "normalizacion": "2022-01-01 21:33"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "CAÑUELAS",
       "localidad": "ZONA RURAL 9",
       "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-17 / 270-1-17",
       "usuarios": "179",
-      "normalizacion": "2022-01-01 21:34"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "CAPITAL FEDERAL",
       "localidad": "ALMAGRO",
       "subestacion_alimentador": "49-PARQUE CENTENARIO / R:049-4-44 / 049-4-44",
       "usuarios": "589",
-      "normalizacion": "2022-01-01 21:28"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "CAPITAL FEDERAL",
       "localidad": "CABALLITO GP",
       "subestacion_alimentador": "218-ALBERDI / R:218-4-42 / 218-4-42",
       "usuarios": "4030",
-      "normalizacion": "2022-01-01 21:26"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "CAPITAL FEDERAL",
@@ -63,14 +63,14 @@
       "localidad": "CABALLITO GP",
       "subestacion_alimentador": "147-VILLA CRESPO / R:147-2-21 / 147-2-21",
       "usuarios": "2282",
-      "normalizacion": "2022-01-01 21:26"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "CAPITAL FEDERAL",
       "localidad": "LINIERS",
       "subestacion_alimentador": "38-LURO / R:038-2-21 / 038-2-21",
       "usuarios": "1895",
-      "normalizacion": "2022-01-01 21:25"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "CAPITAL FEDERAL",
@@ -112,21 +112,21 @@
       "localidad": "VERSALLES",
       "subestacion_alimentador": "38-LURO / R:038-1-15 / 038-1-15",
       "usuarios": "522",
-      "normalizacion": "2022-01-01 21:27"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "CAPITAL FEDERAL",
       "localidad": "VILLA CRESPO",
       "subestacion_alimentador": "147-VILLA CRESPO / R:147-2-21 / 147-2-21",
       "usuarios": "754",
-      "normalizacion": "2022-01-01 21:26"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "CAPITAL FEDERAL",
       "localidad": "VILLA CRESPO",
       "subestacion_alimentador": "218-ALBERDI / R:218-4-42 / 218-4-42",
       "usuarios": "22",
-      "normalizacion": "2022-01-01 21:26"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "EZEIZA",
@@ -164,18 +164,11 @@
       "normalizacion": "2022-01-01 17:38"
     },
     {
-      "partido": "PTE PERON",
-      "localidad": "SAN PABLO",
-      "subestacion_alimentador": "277-GLEW / R:277-4-42 / 277-4-42",
-      "usuarios": "1722",
-      "normalizacion": "2022-01-01 21:28"
-    },
-    {
       "partido": "QUILMES",
       "localidad": "SAN FRANCISCO SOLANO (Q)",
       "subestacion_alimentador": "85-CALCHAQUI / R:085-2-23 / 085-2-23",
       "usuarios": "173",
-      "normalizacion": "2022-01-01 21:34"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "SAN VICENTE",
@@ -183,6 +176,20 @@
       "subestacion_alimentador": "271-CAnUELAS / N:271-4-81 / 271-4-81",
       "usuarios": "1603",
       "normalizacion": "2022-01-01 18:58"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "277-GLEW / R:277-1-18 / 277-1-18",
+      "usuarios": "26",
+      "normalizacion": "2022-01-01 18:22"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27",
+      "usuarios": "160",
+      "normalizacion": "Sin datos"
     }
   ],
   "cortesComunicados": [],
@@ -193,14 +200,14 @@
       "usuarios": "33"
     },
     {
-      "partido": "AVELLANEDA",
-      "localidad": "WILDE",
-      "usuarios": "2"
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "usuarios": "11"
     },
     {
       "partido": "CAPITAL",
       "localidad": "ALMAGRO",
-      "usuarios": "44"
+      "usuarios": "29"
     },
     {
       "partido": "CAPITAL",
@@ -220,12 +227,12 @@
     {
       "partido": "CAPITAL",
       "localidad": "CABALLITO",
-      "usuarios": "117"
+      "usuarios": "109"
     },
     {
       "partido": "CAPITAL",
       "localidad": "CAPITAL",
-      "usuarios": "837"
+      "usuarios": "115"
     },
     {
       "partido": "CAPITAL",
@@ -245,7 +252,7 @@
     {
       "partido": "CAPITAL",
       "localidad": "MONTE CASTRO",
-      "usuarios": "36"
+      "usuarios": "42"
     },
     {
       "partido": "CAPITAL",
@@ -269,6 +276,11 @@
     },
     {
       "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "743"
+    },
+    {
+      "partido": "CAPITAL",
       "localidad": "VILLA SOLDATI",
       "usuarios": "17"
     },
@@ -280,7 +292,7 @@
     {
       "partido": "LANUS",
       "localidad": "LANUS",
-      "usuarios": "173"
+      "usuarios": "152"
     },
     {
       "partido": "LANUS",
@@ -308,11 +320,6 @@
       "usuarios": "20"
     },
     {
-      "partido": "PTE PERON",
-      "localidad": "GUERNICA",
-      "usuarios": "2"
-    },
-    {
       "partido": "SAN VICENTE",
       "localidad": "ALEJANDRO KORN",
       "usuarios": "7"
@@ -320,7 +327,7 @@
     {
       "partido": "SAN VICENTE",
       "localidad": "SAN VICENTE",
-      "usuarios": "17"
+      "usuarios": "26"
     }
   ]
 }

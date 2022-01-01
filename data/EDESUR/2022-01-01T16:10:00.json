@@ -1,9 +1,9 @@
 {
   "fuente": "Web Service",
   "empresa": "EDESUR",
-  "totalUsuariosSinSuministro": "30.678",
-  "totalUsuariosConSuministro": "2.503.502",
-  "ultimaActualizacion": "16:00",
+  "totalUsuariosSinSuministro": "30.861",
+  "totalUsuariosConSuministro": "2.503.319",
+  "ultimaActualizacion": "16:10",
   "totalUsuariosAyer": "107.134",
   "cortesPreventivos": [],
   "cortesProgramados": [
@@ -28,14 +28,14 @@
       "localidad": "ZONA RURAL 1",
       "subestacion_alimentador": "271-CAnUELAS / R:271-2-27 / 271-2-27",
       "usuarios": "54",
-      "normalizacion": "2022-01-01 21:33"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "CAÑUELAS",
       "localidad": "ZONA RURAL 9",
       "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-17 / 270-1-17",
       "usuarios": "179",
-      "normalizacion": "2022-01-01 21:34"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "CAPITAL FEDERAL",
@@ -175,7 +175,7 @@
       "localidad": "SAN FRANCISCO SOLANO (Q)",
       "subestacion_alimentador": "85-CALCHAQUI / R:085-2-23 / 085-2-23",
       "usuarios": "173",
-      "normalizacion": "2022-01-01 21:34"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "SAN VICENTE",
@@ -183,6 +183,20 @@
       "subestacion_alimentador": "271-CAnUELAS / N:271-4-81 / 271-4-81",
       "usuarios": "1603",
       "normalizacion": "2022-01-01 18:58"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "277-GLEW / R:277-1-18 / 277-1-18",
+      "usuarios": "26",
+      "normalizacion": "2022-01-01 18:22"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27",
+      "usuarios": "160",
+      "normalizacion": "Sin datos"
     }
   ],
   "cortesComunicados": [],
@@ -191,11 +205,6 @@
       "partido": "AVELLANEDA",
       "localidad": "AVELLANEDA",
       "usuarios": "33"
-    },
-    {
-      "partido": "AVELLANEDA",
-      "localidad": "WILDE",
-      "usuarios": "2"
     },
     {
       "partido": "CAPITAL",
@@ -225,7 +234,7 @@
     {
       "partido": "CAPITAL",
       "localidad": "CAPITAL",
-      "usuarios": "837"
+      "usuarios": "115"
     },
     {
       "partido": "CAPITAL",
@@ -269,6 +278,11 @@
     },
     {
       "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "722"
+    },
+    {
+      "partido": "CAPITAL",
       "localidad": "VILLA SOLDATI",
       "usuarios": "17"
     },
@@ -280,7 +294,7 @@
     {
       "partido": "LANUS",
       "localidad": "LANUS",
-      "usuarios": "173"
+      "usuarios": "174"
     },
     {
       "partido": "LANUS",
@@ -306,11 +320,6 @@
       "partido": "LOMAS DE ZAMORA",
       "localidad": "TEMPERLEY",
       "usuarios": "20"
-    },
-    {
-      "partido": "PTE PERON",
-      "localidad": "GUERNICA",
-      "usuarios": "2"
     },
     {
       "partido": "SAN VICENTE",
