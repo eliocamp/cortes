@@ -1,3 +1,5 @@
+renv::activate(profile = NULL)   # Use default profile
+
 get_data <- function(url) {
   a <- httr::GET(url)
   text <- httr::content(a, as = "text", encoding = "UTF-8")
