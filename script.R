@@ -20,7 +20,7 @@ get_data <- function(url) {
   }
   
   if (hash != last_hash) {
-    file <- file.path("data", data[["empresa"]], paste0(format(date, "%Y-%M-%dT%H:%M:%S"), ".json"))
+    file <- file.path("data", data[["empresa"]], paste0(format(date, "%Y-%m-%dT%H:%M:%S"), ".json"))
     jsonlite::write_json(data, file, pretty= TRUE, auto_unbox = TRUE)
     writeLines(hash, data[["empresa"]])
     gert::git_add(c(file, data[["empresa"]]))
