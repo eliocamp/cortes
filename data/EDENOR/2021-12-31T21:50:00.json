@@ -1,0 +1,76 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.099",
+  "totalUsuariosConSuministro": "2.997.392",
+  "ultimaActualizacion": "21:50",
+  "totalUsuariosAyer": "52.366",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR1 / 167-5512",
+      "usuarios": "222",
+      "normalizacion": "2021-12-31 23:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR1 / 167-5512",
+      "usuarios": "31",
+      "normalizacion": "2021-12-31 23:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VILLA MARTELLI",
+      "subestacion_alimentador": "- / R:MUNRO / 55-TR2 / 55-5527",
+      "usuarios": "700",
+      "normalizacion": "2021-12-31 23:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA ORTUZAR",
+      "usuarios": "25"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA URQUIZA",
+      "usuarios": "30"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "23"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "6"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "19"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DIQUE LUJAN",
+      "usuarios": "5"
+    }
+  ]
+}
