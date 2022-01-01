@@ -9,7 +9,7 @@ dates <-  as.POSIXct(
   format = "%Y-%m-%dT%H:%M:%S")
 
 
-yesterday <- as.numeric(Sys.time() - dates)/60/24 < 1
+yesterday <- (as.numeric(Sys.time()) - as.numeric(dates))/3600 < 24
 files <- files[yesterday]
 
 as_number <- function(x) {
