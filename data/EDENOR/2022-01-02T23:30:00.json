@@ -1,0 +1,115 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "4.597",
+  "totalUsuariosConSuministro": "2.993.894",
+  "ultimaActualizacion": "23:30",
+  "totalUsuariosAyer": "74.354",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR4 / 59-5545",
+      "usuarios": "202",
+      "normalizacion": "2022-01-03 03:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR4 / 59-5545",
+      "usuarios": "2627",
+      "normalizacion": "2022-01-03 03:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR1 / 59-5513",
+      "usuarios": "943",
+      "normalizacion": "2022-01-03 01:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR4 / 59-5545",
+      "usuarios": "168",
+      "normalizacion": "2022-01-03 03:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MAQUINISTA SAVIO",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR4 / 59-5545",
+      "usuarios": "301",
+      "normalizacion": "2022-01-03 03:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA ORTUZAR",
+      "usuarios": "14"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "usuarios": "20"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "usuarios": "44"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "19"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "VILLA TESEI",
+      "usuarios": "44"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "39"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "23"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "24"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "73"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "19"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "usuarios": "27"
+    }
+  ]
+}
