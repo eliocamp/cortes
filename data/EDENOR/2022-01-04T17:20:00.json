@@ -1,0 +1,144 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.381",
+  "totalUsuariosConSuministro": "2.997.110",
+  "ultimaActualizacion": "17:20",
+  "totalUsuariosAyer": "26.970",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "MU?IZ",
+      "subestacion_alimentador": "- / R:MUNIZ / 265-TR2 / 265-5527",
+      "usuarios": "50",
+      "normalizacion": "2022-01-04 18:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5527",
+      "usuarios": "309",
+      "normalizacion": "2022-01-04 18:00"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "subestacion_alimentador": "- / R:LUZURIAGA / 64-TR2 / 64-5521",
+      "usuarios": "476",
+      "normalizacion": "2022-01-04 19:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR1 / 51-5516",
+      "usuarios": "73",
+      "normalizacion": "2022-01-04 18:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "40"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "COLEGIALES",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NU?EZ",
+      "usuarios": "28"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAAVEDRA",
+      "usuarios": "24"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA URQUIZA",
+      "usuarios": "18"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "24"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "28"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "VILLA TESEI",
+      "usuarios": "47"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "11"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "PABLO NOGUES",
+      "usuarios": "61"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "VILLA DE MAYO",
+      "usuarios": "44"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "6"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "usuarios": "18"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "40"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "MUÑIZ",
+      "usuarios": "10"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "4"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "usuarios": "33"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "usuarios": "5"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VICENTE LOPEZ",
+      "usuarios": "5"
+    }
+  ]
+}
