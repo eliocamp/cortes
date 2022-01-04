@@ -1,0 +1,105 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "16.335",
+  "totalUsuariosConSuministro": "2.517.845",
+  "ultimaActualizacion": "22:25",
+  "totalUsuariosAyer": "33.859",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORESTA",
+      "subestacion_alimentador": "218-ALBERDI / R:218-3-38 / 218-3-38",
+      "usuarios": "189",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LINIERS",
+      "subestacion_alimentador": "38-LURO / R:038-3-35 / 038-3-35",
+      "usuarios": "1631",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LINIERS",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-24 / 043-2-24",
+      "usuarios": "1326",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-3-38 / 048-3-38",
+      "usuarios": "2011",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VELEZ SARFIELD",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-3-38 / 048-3-38",
+      "usuarios": "788",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VELEZ SARFIELD",
+      "subestacion_alimentador": "218-ALBERDI / R:218-3-38 / 218-3-38",
+      "usuarios": "2571",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VELEZ SARFIELD",
+      "subestacion_alimentador": "16-FALCON / R:016-3-33 / 016-3-33",
+      "usuarios": "1586",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-2-22 / 184-2-22",
+      "usuarios": "4",
+      "normalizacion": "2022-01-04 03:54"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LINIERS",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-22 / 043-2-22",
+      "usuarios": "1047",
+      "normalizacion": "2022-01-04 03:40"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MATADEROS",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-22 / 043-2-22",
+      "usuarios": "681",
+      "normalizacion": "2022-01-04 03:40"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MATADEROS",
+      "subestacion_alimentador": "953- / R:953-1-03 / 953-1-03",
+      "usuarios": "2057",
+      "normalizacion": "2022-01-04 03:40"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-2-22 / 184-2-22",
+      "usuarios": "585",
+      "normalizacion": "2022-01-04 03:54"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORESTA",
+      "usuarios": "1859"
+    }
+  ]
+}
