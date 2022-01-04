@@ -1,0 +1,260 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "12.588",
+  "totalUsuariosConSuministro": "2.985.903",
+  "ultimaActualizacion": "10:40",
+  "totalUsuariosAyer": "26.970",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "subestacion_alimentador": "- / R:SAN JUSTO / 164-TR1 / 164-5514",
+      "usuarios": "311",
+      "normalizacion": "2022-01-04 12:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR4 / 353-5481",
+      "usuarios": "1",
+      "normalizacion": "2022-01-04 12:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR1 / 256-5547",
+      "usuarios": "439",
+      "normalizacion": "2022-01-04 11:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "MU?IZ",
+      "subestacion_alimentador": "- / R:MUNIZ / 265-TR2 / 265-5527",
+      "usuarios": "50",
+      "normalizacion": "2022-01-04 11:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR1 / 365-5516",
+      "usuarios": "41",
+      "normalizacion": "2022-01-04 12:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5475",
+      "usuarios": "161",
+      "normalizacion": "2022-01-04 12:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR1 / 365-5516",
+      "usuarios": "703",
+      "normalizacion": "2022-01-04 12:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR4",
+      "usuarios": "387",
+      "normalizacion": "2022-01-04 11:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / 362-TR1 / 362-5547",
+      "usuarios": "3263",
+      "normalizacion": "2022-01-04 14:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR1 / 252-5548",
+      "usuarios": "726",
+      "normalizacion": "2022-01-04 11:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "VILLA DE MAYO",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / 362-TR1 / 362-5547",
+      "usuarios": "394",
+      "normalizacion": "2022-01-04 14:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR2 / 258-5523",
+      "usuarios": "1765",
+      "normalizacion": "2022-01-04 12:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR2 / 258-5523",
+      "usuarios": "1580",
+      "normalizacion": "2022-01-04 12:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "PONTEVEDRA",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR1 / 365-5516",
+      "usuarios": "8",
+      "normalizacion": "2022-01-04 12:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR1 / 256-5548",
+      "usuarios": "1215",
+      "normalizacion": "2022-01-04 11:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VIRREYES",
+      "subestacion_alimentador": "- / R:S.FERNANDO / 351-TR1 / 351-5517 / 351-5525 / 351-5528",
+      "usuarios": "388",
+      "normalizacion": "2022-01-04 11:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR3 / 154-5474 / 951-5522",
+      "usuarios": "113",
+      "normalizacion": "2022-01-04 12:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NU?EZ",
+      "usuarios": "28"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAAVEDRA",
+      "usuarios": "44"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA URQUIZA",
+      "usuarios": "85"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "24"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "usuarios": "119"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JOSE LEON SUAREZ",
+      "usuarios": "47"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "VILLA TESEI",
+      "usuarios": "54"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "ITUZAINGO",
+      "usuarios": "91"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "60"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "72"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "22"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LOMAS DEL MIRADOR",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "usuarios": "36"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TIERRAS ALTAS",
+      "usuarios": "14"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "VILLA DE MAYO",
+      "usuarios": "26"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "22"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "116"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "HAEDO",
+      "usuarios": "18"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BECCAR",
+      "usuarios": "20"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "42"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "usuarios": "69"
+    }
+  ]
+}
