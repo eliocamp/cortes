@@ -1,0 +1,78 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.590",
+  "totalUsuariosConSuministro": "2.996.901",
+  "ultimaActualizacion": "23:30",
+  "totalUsuariosAyer": "26.970",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5526",
+      "usuarios": "20",
+      "normalizacion": "2022-01-05 00:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "57",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "VILLA ADELINA (SI)",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR1 / 266-5541",
+      "usuarios": "794",
+      "normalizacion": "2022-01-05 00:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VILLA ADELINA (VL)",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR1 / 266-5541",
+      "usuarios": "577",
+      "normalizacion": "2022-01-05 00:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAAVEDRA",
+      "usuarios": "24"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "18"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "54"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VIRREYES",
+      "usuarios": "10"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "usuarios": "9"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "CARAPACHAY",
+      "usuarios": "5"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "FLORIDA",
+      "usuarios": "22"
+    }
+  ]
+}
