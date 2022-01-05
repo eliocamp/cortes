@@ -1,0 +1,96 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.536",
+  "totalUsuariosConSuministro": "2.996.955",
+  "ultimaActualizacion": "16:50",
+  "totalUsuariosAyer": "54.490",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR4",
+      "usuarios": "250",
+      "normalizacion": "2022-01-05 18:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR1 / 168-5471",
+      "usuarios": "201",
+      "normalizacion": "2022-01-05 19:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR1 / 169-5534",
+      "usuarios": "117",
+      "normalizacion": "2022-01-05 18:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR1 / 169-5534",
+      "usuarios": "1",
+      "normalizacion": "2022-01-05 18:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "ZELAYA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5525",
+      "usuarios": "209",
+      "normalizacion": "2022-01-05 17:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "203",
+      "normalizacion": "2022-01-05 18:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "103",
+      "normalizacion": "2022-01-05 18:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VICTORIA",
+      "subestacion_alimentador": "- / R:VICTORIA / 53-TR2 / 53-5532",
+      "usuarios": "349",
+      "normalizacion": "2022-01-05 17:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "usuarios": "28"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "15"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "12"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "GENERAL PACHECO",
+      "usuarios": "47"
+    }
+  ]
+}
