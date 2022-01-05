@@ -1,0 +1,189 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "6.159",
+  "totalUsuariosConSuministro": "2.528.021",
+  "ultimaActualizacion": "19:25",
+  "totalUsuariosAyer": "80.069",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-23 / 043-2-23",
+      "usuarios": "4",
+      "normalizacion": "2022-01-06 00:07"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LINIERS",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-23 / 043-2-23",
+      "usuarios": "506",
+      "normalizacion": "2022-01-06 00:07"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MATADEROS",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-23 / 043-2-23",
+      "usuarios": "522",
+      "normalizacion": "2022-01-06 00:07"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI L",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-23 / 043-2-23",
+      "usuarios": "181",
+      "normalizacion": "2022-01-06 00:07"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-23 / 043-2-23",
+      "usuarios": "1111",
+      "normalizacion": "2022-01-06 00:07"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-23 / 043-2-23",
+      "usuarios": "1061",
+      "normalizacion": "2022-01-06 00:07"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "subestacion_alimentador": "180-ALMIRANTE BROWN / R:180-3-33 / 180-3-33",
+      "usuarios": "40",
+      "normalizacion": "2022-01-05 22:46"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI CENTRO",
+      "subestacion_alimentador": "80-EZPELETA / R:080-5-53 / 080-5-53",
+      "usuarios": "586",
+      "normalizacion": "2022-01-06 00:49"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-4-46 / 182-4-46",
+      "usuarios": "843",
+      "normalizacion": "2022-01-05 21:48"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "73"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "64"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "112"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "56"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "278"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "26"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "28"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "85"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONTE CASTRO",
+      "usuarios": "21"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "55"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "83"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "90"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VELEZ SARFIELD",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "100"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "32"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "41"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "46"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "16"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "6"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "49"
+    }
+  ]
+}
