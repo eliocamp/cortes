@@ -1,0 +1,108 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.676",
+  "totalUsuariosConSuministro": "2.996.815",
+  "ultimaActualizacion": "20:40",
+  "totalUsuariosAyer": "54.490",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5481 / 132-5511",
+      "usuarios": "2",
+      "normalizacion": "2022-01-05 21:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "4",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA PUEYRRED?N",
+      "subestacion_alimentador": "- / R:AGRONOMIA / 47-TR5 / 47-5562",
+      "usuarios": "941",
+      "normalizacion": "2022-01-05 22:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR1 / 258-5541",
+      "usuarios": "4",
+      "normalizacion": "2022-01-05 22:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "386",
+      "normalizacion": "2022-01-05 21:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "163",
+      "normalizacion": "2022-01-05 21:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "usuarios": "70"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "VILLA UDAONDO",
+      "usuarios": "32"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "37"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "11"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "4"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "12"
+    }
+  ]
+}
