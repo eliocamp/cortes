@@ -1,0 +1,63 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.930",
+  "totalUsuariosConSuministro": "2.996.561",
+  "ultimaActualizacion": "6:50",
+  "totalUsuariosAyer": "26.742",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "3",
+      "normalizacion": "2022-01-06 08:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "256",
+      "normalizacion": "2022-01-06 08:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "211",
+      "normalizacion": "2022-01-06 08:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "subestacion_alimentador": "- / R:V.LOPEZ / 50-TR1 / 50-5511",
+      "usuarios": "1421",
+      "normalizacion": "2022-01-06 07:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA PUEYRRED?N",
+      "usuarios": "18"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "12"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "usuarios": "5"
+    }
+  ]
+}

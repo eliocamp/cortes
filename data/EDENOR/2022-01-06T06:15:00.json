@@ -1,0 +1,77 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "5.611",
+  "totalUsuariosConSuministro": "2.992.880",
+  "ultimaActualizacion": "6:15",
+  "totalUsuariosAyer": "26.742",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "3",
+      "normalizacion": "2022-01-06 08:00"
+    },
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:LAS HERAS / 269-TR2 / 269-5512",
+      "usuarios": "885",
+      "normalizacion": "2022-01-06 10:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "256",
+      "normalizacion": "2022-01-06 07:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "211",
+      "normalizacion": "2022-01-06 08:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "LA LUCILA",
+      "subestacion_alimentador": "- / R:V.LOPEZ / 50-TR1 / 50-5511",
+      "usuarios": "458",
+      "normalizacion": "2022-01-06 10:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "subestacion_alimentador": "- / R:V.LOPEZ / 50-TR1 / 50-5511",
+      "usuarios": "3759",
+      "normalizacion": "2022-01-06 10:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA PUEYRRED?N",
+      "usuarios": "18"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "12"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "usuarios": "5"
+    }
+  ]
+}
