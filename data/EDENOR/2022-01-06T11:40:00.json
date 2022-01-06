@@ -1,0 +1,97 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.977",
+  "totalUsuariosConSuministro": "2.996.514",
+  "ultimaActualizacion": "11:40",
+  "totalUsuariosAyer": "26.742",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:NOGUES / 159-TR1 / 159-5543",
+      "usuarios": "849",
+      "normalizacion": "2022-01-06 13:00"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:S.MIGUEL / 165-TR1 / 165-5517",
+      "usuarios": "247",
+      "normalizacion": "2022-01-06 12:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR4 / 65-5542",
+      "usuarios": "164",
+      "normalizacion": "2022-01-06 12:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "3",
+      "normalizacion": "2022-01-06 13:00"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:S.MIGUEL / 165-TR1 / 165-5517",
+      "usuarios": "247",
+      "normalizacion": "2022-01-06 12:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR2 / 258-5536",
+      "usuarios": "171",
+      "normalizacion": "2022-01-06 13:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "256",
+      "normalizacion": "2022-01-06 13:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "211",
+      "normalizacion": "2022-01-06 13:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA DEVOTO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA PUEYRRED?N",
+      "usuarios": "18"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA LYNCH",
+      "usuarios": "14"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "VILLA TESEI",
+      "usuarios": "22"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "usuarios": "6"
+    }
+  ]
+}
