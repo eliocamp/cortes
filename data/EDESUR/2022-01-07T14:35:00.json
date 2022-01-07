@@ -1,0 +1,149 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "9.581",
+  "totalUsuariosConSuministro": "2.524.599",
+  "ultimaActualizacion": "14:35",
+  "totalUsuariosAyer": "42.664",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-2-23 / 042-2-23",
+      "usuarios": "1124",
+      "normalizacion": "2022-01-07 18:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "GERLI A",
+      "subestacion_alimentador": "75-CORINA / R:075-2-25 / 075-2-25",
+      "usuarios": "826",
+      "normalizacion": "2022-01-07 17:55"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "subestacion_alimentador": "75-CORINA / R:075-2-25 / 075-2-25",
+      "usuarios": "561",
+      "normalizacion": "2022-01-07 17:55"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "186-GERLI / R:186-4-44 / 186-4-44",
+      "usuarios": "947",
+      "normalizacion": "2022-01-07 18:00"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "1033",
+      "normalizacion": "2022-01-07 16:57"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "82-BURZACO / R:082-3-982 / 082-3-982",
+      "usuarios": "2458",
+      "normalizacion": "2022-01-07 18:20"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-4-81 / 271-4-81",
+      "usuarios": "482",
+      "normalizacion": "2022-01-07 18:03"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "subestacion_alimentador": "277-GLEW / R:277-4-47 / 277-4-47 / 082-3-982",
+      "usuarios": "1610",
+      "normalizacion": "2022-01-07 18:02"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "82-BURZACO / R:082-3-982 / 082-3-982",
+      "usuarios": "61",
+      "normalizacion": "2022-01-07 18:20"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "35"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "133"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "86"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "16"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "1"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "RECOLETA",
+      "usuarios": "19"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "62"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA GENERAL MITRE",
+      "usuarios": "35"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "22"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "20"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "32"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "1"
+    }
+  ]
+}
