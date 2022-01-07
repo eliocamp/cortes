@@ -1,0 +1,67 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.650",
+  "totalUsuariosConSuministro": "2.995.841",
+  "ultimaActualizacion": "4:20",
+  "totalUsuariosAyer": "18.093",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "subestacion_alimentador": "- / R:CASTELAR / 61-TR1 / 61-5545",
+      "usuarios": "2361",
+      "normalizacion": "2022-01-07 06:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "VILLA BOSCH",
+      "usuarios": "42"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "usuarios": "58"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN GREGORIO LAS HERAS",
+      "usuarios": "54"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "25"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "37"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "7"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "HAEDO",
+      "usuarios": "17"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "usuarios": "19"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "GENERAL PACHECO",
+      "usuarios": "30"
+    }
+  ]
+}
