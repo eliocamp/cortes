@@ -1,0 +1,70 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.953",
+  "totalUsuariosConSuministro": "2.996.538",
+  "ultimaActualizacion": "13:35",
+  "totalUsuariosAyer": "20.096",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR1 / 59-5516",
+      "usuarios": "1",
+      "normalizacion": "2022-01-08 14:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5536",
+      "usuarios": "1",
+      "normalizacion": "2022-01-08 14:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:MERLO / 62-TR4 / 62-5542",
+      "usuarios": "171",
+      "normalizacion": "2022-01-08 15:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR2 / 158-5522",
+      "usuarios": "1",
+      "normalizacion": "2022-01-08 15:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR4 / 158-5471",
+      "usuarios": "1",
+      "normalizacion": "2022-01-08 17:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR2 / 260-5524",
+      "usuarios": "117",
+      "normalizacion": "2022-01-08 14:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "subestacion_alimentador": "- / R:MERLO / 62-TR1 / 62-5511",
+      "usuarios": "1654",
+      "normalizacion": "2022-01-08 17:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA PUEYRRED?N",
+      "usuarios": "7"
+    }
+  ]
+}
