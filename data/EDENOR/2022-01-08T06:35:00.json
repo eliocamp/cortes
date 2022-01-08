@@ -1,0 +1,57 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.303",
+  "totalUsuariosConSuministro": "2.997.188",
+  "ultimaActualizacion": "6:35",
+  "totalUsuariosAyer": "20.096",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:MERLO / 62-TR4 / 62-5542",
+      "usuarios": "171",
+      "normalizacion": "2022-01-08 07:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5521",
+      "usuarios": "8",
+      "normalizacion": "2022-01-08 10:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5521",
+      "usuarios": "1029",
+      "normalizacion": "2022-01-08 10:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA PUEYRRED?N",
+      "usuarios": "7"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VIRREYES",
+      "usuarios": "36"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "MUÑIZ",
+      "usuarios": "48"
+    }
+  ]
+}

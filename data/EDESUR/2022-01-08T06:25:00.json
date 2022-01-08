@@ -1,0 +1,102 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "6.985",
+  "totalUsuariosConSuministro": "2.527.195",
+  "ultimaActualizacion": "6:25",
+  "totalUsuariosAyer": "51.147",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "subestacion_alimentador": "279-9 DE JULIO / R:279-1-18 / 279-1-18",
+      "usuarios": "537",
+      "normalizacion": "2022-01-08 09:59"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "GERLI A",
+      "subestacion_alimentador": "279-9 DE JULIO / R:279-1-18 / 279-1-18",
+      "usuarios": "1",
+      "normalizacion": "2022-01-08 09:59"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "subestacion_alimentador": "279-9 DE JULIO / R:279-1-18 / 279-1-18",
+      "usuarios": "2050",
+      "normalizacion": "2022-01-08 09:59"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORESTA",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-2-25 / 048-2-25",
+      "usuarios": "108",
+      "normalizacion": "2022-01-08 07:36"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VELEZ SARFIELD",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-2-25 / 048-2-25",
+      "usuarios": "1727",
+      "normalizacion": "2022-01-08 07:36"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "subestacion_alimentador": "82-BURZACO / R:082-3-982 / 082-3-982",
+      "usuarios": "2380",
+      "normalizacion": "2022-01-08 09:55"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "18"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "46"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "12"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "29"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "23"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA CENTENARIO",
+      "usuarios": "17"
+    }
+  ]
+}
