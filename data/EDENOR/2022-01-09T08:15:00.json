@@ -1,0 +1,59 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.420",
+  "totalUsuariosConSuministro": "2.997.071",
+  "ultimaActualizacion": "8:15",
+  "totalUsuariosAyer": "17.129",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:MERLO / 62-TR4 / 62-5542",
+      "usuarios": "171",
+      "normalizacion": "2022-01-09 09:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5523",
+      "usuarios": "91",
+      "normalizacion": "2022-01-09 09:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5521",
+      "usuarios": "8",
+      "normalizacion": "2022-01-09 12:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5521",
+      "usuarios": "1051",
+      "normalizacion": "2022-01-09 12:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "51"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "29"
+    }
+  ]
+}

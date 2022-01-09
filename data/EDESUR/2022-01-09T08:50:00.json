@@ -1,0 +1,124 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "5.859",
+  "totalUsuariosConSuministro": "2.528.321",
+  "ultimaActualizacion": "8:50",
+  "totalUsuariosAyer": "30.870",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CANUELAS",
+      "localidad": "CANUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "4",
+      "normalizacion": "2022-01-09 12:41"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "116",
+      "normalizacion": "2022-01-09 13:30"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "URIBELARREA",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "3",
+      "normalizacion": "2022-01-09 13:30"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 4",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "23",
+      "normalizacion": "2022-01-09 13:30"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "71",
+      "normalizacion": "2022-01-09 13:30"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "2114",
+      "normalizacion": "2022-01-09 12:41"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "3341",
+      "normalizacion": "2022-01-09 12:41"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "17"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "GLEW",
+      "usuarios": "8"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "usuarios": "42"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "24"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "15"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "RECOLETA",
+      "usuarios": "3"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "24"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "5"
+    }
+  ]
+}
