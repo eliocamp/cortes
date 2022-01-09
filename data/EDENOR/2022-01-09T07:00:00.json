@@ -1,0 +1,64 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.428",
+  "totalUsuariosConSuministro": "2.997.063",
+  "ultimaActualizacion": "7:00",
+  "totalUsuariosAyer": "17.129",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:MERLO / 62-TR4 / 62-5542",
+      "usuarios": "171",
+      "normalizacion": "2022-01-09 08:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR2 / 69-5527",
+      "usuarios": "609",
+      "normalizacion": "2022-01-09 10:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "JOSE INGENIEROS",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR2 / 69-5527",
+      "usuarios": "411",
+      "normalizacion": "2022-01-09 10:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5523",
+      "usuarios": "91",
+      "normalizacion": "2022-01-09 08:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "40"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "51"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "36"
+    }
+  ]
+}
