@@ -1,0 +1,93 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "219",
+  "totalUsuariosConSuministro": "2.998.272",
+  "ultimaActualizacion": "13:10",
+  "totalUsuariosAyer": "17.129",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MERLO / 62-TR1 / 62-5518",
+      "usuarios": "4",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "BERNARDO MONTEAGUDO",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR1 / 54-5518",
+      "usuarios": "1",
+      "normalizacion": "2022-01-09 14:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "CHACABUCO",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR2 / 54-5526",
+      "usuarios": "22",
+      "normalizacion": "2022-01-09 14:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MERLO / 62-TR1 / 62-5518",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "subestacion_alimentador": "- / R:MERLO / 62-TR1 / 62-5518",
+      "usuarios": "3",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5523",
+      "usuarios": "91",
+      "normalizacion": "2022-01-09 14:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "usuarios": "9"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "13"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "27"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "usuarios": "20"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "usuarios": "5"
+    }
+  ]
+}

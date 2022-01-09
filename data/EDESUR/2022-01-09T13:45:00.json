@@ -1,0 +1,100 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "5.049",
+  "totalUsuariosConSuministro": "2.529.131",
+  "ultimaActualizacion": "13:45",
+  "totalUsuariosAyer": "30.870",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA DEL PARQUE",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-1-14 / 042-1-14 / 042-1-18",
+      "usuarios": "510",
+      "normalizacion": "2022-01-10 00:04"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "URIBELARREA",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "3",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 4",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "13",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "21",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MONSERRAT",
+      "subestacion_alimentador": "210-CARLOS PELLEGRINI / R:210-1-01 / 210-1-01",
+      "usuarios": "1040",
+      "normalizacion": "2022-01-09 15:17"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "7",
+      "normalizacion": "2022-01-09 18:41"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "3341",
+      "normalizacion": "2022-01-09 18:41"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "61"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "RECOLETA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "usuarios": "1"
+    }
+  ]
+}
