@@ -1,0 +1,107 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "7.118",
+  "totalUsuariosConSuministro": "2.527.062",
+  "ultimaActualizacion": "9:15",
+  "totalUsuariosAyer": "20.034",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA DEL PARQUE",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-1-14 / 042-1-14 / 042-1-18",
+      "usuarios": "510",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-2-24 / 077-2-24",
+      "usuarios": "467",
+      "normalizacion": "2022-01-10 14:19"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BALVANERA RP",
+      "subestacion_alimentador": "113-ONCE / R:113-3-31 / 113-3-31",
+      "usuarios": "2096",
+      "normalizacion": "2022-01-10 11:30"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN NICOLAS",
+      "subestacion_alimentador": "211-RECONQUISTA / R:211-2-15 / 211-2-15",
+      "usuarios": "17",
+      "normalizacion": "2022-01-10 14:17"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-3-34 / 083-3-34",
+      "usuarios": "8",
+      "normalizacion": "2022-01-10 14:17"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-3-34 / 083-3-34",
+      "usuarios": "575",
+      "normalizacion": "2022-01-10 14:17"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "7",
+      "normalizacion": "2022-01-10 14:16"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "3341",
+      "normalizacion": "2022-01-10 14:16"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "15"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "30"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "8"
+    }
+  ]
+}
