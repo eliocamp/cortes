@@ -1,0 +1,39 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "547",
+  "totalUsuariosConSuministro": "2.997.944",
+  "ultimaActualizacion": "21:20",
+  "totalUsuariosAyer": "17.129",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:ALTOS / 272-TR1 / 272-5515",
+      "usuarios": "156",
+      "normalizacion": "2022-01-09 22:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:ALTOS / 272-TR1 / 272-5515",
+      "usuarios": "314",
+      "normalizacion": "2022-01-09 22:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "usuarios": "71"
+    }
+  ]
+}
