@@ -1,0 +1,134 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "10.985",
+  "totalUsuariosConSuministro": "2.523.195",
+  "ultimaActualizacion": "0:55",
+  "totalUsuariosAyer": "12.642",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA DEL PARQUE",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-1-14 / 042-1-14 / 042-1-18",
+      "usuarios": "510",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MONSERRAT",
+      "subestacion_alimentador": "210-CARLOS PELLEGRINI / R:210-1-01 / 210-1-01",
+      "usuarios": "132",
+      "normalizacion": "2022-01-10 03:48"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "subestacion_alimentador": "117-PARANA / R:117-2-27 / 117-2-27",
+      "usuarios": "33",
+      "normalizacion": "2022-01-10 02:33"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN NICOLAS",
+      "subestacion_alimentador": "117-PARANA / R:117-2-27 / 117-2-27",
+      "usuarios": "196",
+      "normalizacion": "2022-01-10 02:33"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN NICOLAS",
+      "subestacion_alimentador": "211-RECONQUISTA / R:211-2-18 / 211-2-18",
+      "usuarios": "562",
+      "normalizacion": "2022-01-10 02:53"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS ESTE",
+      "subestacion_alimentador": "87-ESCALADA / R:087-1-0506 / 087-1-0506",
+      "usuarios": "1532",
+      "normalizacion": "2022-01-10 03:49"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "subestacion_alimentador": "87-ESCALADA / R:087-1-0506 / 087-1-0506",
+      "usuarios": "4208",
+      "normalizacion": "2022-01-10 03:49"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "7",
+      "normalizacion": "2022-01-10 03:47"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "3341",
+      "normalizacion": "2022-01-10 03:47"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "15"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "usuarios": "17"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "86"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "74"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "48"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "112"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "57"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "28"
+    }
+  ]
+}
