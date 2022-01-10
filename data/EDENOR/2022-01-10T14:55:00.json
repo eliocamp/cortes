@@ -1,0 +1,99 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.141",
+  "totalUsuariosConSuministro": "2.997.350",
+  "ultimaActualizacion": "14:55",
+  "totalUsuariosAyer": "21.829",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR3",
+      "usuarios": "1",
+      "normalizacion": "2022-01-10 15:00"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "VILLA ADELINA (SI)",
+      "subestacion_alimentador": "- / R:EDISON / 57-TR3 / 57-5538",
+      "usuarios": "1",
+      "normalizacion": "2022-01-10 15:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "MORON",
+      "localidad": "HAEDO",
+      "subestacion_alimentador": "- / R:CASTELAR / 61-TR1 / 61-5542",
+      "usuarios": "806",
+      "normalizacion": "2022-01-10 16:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ASTOLFI",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5524",
+      "usuarios": "6",
+      "normalizacion": "2022-01-10 16:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "CNEL JOSE ZAPIOLA",
+      "usuarios": "28"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "VILLA TESEI",
+      "usuarios": "21"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LOMAS DEL MIRADOR",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "SAN ANTONIO DE PADUA",
+      "usuarios": "98"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "EL PALOMAR",
+      "usuarios": "89"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "23"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VIRREYES",
+      "usuarios": "37"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VILLA MARTELLI",
+      "usuarios": "13"
+    }
+  ]
+}
