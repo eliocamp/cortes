@@ -1,0 +1,276 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.542",
+  "totalUsuariosConSuministro": "2.995.949",
+  "ultimaActualizacion": "6:10",
+  "totalUsuariosAyer": "27.027",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "PABLO NOGUES",
+      "subestacion_alimentador": "- / R:NOGUES / 159-TR1 / 159-5517",
+      "usuarios": "548",
+      "normalizacion": "2022-01-11 08:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR1 / 363-5516",
+      "usuarios": "9",
+      "normalizacion": "2022-01-11 08:00"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BECCAR",
+      "subestacion_alimentador": "- / R:VICTORIA / 53-TR1 / 53-5542",
+      "usuarios": "298",
+      "normalizacion": "2022-01-11 07:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CHACARITA",
+      "usuarios": "71"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "usuarios": "23"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "11"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "BERNARDO MONTEAGUDO",
+      "usuarios": "18"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "usuarios": "88"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GRAL EUGENIO NECOCHEA",
+      "usuarios": "6"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN M DE PUEYRREDON",
+      "usuarios": "52"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "SAN ANDRES",
+      "usuarios": "4"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "HURLINGHAM",
+      "usuarios": "10"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "VILLA TESEI",
+      "usuarios": "54"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "ITUZAINGO",
+      "usuarios": "77"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "VILLA UDAONDO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "134"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "27"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "16"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "usuarios": "55"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "49"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "16"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "TAPIALES",
+      "usuarios": "20"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA LUZURIAGA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "45"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "47"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "VILLA DE MAYO",
+      "usuarios": "78"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "PONTEVEDRA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "29"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "22"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "97"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "26"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "27"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "CASTELAR",
+      "usuarios": "35"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "EL PALOMAR",
+      "usuarios": "20"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "HAEDO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "4"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "usuarios": "21"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "106"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "9"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VIRREYES",
+      "usuarios": "37"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "usuarios": "16"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "18"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "usuarios": "19"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "usuarios": "1"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "usuarios": "8"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "GENERAL PACHECO",
+      "usuarios": "30"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RICARDO ROJAS",
+      "usuarios": "8"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "usuarios": "74"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "TRONCOS DEL TALAR",
+      "usuarios": "97"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "LA LUCILA",
+      "usuarios": "52"
+    }
+  ]
+}
