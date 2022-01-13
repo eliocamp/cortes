@@ -1,0 +1,129 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "606",
+  "totalUsuariosConSuministro": "2.997.885",
+  "ultimaActualizacion": "13:45",
+  "totalUsuariosAyer": "39.652",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:S.MIGUEL / 165-TR1 / 165-5513",
+      "usuarios": "1",
+      "normalizacion": "2022-01-13 14:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LOMAS DEL MIRADOR",
+      "subestacion_alimentador": "- / R:SAN JUSTO / 164-TR2 / 164-5526",
+      "usuarios": "1",
+      "normalizacion": "2022-01-13 14:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5524",
+      "usuarios": "8",
+      "normalizacion": "2022-01-13 14:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "subestacion_alimentador": "- / R:MORON / 67-TR2 / 67-5518",
+      "usuarios": "2",
+      "normalizacion": "2022-01-13 14:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "SAENZ PE?A",
+      "usuarios": "57"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "14"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C LIBERTADOR SAN MART?N",
+      "usuarios": "10"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "VILLA TESEI",
+      "usuarios": "24"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "ITUZAINGO",
+      "usuarios": "27"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "28"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "PABLO NOGUES",
+      "usuarios": "32"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "SAN ANTONIO DE PADUA",
+      "usuarios": "94"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "15"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "26"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "2"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "DEL VISO",
+      "usuarios": "26"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "40"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "12"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VIRREYES",
+      "usuarios": "36"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "96"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "usuarios": "55"
+    }
+  ]
+}
