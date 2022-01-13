@@ -1,0 +1,234 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "15.607",
+  "totalUsuariosConSuministro": "2.518.573",
+  "ultimaActualizacion": "4:35",
+  "totalUsuariosAyer": "64.849",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "2442",
+      "normalizacion": "2022-01-13 09:00"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "subestacion_alimentador": "279-9 DE JULIO / R:279-4-42 / 279-4-42",
+      "usuarios": "220",
+      "normalizacion": "2022-01-13 09:12"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "DOCK SUD",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "7605",
+      "normalizacion": "2022-01-13 09:00"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "1316",
+      "normalizacion": "2022-01-13 09:00"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "ZONA DE RESERVA",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "30",
+      "normalizacion": "2022-01-13 09:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA DEL PARQUE",
+      "subestacion_alimentador": "38-LURO / R:038-4-46 / 038-4-46",
+      "usuarios": "299",
+      "normalizacion": "2022-01-13 04:57"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS ESTE",
+      "subestacion_alimentador": "87-ESCALADA / R:087-1-0910 / 087-1-0910",
+      "usuarios": "2260",
+      "normalizacion": "2022-01-13 08:06"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "usuarios": "23"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "23"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "9"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MARMOL",
+      "usuarios": "1"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "127"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "GERLI",
+      "usuarios": "28"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "PIÑEYRO",
+      "usuarios": "41"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "65"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "18"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "58"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "151"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "27"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "126"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "50"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "79"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "30"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "65"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "52"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VERSALLES",
+      "usuarios": "86"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "43"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "7"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "CANNING",
+      "usuarios": "11"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CARLOS SPEGAZZINNI",
+      "usuarios": "9"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "14"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "90"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "14"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "47"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "25"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "2"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "21"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "DON BOSCO",
+      "usuarios": "25"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "20"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "47"
+    }
+  ]
+}
