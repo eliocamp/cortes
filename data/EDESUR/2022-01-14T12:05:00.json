@@ -1,0 +1,215 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "12.371",
+  "totalUsuariosConSuministro": "2.521.809",
+  "ultimaActualizacion": "12:05",
+  "totalUsuariosAyer": "121.659",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "subestacion_alimentador": "279-9 DE JULIO / R:279-2-27 / 279-2-27",
+      "usuarios": "60",
+      "normalizacion": "2022-01-14 16:40"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-12 / 218-1-12",
+      "usuarios": "5568",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES RP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-12 / 218-1-12",
+      "usuarios": "1194",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LINIERS",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-24 / 043-2-24",
+      "usuarios": "1149",
+      "normalizacion": "2022-01-14 16:44"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MATADEROS",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-24 / 043-2-24",
+      "usuarios": "1081",
+      "normalizacion": "2022-01-14 16:44"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "ZONA RURAL 1 EE",
+      "subestacion_alimentador": "277-GLEW / R:277-4-44 / 277-4-44",
+      "usuarios": "2",
+      "normalizacion": "2022-01-14 12:39"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-3-32 / 083-3-32",
+      "usuarios": "772",
+      "normalizacion": "2022-01-14 14:59"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-2-28 / 182-2-28",
+      "usuarios": "504",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-2-22 / 076-2-22",
+      "usuarios": "226",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "ZONA RURAL I PP",
+      "subestacion_alimentador": "277-GLEW / R:277-4-44 / 277-4-44",
+      "usuarios": "330",
+      "normalizacion": "2022-01-14 12:39"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "2"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MARMOL",
+      "usuarios": "3"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "RAFAEL CALZADA",
+      "usuarios": "44"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "176"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "18"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "32"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "71"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "196"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA PATERNAL",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "13"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "usuarios": "49"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "63"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "25"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA GENERAL MITRE",
+      "usuarios": "21"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "202"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "CANNING",
+      "usuarios": "39"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "31"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "30"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "4"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA",
+      "usuarios": "193"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "10"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "201"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "43"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "5"
+    }
+  ]
+}
