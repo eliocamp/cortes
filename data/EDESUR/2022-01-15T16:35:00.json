@@ -1,0 +1,658 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "82.511",
+  "totalUsuariosConSuministro": "2.451.669",
+  "ultimaActualizacion": "16:35",
+  "totalUsuariosAyer": "181.181",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-2-21 / 084-2-21",
+      "usuarios": "1096",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO GP",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-2-25 / 147-2-25",
+      "usuarios": "2855",
+      "normalizacion": "2022-01-15 18:33"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-4-47 / 218-4-47",
+      "usuarios": "2114",
+      "normalizacion": "2022-01-15 17:27"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-3-31 / 218-3-31",
+      "usuarios": "1826",
+      "normalizacion": "2022-01-15 17:32"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-3-39 / 048-3-39",
+      "usuarios": "4199",
+      "normalizacion": "2022-01-15 18:44"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES RP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-4-47 / 218-4-47",
+      "usuarios": "831",
+      "normalizacion": "2022-01-15 17:27"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LINIERS",
+      "subestacion_alimentador": "43-LINIERS / R:043-1-13 / 043-1-13",
+      "usuarios": "297",
+      "normalizacion": "2022-01-15 17:13"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LINIERS",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-22 / 043-2-22",
+      "usuarios": "750",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MATADEROS",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-22 / 043-2-22",
+      "usuarios": "290",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MATADEROS",
+      "subestacion_alimentador": "43-LINIERS / R:043-1-13 / 043-1-13",
+      "usuarios": "3952",
+      "normalizacion": "2022-01-15 17:13"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-3-39 / 048-3-39",
+      "usuarios": "1875",
+      "normalizacion": "2022-01-15 18:44"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-2-25 / 147-2-25",
+      "usuarios": "44",
+      "normalizacion": "2022-01-15 18:33"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA DEL PARQUE",
+      "subestacion_alimentador": "143-SANTA RITA / R:143-4-41 / 143-4-41",
+      "usuarios": "2650",
+      "normalizacion": "2022-01-15 17:20"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA GENERAL MITRE",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-2-25 / 147-2-25",
+      "usuarios": "1670",
+      "normalizacion": "2022-01-15 18:33"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-3-33 / 083-3-33",
+      "usuarios": "789",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "183-FLORENCIO VARELA / R:183-1-11 / 183-1-11",
+      "usuarios": "2249",
+      "normalizacion": "2022-01-15 18:28"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-2-27 / 076-2-27",
+      "usuarios": "1411",
+      "normalizacion": "2022-01-15 18:13"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-2-23 / 084-2-23",
+      "usuarios": "1823",
+      "normalizacion": "2022-01-15 19:27"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-2-25 / 084-2-25",
+      "usuarios": "3309",
+      "normalizacion": "2022-01-15 19:18"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-2-27 / 076-2-27",
+      "usuarios": "1074",
+      "normalizacion": "2022-01-15 18:13"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-3-31 / 184-3-31",
+      "usuarios": "787",
+      "normalizacion": "2022-01-15 18:29"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "subestacion_alimentador": "180-ALMIRANTE BROWN / R:180-1-16 / 180-1-16",
+      "usuarios": "3632",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-4-47 / 189-4-47",
+      "usuarios": "881",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "subestacion_alimentador": "180-ALMIRANTE BROWN / R:180-1-16 / 180-1-16",
+      "usuarios": "374",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "subestacion_alimentador": "82-BURZACO / R:082-1-01 / 082-1-01",
+      "usuarios": "727",
+      "normalizacion": "2022-01-15 21:40"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "subestacion_alimentador": "82-BURZACO / R:082-1-05 / 082-1-05",
+      "usuarios": "848",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "ZONA DE RESERVA",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-3-34 / 077-3-34",
+      "usuarios": "1225",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-12 / 174-1-12",
+      "usuarios": "2619",
+      "normalizacion": "2022-01-15 20:35"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "SOURIGUES",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-2-22 / 174-2-22",
+      "usuarios": "331",
+      "normalizacion": "2022-01-15 19:35"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO GP",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-2-21 / 147-2-21",
+      "usuarios": "1483",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO GP",
+      "subestacion_alimentador": "143-SANTA RITA / R:143-4-43 / 143-4-43",
+      "usuarios": "2608",
+      "normalizacion": "2022-01-15 17:18"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO RP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-18 / 218-1-18",
+      "usuarios": "1376",
+      "normalizacion": "2022-01-15 18:25"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-18 / 218-1-18",
+      "usuarios": "267",
+      "normalizacion": "2022-01-15 18:25"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-4-41 / 218-4-41",
+      "usuarios": "2762",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES RP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-18 / 218-1-18",
+      "usuarios": "663",
+      "normalizacion": "2022-01-15 18:25"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORESTA",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-2-26 / 048-2-26",
+      "usuarios": "108",
+      "normalizacion": "2022-01-15 19:28"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LA PATERNAL",
+      "subestacion_alimentador": "143-SANTA RITA / R:143-4-43 / 143-4-43",
+      "usuarios": "209",
+      "normalizacion": "2022-01-15 17:18"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LINIERS",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-24 / 043-2-24",
+      "usuarios": "3905",
+      "normalizacion": "2022-01-15 21:55"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MATADEROS",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-24 / 043-2-24",
+      "usuarios": "1930",
+      "normalizacion": "2022-01-15 21:55"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NUEVA POMPEYA",
+      "subestacion_alimentador": "39-POMPEYA / R:039-2-27 / 039-2-27",
+      "usuarios": "3380",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-2-26 / 048-2-26",
+      "usuarios": "2009",
+      "normalizacion": "2022-01-15 19:28"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE CHACABUCO",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-18 / 218-1-18",
+      "usuarios": "497",
+      "normalizacion": "2022-01-15 18:25"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VELEZ SARFIELD",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-2-26 / 048-2-26",
+      "usuarios": "3776",
+      "normalizacion": "2022-01-15 19:28"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "subestacion_alimentador": "143-SANTA RITA / R:143-4-43 / 143-4-43",
+      "usuarios": "2256",
+      "normalizacion": "2022-01-15 17:18"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-2-21 / 147-2-21",
+      "usuarios": "895",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA GENERAL MITRE",
+      "subestacion_alimentador": "143-SANTA RITA / R:143-4-43 / 143-4-43",
+      "usuarios": "1176",
+      "normalizacion": "2022-01-15 17:18"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA RIACHUELO",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-1-13 / 042-1-13",
+      "usuarios": "428",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-3-35 / 281-3-35",
+      "usuarios": "2153",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-2-22 / 174-2-22",
+      "usuarios": "448",
+      "normalizacion": "2022-01-15 19:35"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "ING. ALLAN",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-12 / 174-1-12",
+      "usuarios": "14",
+      "normalizacion": "2022-01-15 20:35"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-2-28 / 182-2-28",
+      "usuarios": "1199",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "usuarios": "21"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "3"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "1"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "RAFAEL CALZADA",
+      "usuarios": "58"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "28"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "DOCK SUD",
+      "usuarios": "54"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "usuarios": "73"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "72"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "32"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "RANELAGH",
+      "usuarios": "40"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "V. ESPAÑA",
+      "usuarios": "49"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "21"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "27"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "29"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "187"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "318"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORESTA",
+      "usuarios": "45"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "77"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "1"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONTE CASTRO",
+      "usuarios": "18"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "36"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN NICOLAS",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "54"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VELEZ SARFIELD",
+      "usuarios": "31"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "19"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "58"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEVOTO",
+      "usuarios": "30"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "23"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA RIACHUELO",
+      "usuarios": "14"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA STA. RITA",
+      "usuarios": "84"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "usuarios": "6"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "usuarios": "15"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "LUIS GUILLON",
+      "usuarios": "1"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "12"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "usuarios": "13"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "usuarios": "35"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "66"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI",
+      "usuarios": "41"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "116"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "26"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "36"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "14"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "BANDFIELD",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "22"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LAVALLOL",
+      "usuarios": "50"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "97"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "68"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "201"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "usuarios": "7"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "25"
+    }
+  ]
+}
