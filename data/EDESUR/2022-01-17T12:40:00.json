@@ -1,0 +1,382 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "14.765",
+  "totalUsuariosConSuministro": "2.519.415",
+  "ultimaActualizacion": "12:40",
+  "totalUsuariosAyer": "107.003",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-17 / 185-1-17",
+      "usuarios": "729",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-17 / 185-1-17",
+      "usuarios": "1704",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "DOCK SUD",
+      "subestacion_alimentador": "172-SARANDI / R:172-2-28 / 172-2-28",
+      "usuarios": "57",
+      "normalizacion": "2022-01-17 18:02"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "ZONA DE RESERVA",
+      "subestacion_alimentador": "172-SARANDI / R:172-2-28 / 172-2-28",
+      "usuarios": "1779",
+      "normalizacion": "2022-01-17 18:02"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "ZONA DE RESERVA",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-3-34 / 077-3-34",
+      "usuarios": "3508",
+      "normalizacion": "2022-01-17 14:16"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "A. PETION",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-26 / 271-2-26",
+      "usuarios": "750",
+      "normalizacion": "2022-01-17 15:50"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "V. ADRIANA",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-26 / 271-2-26",
+      "usuarios": "548",
+      "normalizacion": "2022-01-17 15:50"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 1",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-26 / 271-2-26",
+      "usuarios": "60",
+      "normalizacion": "2022-01-17 15:50"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 2",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-26 / 271-2-26",
+      "usuarios": "190",
+      "normalizacion": "2022-01-17 15:50"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 4",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-26 / 271-2-26",
+      "usuarios": "1",
+      "normalizacion": "2022-01-17 15:50"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 4",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "1",
+      "normalizacion": "2022-01-17 18:02"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "2",
+      "normalizacion": "2022-01-17 18:02"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "1",
+      "normalizacion": "2022-01-17 18:11"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NUEVA POMPEYA",
+      "subestacion_alimentador": "39-POMPEYA / R:039-4-43 / 039-4-43",
+      "usuarios": "421",
+      "normalizacion": "2022-01-17 15:19"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CARLOS SPEGAZZINNI",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-17 / 270-1-17",
+      "usuarios": "8",
+      "normalizacion": "2022-01-17 18:07"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-12 / 270-1-12",
+      "usuarios": "4",
+      "normalizacion": "2022-01-17 15:06"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-2-22 / 184-2-22",
+      "usuarios": "1083",
+      "normalizacion": "2022-01-17 18:04"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "ZONA RURAL I PP",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27",
+      "usuarios": "167",
+      "normalizacion": "2022-01-17 15:06"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "DON BOSCO",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-3-34 / 077-3-34",
+      "usuarios": "490",
+      "normalizacion": "2022-01-17 14:16"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "694",
+      "normalizacion": "2022-01-17 17:59"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "1",
+      "normalizacion": "2022-01-17 18:02"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "42",
+      "normalizacion": "2022-01-17 18:02"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27",
+      "usuarios": "48",
+      "normalizacion": "2022-01-17 15:06"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "79"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "8"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "50"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "46"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "49"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "13"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "3"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "100"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "571"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "63"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORESTA",
+      "usuarios": "75"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "24"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "13"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "3"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "usuarios": "74"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "43"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "154"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VELEZ SARFIELD",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VERSALLES",
+      "usuarios": "14"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "48"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEVOTO",
+      "usuarios": "12"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "40"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA STA. RITA",
+      "usuarios": "19"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CARLOS SPEGAZZINNI",
+      "usuarios": "5"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "7"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "23"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI",
+      "usuarios": "35"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "11"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "PIÑEYRO",
+      "usuarios": "7"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "148"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "21"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "BANDFIELD",
+      "usuarios": "14"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "363"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "139"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA FIORITO",
+      "usuarios": "21"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "28"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "99"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "12"
+    }
+  ]
+}
