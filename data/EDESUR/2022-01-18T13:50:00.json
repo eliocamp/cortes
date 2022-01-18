@@ -1,0 +1,257 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.586",
+  "totalUsuariosConSuministro": "2.530.594",
+  "ultimaActualizacion": "13:50",
+  "totalUsuariosAyer": "68.567",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN NICOLAS",
+      "subestacion_alimentador": "211-RECONQUISTA / R:211-3-26 / 211-3-26",
+      "usuarios": "25",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MINISTRO RIVADAVIA",
+      "subestacion_alimentador": "82-BURZACO / R:082-1-07 / 082-1-07",
+      "usuarios": "1016",
+      "normalizacion": "2022-01-18 18:06"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 2",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-11 / 271-1-11",
+      "usuarios": "12",
+      "normalizacion": "2022-01-18 17:05"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "1",
+      "normalizacion": "2022-01-18 19:11"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN CRISTOBAL",
+      "subestacion_alimentador": "20-INDEPENDENCIA / R:020-3-32 / 020-3-32",
+      "usuarios": "488",
+      "normalizacion": "2022-01-18 17:15"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN NICOLAS",
+      "subestacion_alimentador": "210-CARLOS PELLEGRINI / R:210-3-31 / 210-3-31",
+      "usuarios": "68",
+      "normalizacion": "2022-01-18 18:09"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-12 / 270-1-12",
+      "usuarios": "4",
+      "normalizacion": "2022-01-18 14:11"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "87-ESCALADA / R:087-2-1516 / 087-2-1516",
+      "usuarios": "222",
+      "normalizacion": "2022-01-18 17:13"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "16"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "95"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "25"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "197"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "141"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "93"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORESTA",
+      "usuarios": "2"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "49"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "59"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "15"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "65"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "32"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "RECOLETA",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "136"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VERSALLES",
+      "usuarios": "40"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "55"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEVOTO",
+      "usuarios": "26"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "89"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "32"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA REAL",
+      "usuarios": "56"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA STA. RITA",
+      "usuarios": "19"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "CANNING",
+      "usuarios": "16"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "LUIS GUILLON",
+      "usuarios": "79"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "65"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CARLOS SPEGAZZINNI",
+      "usuarios": "9"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "136"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "76"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "BANDFIELD",
+      "usuarios": "2"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "31"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA",
+      "usuarios": "11"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "15"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "17"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "usuarios": "11"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "7"
+    }
+  ]
+}
