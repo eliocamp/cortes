@@ -1,9 +1,9 @@
 {
   "fuente": "Web Service",
   "empresa": "EDENOR",
-  "totalUsuariosSinSuministro": "6.650",
-  "totalUsuariosConSuministro": "2.991.841",
-  "ultimaActualizacion": "8:00",
+  "totalUsuariosSinSuministro": "3.375",
+  "totalUsuariosConSuministro": "2.995.116",
+  "ultimaActualizacion": "8:30",
   "totalUsuariosAyer": "58.742",
   "cortesPreventivos": [],
   "cortesProgramados": [
@@ -13,43 +13,22 @@
       "subestacion_alimentador": "- / R:MIGUELETES / 54-TR2 / 54-5536",
       "usuarios": "2",
       "normalizacion": "2022-01-19 09:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR2 / 260-5527",
+      "usuarios": "175",
+      "normalizacion": "2022-01-19 10:00"
     }
   ],
   "cortesServicioMedia": [
-    {
-      "partido": "",
-      "localidad": "",
-      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5534",
-      "usuarios": "132",
-      "normalizacion": "2022-01-19 09:00"
-    },
-    {
-      "partido": "",
-      "localidad": "",
-      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5521",
-      "usuarios": "196",
-      "normalizacion": "2022-01-19 09:00"
-    },
-    {
-      "partido": "ESCOBAR",
-      "localidad": "INGENIERO MASCHWITZ",
-      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5521",
-      "usuarios": "1236",
-      "normalizacion": "2022-01-19 09:00"
-    },
     {
       "partido": "GRAL RODRIGUEZ",
       "localidad": "GRAL RODRIGUEZ",
       "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5521",
       "usuarios": "152",
-      "normalizacion": "2022-01-19 10:00"
-    },
-    {
-      "partido": "MALVINAS ARGENTINAS",
-      "localidad": "ADOLFO SOURDEAUX",
-      "subestacion_alimentador": "- / R:TALAR / 58-TR2 / 58-5528",
-      "usuarios": "86",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-01-19 09:00"
     },
     {
       "partido": "MALVINAS ARGENTINAS",
@@ -62,7 +41,7 @@
       "partido": "MALVINAS ARGENTINAS",
       "localidad": "TORTUGUITAS",
       "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5534",
-      "usuarios": "1090",
+      "usuarios": "280",
       "normalizacion": "2022-01-19 09:00"
     },
     {
@@ -70,7 +49,7 @@
       "localidad": "FRANCISCO ALVAREZ",
       "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5524",
       "usuarios": "100",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-01-19 09:00"
     },
     {
       "partido": "PILAR",
@@ -83,7 +62,7 @@
       "partido": "SAN FERNANDO",
       "localidad": "DELTA 2DA SECCION (SF)",
       "subestacion_alimentador": "- / ",
-      "usuarios": "2",
+      "usuarios": "80",
       "normalizacion": "2022-01-19 09:00"
     },
     {
@@ -91,20 +70,6 @@
       "localidad": "DELTA 3RA SECCION (SF)",
       "subestacion_alimentador": "- / ",
       "usuarios": "111",
-      "normalizacion": "2022-01-19 10:00"
-    },
-    {
-      "partido": "SAN ISIDRO",
-      "localidad": "VILLA ADELINA (SI)",
-      "subestacion_alimentador": "- / R:V.ADELINA / 155-TR2 / 155-5528",
-      "usuarios": "459",
-      "normalizacion": "2022-01-19 09:00"
-    },
-    {
-      "partido": "TIGRE",
-      "localidad": "BENAVIDEZ",
-      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5521",
-      "usuarios": "322",
       "normalizacion": "2022-01-19 09:00"
     },
     {
@@ -116,16 +81,9 @@
     },
     {
       "partido": "TIGRE",
-      "localidad": "DIQUE LUJAN",
-      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5521",
-      "usuarios": "245",
-      "normalizacion": "2022-01-19 09:00"
-    },
-    {
-      "partido": "TIGRE",
       "localidad": "DON TORCUATO",
       "subestacion_alimentador": "- / R:TALAR / 58-TR2 / 58-5528",
-      "usuarios": "304",
+      "usuarios": "267",
       "normalizacion": "Sin datos"
     },
     {
@@ -145,8 +103,13 @@
     },
     {
       "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "5"
+    },
+    {
+      "partido": "LA MATANZA",
       "localidad": "GREGORIO DE LAFERRERE",
-      "usuarios": "43"
+      "usuarios": "69"
     },
     {
       "partido": "LA MATANZA",
@@ -186,12 +149,12 @@
     {
       "partido": "MERLO",
       "localidad": "LIBERTAD",
-      "usuarios": "59"
+      "usuarios": "29"
     },
     {
       "partido": "MERLO",
       "localidad": "MERLO",
-      "usuarios": "17"
+      "usuarios": "19"
     },
     {
       "partido": "MORENO",
@@ -211,7 +174,7 @@
     {
       "partido": "MORON",
       "localidad": "CASTELAR",
-      "usuarios": "15"
+      "usuarios": "7"
     },
     {
       "partido": "PILAR",
