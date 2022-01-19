@@ -1,9 +1,9 @@
 {
   "fuente": "Web Service",
   "empresa": "EDENOR",
-  "totalUsuariosSinSuministro": "3.072",
-  "totalUsuariosConSuministro": "2.995.419",
-  "ultimaActualizacion": "10:00",
+  "totalUsuariosSinSuministro": "19.629",
+  "totalUsuariosConSuministro": "2.978.862",
+  "ultimaActualizacion": "10:40",
   "totalUsuariosAyer": "58.742",
   "cortesPreventivos": [],
   "cortesProgramados": [
@@ -12,7 +12,7 @@
       "localidad": "INGENIERO MASCHWITZ",
       "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5522",
       "usuarios": "57",
-      "normalizacion": "2022-01-19 11:00"
+      "normalizacion": "2022-01-19 12:00"
     },
     {
       "partido": "GRAL SAN MARTIN",
@@ -33,30 +33,79 @@
       "localidad": "VILLA ADELINA (VL)",
       "subestacion_alimentador": "- / R:MUNRO / 55-TR2 / 55-5537",
       "usuarios": "676",
-      "normalizacion": "2022-01-19 10:36"
+      "normalizacion": "2022-01-19 12:00"
     }
   ],
   "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5523",
+      "usuarios": "5",
+      "normalizacion": "2022-01-19 12:00"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "4",
+      "normalizacion": "2022-01-19 12:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "AGRONOMIA",
+      "subestacion_alimentador": "- / R:AGRONOMIA / 47-TR4 / 47-5512",
+      "usuarios": "989",
+      "normalizacion": "2022-01-19 14:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA DEVOTO",
+      "subestacion_alimentador": "- / R:AGRONOMIA / 47-TR4 / 47-5512",
+      "usuarios": "796",
+      "normalizacion": "2022-01-19 14:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA PUEYRRED?N",
+      "subestacion_alimentador": "- / R:AGRONOMIA / 47-TR4 / 47-5512",
+      "usuarios": "9099",
+      "normalizacion": "2022-01-19 14:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR1 / 154-5518",
+      "usuarios": "1",
+      "normalizacion": "2022-01-19 12:00"
+    },
     {
       "partido": "GRAL RODRIGUEZ",
       "localidad": "GRAL RODRIGUEZ",
       "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5521",
       "usuarios": "152",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-01-19 11:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5523",
+      "usuarios": "2336",
+      "normalizacion": "2022-01-19 12:00"
     },
     {
       "partido": "MALVINAS ARGENTINAS",
       "localidad": "LOS POLVORINES",
       "subestacion_alimentador": "- / R:NOGUES / 159-TR1 / 159-5541",
       "usuarios": "193",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-01-19 11:00"
     },
     {
       "partido": "MORENO",
       "localidad": "FRANCISCO ALVAREZ",
       "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5524",
       "usuarios": "100",
-      "normalizacion": "2022-01-19 11:00"
+      "normalizacion": "2022-01-19 12:00"
     },
     {
       "partido": "PILAR",
@@ -69,43 +118,57 @@
       "partido": "SAN FERNANDO",
       "localidad": "DELTA 2DA SECCION (SF)",
       "subestacion_alimentador": "- / ",
-      "usuarios": "80",
-      "normalizacion": "2022-01-19 11:00"
+      "usuarios": "483",
+      "normalizacion": "2022-01-19 12:00"
     },
     {
       "partido": "SAN FERNANDO",
       "localidad": "DELTA 3RA SECCION (SF)",
       "subestacion_alimentador": "- / ",
-      "usuarios": "111",
-      "normalizacion": "2022-01-19 11:00"
+      "usuarios": "249",
+      "normalizacion": "2022-01-19 12:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5483 / 951-5522",
+      "usuarios": "368",
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "TIGRE",
       "localidad": "DELTA 1RA SECCION (TI)",
       "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
       "usuarios": "129",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-01-19 12:00"
     },
     {
       "partido": "TIGRE",
       "localidad": "DELTA 1RA SECCION (TI)",
       "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
-      "usuarios": "176",
-      "normalizacion": "2022-01-19 11:00"
+      "usuarios": "18",
+      "normalizacion": "2022-01-19 12:00"
     },
     {
       "partido": "TIGRE",
       "localidad": "DON TORCUATO",
       "subestacion_alimentador": "- / R:TALAR / 58-TR2 / 58-5528",
       "usuarios": "267",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-01-19 12:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "subestacion_alimentador": "- / R:BANCALARI / 157-TR1 / 157-5511",
+      "usuarios": "2506",
+      "normalizacion": "2022-01-19 14:00"
     },
     {
       "partido": "TIGRE",
       "localidad": "EL TALAR",
       "subestacion_alimentador": "- / R:TALAR / 58-TR2 / 58-5528",
       "usuarios": "268",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-01-19 12:00"
     }
   ],
   "cortesComunicados": [],
@@ -118,12 +181,22 @@
     {
       "partido": "CAPITAL FEDERAL",
       "localidad": "VILLA PUEYRRED?N",
-      "usuarios": "3"
+      "usuarios": "5"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "1"
     },
     {
       "partido": "GRAL SAN MARTIN",
       "localidad": "GREGORIA MATORRAS",
-      "usuarios": "14"
+      "usuarios": "24"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "VILLA UDAONDO",
+      "usuarios": "4"
     },
     {
       "partido": "JOSE C PAZ",
@@ -133,7 +206,7 @@
     {
       "partido": "LA MATANZA",
       "localidad": "GONZALEZ CATAN",
-      "usuarios": "5"
+      "usuarios": "58"
     },
     {
       "partido": "LA MATANZA",
@@ -148,7 +221,7 @@
     {
       "partido": "LA MATANZA",
       "localidad": "LOMAS DEL MIRADOR",
-      "usuarios": "55"
+      "usuarios": "72"
     },
     {
       "partido": "LA MATANZA",
@@ -178,17 +251,17 @@
     {
       "partido": "MERLO",
       "localidad": "MERLO",
-      "usuarios": "32"
+      "usuarios": "44"
     },
     {
       "partido": "MORENO",
       "localidad": "MORENO",
-      "usuarios": "23"
+      "usuarios": "19"
     },
     {
       "partido": "MORON",
       "localidad": "CASTELAR",
-      "usuarios": "17"
+      "usuarios": "8"
     },
     {
       "partido": "MORON",
@@ -204,11 +277,6 @@
       "partido": "PILAR",
       "localidad": "PILAR",
       "usuarios": "5"
-    },
-    {
-      "partido": "PILAR",
-      "localidad": "VILLA ROSA",
-      "usuarios": "16"
     },
     {
       "partido": "SAN ISIDRO",

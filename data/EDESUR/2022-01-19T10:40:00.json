@@ -1,82 +1,33 @@
 {
   "fuente": "Web Service",
   "empresa": "EDESUR",
-  "totalUsuariosSinSuministro": "13.167",
-  "totalUsuariosConSuministro": "2.521.013",
-  "ultimaActualizacion": "10:00",
+  "totalUsuariosSinSuministro": "5.136",
+  "totalUsuariosConSuministro": "2.529.044",
+  "ultimaActualizacion": "10:40",
   "totalUsuariosAyer": "57.681",
   "cortesPreventivos": [],
   "cortesProgramados": [],
   "cortesServicioMedia": [
     {
-      "partido": "CAÑUELAS",
-      "localidad": "CAÑUELAS",
-      "subestacion_alimentador": "- / R:",
-      "usuarios": "6695",
-      "normalizacion": "2022-01-19 11:48"
-    },
-    {
-      "partido": "CAÑUELAS",
-      "localidad": "LOS POZOS",
-      "subestacion_alimentador": "- / R:",
-      "usuarios": "563",
-      "normalizacion": "2022-01-19 11:48"
-    },
-    {
-      "partido": "CAÑUELAS",
-      "localidad": "SANTA ANITA",
-      "subestacion_alimentador": "- / R:",
-      "usuarios": "336",
-      "normalizacion": "2022-01-19 11:48"
-    },
-    {
-      "partido": "CAÑUELAS",
-      "localidad": "URIBELARREA",
-      "subestacion_alimentador": "- / R:",
-      "usuarios": "3",
-      "normalizacion": "2022-01-19 11:48"
-    },
-    {
-      "partido": "CAÑUELAS",
-      "localidad": "ZONA RURAL 1",
-      "subestacion_alimentador": "- / R:",
-      "usuarios": "28",
-      "normalizacion": "2022-01-19 11:48"
-    },
-    {
-      "partido": "CAÑUELAS",
-      "localidad": "ZONA RURAL 2",
-      "subestacion_alimentador": "- / R:",
-      "usuarios": "108",
-      "normalizacion": "2022-01-19 11:48"
-    },
-    {
-      "partido": "CAÑUELAS",
-      "localidad": "ZONA RURAL 4",
-      "subestacion_alimentador": "- / R:",
-      "usuarios": "23",
-      "normalizacion": "2022-01-19 11:48"
-    },
-    {
-      "partido": "CAÑUELAS",
-      "localidad": "ZONA RURAL 6",
-      "subestacion_alimentador": "- / R:",
-      "usuarios": "84",
-      "normalizacion": "2022-01-19 11:48"
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CONSTITUCION",
+      "subestacion_alimentador": "124-CONSTITUCION / R:124-1-18 / 124-1-18",
+      "usuarios": "926",
+      "normalizacion": "2022-01-19 15:23"
     },
     {
       "partido": "QUILMES",
       "localidad": "BERNAL",
       "subestacion_alimentador": "77-DON BOSCO / R:077-3-38 / 077-3-38",
-      "usuarios": "3420",
-      "normalizacion": "2022-01-19 13:33"
+      "usuarios": "2410",
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "QUILMES",
       "localidad": "QUILMES OESTE",
       "subestacion_alimentador": "77-DON BOSCO / R:077-3-38 / 077-3-38",
       "usuarios": "781",
-      "normalizacion": "2022-01-19 13:33"
+      "normalizacion": "Sin datos"
     }
   ],
   "cortesComunicados": [],
@@ -94,7 +45,7 @@
     {
       "partido": "AVELLANEDA",
       "localidad": "WILDE",
-      "usuarios": "82"
+      "usuarios": "39"
     },
     {
       "partido": "BERAZATEGUI",
@@ -109,27 +60,22 @@
     {
       "partido": "CAPITAL",
       "localidad": "BALVANERA",
-      "usuarios": "66"
-    },
-    {
-      "partido": "CAPITAL",
-      "localidad": "BARRACAS",
-      "usuarios": "7"
+      "usuarios": "67"
     },
     {
       "partido": "CAPITAL",
       "localidad": "CAPITAL",
-      "usuarios": "163"
+      "usuarios": "165"
     },
     {
       "partido": "CAPITAL",
       "localidad": "FLORES",
-      "usuarios": "106"
+      "usuarios": "122"
     },
     {
       "partido": "CAPITAL",
       "localidad": "LA BOCA",
-      "usuarios": "35"
+      "usuarios": "36"
     },
     {
       "partido": "CAPITAL",
@@ -144,12 +90,12 @@
     {
       "partido": "CAPITAL",
       "localidad": "MONTE CASTRO",
-      "usuarios": "28"
+      "usuarios": "29"
     },
     {
       "partido": "CAPITAL",
       "localidad": "PARQUE AVELLANEDA",
-      "usuarios": "104"
+      "usuarios": "112"
     },
     {
       "partido": "CAPITAL",
@@ -169,12 +115,12 @@
     {
       "partido": "CAPITAL",
       "localidad": "VILLA REAL",
-      "usuarios": "20"
+      "usuarios": "21"
     },
     {
       "partido": "ESTEBAN ECHEVERRIA",
-      "localidad": "MONTE GRANDE",
-      "usuarios": "65"
+      "localidad": "CANNING",
+      "usuarios": "40"
     },
     {
       "partido": "EZEIZA",
@@ -182,19 +128,9 @@
       "usuarios": "9"
     },
     {
-      "partido": "EZEIZA",
-      "localidad": "JOSE MARIA EZEIZA",
-      "usuarios": "40"
-    },
-    {
       "partido": "FLORENCIO VARELA",
       "localidad": "FLORENCIO VARELA",
-      "usuarios": "14"
-    },
-    {
-      "partido": "LANUS",
-      "localidad": "LANUS",
-      "usuarios": "16"
+      "usuarios": "8"
     },
     {
       "partido": "LANUS",

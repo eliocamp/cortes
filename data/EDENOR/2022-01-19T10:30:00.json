@@ -1,9 +1,9 @@
 {
   "fuente": "Web Service",
   "empresa": "EDENOR",
-  "totalUsuariosSinSuministro": "3.072",
-  "totalUsuariosConSuministro": "2.995.419",
-  "ultimaActualizacion": "10:00",
+  "totalUsuariosSinSuministro": "6.008",
+  "totalUsuariosConSuministro": "2.992.483",
+  "ultimaActualizacion": "10:30",
   "totalUsuariosAyer": "58.742",
   "cortesPreventivos": [],
   "cortesProgramados": [
@@ -12,14 +12,14 @@
       "localidad": "INGENIERO MASCHWITZ",
       "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5522",
       "usuarios": "57",
-      "normalizacion": "2022-01-19 11:00"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "GRAL SAN MARTIN",
       "localidad": "BERNARDO MONTEAGUDO",
       "subestacion_alimentador": "- / R:MIGUELETES / 54-TR2 / 54-5536",
       "usuarios": "2",
-      "normalizacion": "2022-01-19 11:00"
+      "normalizacion": "2022-01-19 12:00"
     },
     {
       "partido": "PILAR",
@@ -33,30 +33,51 @@
       "localidad": "VILLA ADELINA (VL)",
       "subestacion_alimentador": "- / R:MUNRO / 55-TR2 / 55-5537",
       "usuarios": "676",
-      "normalizacion": "2022-01-19 10:36"
+      "normalizacion": "2022-01-19 12:00"
     }
   ],
   "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5523",
+      "usuarios": "5",
+      "normalizacion": "2022-01-19 11:00"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "6",
+      "normalizacion": "2022-01-19 13:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5523",
+      "usuarios": "2336",
+      "normalizacion": "2022-01-19 11:00"
+    },
     {
       "partido": "GRAL RODRIGUEZ",
       "localidad": "GRAL RODRIGUEZ",
       "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5521",
       "usuarios": "152",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-01-19 11:00"
     },
     {
       "partido": "MALVINAS ARGENTINAS",
       "localidad": "LOS POLVORINES",
       "subestacion_alimentador": "- / R:NOGUES / 159-TR1 / 159-5541",
       "usuarios": "193",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-01-19 12:00"
     },
     {
       "partido": "MORENO",
       "localidad": "FRANCISCO ALVAREZ",
       "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5524",
       "usuarios": "100",
-      "normalizacion": "2022-01-19 11:00"
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "PILAR",
@@ -69,43 +90,43 @@
       "partido": "SAN FERNANDO",
       "localidad": "DELTA 2DA SECCION (SF)",
       "subestacion_alimentador": "- / ",
-      "usuarios": "80",
-      "normalizacion": "2022-01-19 11:00"
+      "usuarios": "491",
+      "normalizacion": "2022-01-19 13:00"
     },
     {
       "partido": "SAN FERNANDO",
       "localidad": "DELTA 3RA SECCION (SF)",
       "subestacion_alimentador": "- / ",
-      "usuarios": "111",
-      "normalizacion": "2022-01-19 11:00"
+      "usuarios": "249",
+      "normalizacion": "2022-01-19 13:00"
     },
     {
       "partido": "TIGRE",
       "localidad": "DELTA 1RA SECCION (TI)",
       "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
       "usuarios": "129",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-01-19 11:00"
     },
     {
       "partido": "TIGRE",
       "localidad": "DELTA 1RA SECCION (TI)",
       "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
       "usuarios": "176",
-      "normalizacion": "2022-01-19 11:00"
+      "normalizacion": "2022-01-19 12:00"
     },
     {
       "partido": "TIGRE",
       "localidad": "DON TORCUATO",
       "subestacion_alimentador": "- / R:TALAR / 58-TR2 / 58-5528",
       "usuarios": "267",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-01-19 11:00"
     },
     {
       "partido": "TIGRE",
       "localidad": "EL TALAR",
       "subestacion_alimentador": "- / R:TALAR / 58-TR2 / 58-5528",
       "usuarios": "268",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-01-19 11:00"
     }
   ],
   "cortesComunicados": [],
@@ -121,9 +142,14 @@
       "usuarios": "3"
     },
     {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "1"
+    },
+    {
       "partido": "GRAL SAN MARTIN",
       "localidad": "GREGORIA MATORRAS",
-      "usuarios": "14"
+      "usuarios": "22"
     },
     {
       "partido": "JOSE C PAZ",
@@ -133,7 +159,7 @@
     {
       "partido": "LA MATANZA",
       "localidad": "GONZALEZ CATAN",
-      "usuarios": "5"
+      "usuarios": "39"
     },
     {
       "partido": "LA MATANZA",
@@ -148,7 +174,7 @@
     {
       "partido": "LA MATANZA",
       "localidad": "LOMAS DEL MIRADOR",
-      "usuarios": "55"
+      "usuarios": "68"
     },
     {
       "partido": "LA MATANZA",
@@ -204,11 +230,6 @@
       "partido": "PILAR",
       "localidad": "PILAR",
       "usuarios": "5"
-    },
-    {
-      "partido": "PILAR",
-      "localidad": "VILLA ROSA",
-      "usuarios": "16"
     },
     {
       "partido": "SAN ISIDRO",
