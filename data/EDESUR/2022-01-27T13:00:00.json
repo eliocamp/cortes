@@ -1,0 +1,117 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.685",
+  "totalUsuariosConSuministro": "2.532.495",
+  "ultimaActualizacion": "13:00",
+  "totalUsuariosAyer": "36.264",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "subestacion_alimentador": "143-SANTA RITA / R:143-2-24 / 143-2-24 / 143-1-14",
+      "usuarios": "331",
+      "normalizacion": "2022-01-28 00:10"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "subestacion_alimentador": "179-RIGOLLEAU / R:179-1-18 / 179-1-18",
+      "usuarios": "623",
+      "normalizacion": "2022-01-27 17:27"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "RANELAGH",
+      "subestacion_alimentador": "179-RIGOLLEAU / R:179-1-18 / 179-1-18",
+      "usuarios": "103",
+      "normalizacion": "2022-01-27 17:27"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "51"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "A. PETION",
+      "usuarios": "24"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "23"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "140"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "31"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN NICOLAS",
+      "usuarios": "6"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "90"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "156"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "18"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "33"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "17"
+    }
+  ]
+}

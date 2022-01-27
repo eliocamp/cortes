@@ -1,0 +1,174 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.880",
+  "totalUsuariosConSuministro": "2.996.611",
+  "ultimaActualizacion": "13:00",
+  "totalUsuariosAyer": "39.807",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR4 / 51-5483 / 4-5533",
+      "usuarios": "65",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "CNEL JOSE ZAPIOLA",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR1 / 262-5545",
+      "usuarios": "124",
+      "normalizacion": "2022-01-27 14:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "subestacion_alimentador": "- / R:TAPIALES / 162-TR1 / 162-5514",
+      "usuarios": "434",
+      "normalizacion": "2022-01-27 14:00"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "subestacion_alimentador": "- / R:CASTELAR / 61-TR2 / 61-5522",
+      "usuarios": "239",
+      "normalizacion": "2022-01-27 14:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "DELTA 1RA SECCION (ES)",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5481 / 951-5512",
+      "usuarios": "31",
+      "normalizacion": "2022-01-27 15:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5481 / 951-5512",
+      "usuarios": "209",
+      "normalizacion": "2022-01-27 15:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5481 / 951-5512",
+      "usuarios": "1",
+      "normalizacion": "2022-01-27 15:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR3 / 263-5471",
+      "usuarios": "20",
+      "normalizacion": "2022-01-27 14:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR2 / 58-5527",
+      "usuarios": "380",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "SAENZ PE?A",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA ORTUZAR",
+      "usuarios": "9"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "usuarios": "65"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "HURLINGHAM",
+      "usuarios": "67"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "2"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "35"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "22"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "23"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "usuarios": "13"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "usuarios": "9"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "31"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "usuarios": "28"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ASTOLFI",
+      "usuarios": "23"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "usuarios": "24"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "ZELAYA",
+      "usuarios": "2"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "usuarios": "7"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "SAN ISIDRO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "1"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "usuarios": "7"
+    }
+  ]
+}
