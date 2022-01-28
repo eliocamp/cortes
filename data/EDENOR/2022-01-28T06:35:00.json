@@ -1,0 +1,89 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.231",
+  "totalUsuariosConSuministro": "2.995.260",
+  "ultimaActualizacion": "6:35",
+  "totalUsuariosAyer": "16.045",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "HURLINGHAM",
+      "subestacion_alimentador": "- / R:HURLINGHAM / 166-TR3 / 166-5536",
+      "usuarios": "1",
+      "normalizacion": "2022-01-28 08:00"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "VILLA TESEI",
+      "subestacion_alimentador": "- / R:HURLINGHAM / 166-TR3 / 166-5536",
+      "usuarios": "1214",
+      "normalizacion": "2022-01-28 08:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "30",
+      "normalizacion": "2022-01-28 07:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "7",
+      "normalizacion": "2022-01-28 08:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "35",
+      "normalizacion": "2022-01-28 07:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "LA LUCILA",
+      "subestacion_alimentador": "- / R:EDISON / 57-TR4 / 57-5541",
+      "usuarios": "1859",
+      "normalizacion": "2022-01-28 10:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "subestacion_alimentador": "- / R:EDISON / 57-TR4 / 57-5541",
+      "usuarios": "25",
+      "normalizacion": "2022-01-28 10:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "2"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "37"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "DEL VISO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "usuarios": "15"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "ZELAYA",
+      "usuarios": "2"
+    }
+  ]
+}
