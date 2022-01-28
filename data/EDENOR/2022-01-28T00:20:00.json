@@ -1,0 +1,85 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "694",
+  "totalUsuariosConSuministro": "2.997.797",
+  "ultimaActualizacion": "0:20",
+  "totalUsuariosAyer": "15.154",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "subestacion_alimentador": "- / R:TAPIALES / 162-TR2 / 162-5521",
+      "usuarios": "527",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "PABLO NOGUES",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5537",
+      "usuarios": "20",
+      "normalizacion": "2022-01-28 01:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "30",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "7",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "35",
+      "normalizacion": "2022-01-28 01:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "10"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "2"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "37"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "PABLO NOGUES",
+      "usuarios": "5"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "DEL VISO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "usuarios": "15"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "ZELAYA",
+      "usuarios": "2"
+    }
+  ]
+}
