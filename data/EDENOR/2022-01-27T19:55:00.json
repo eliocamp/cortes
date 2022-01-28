@@ -1,0 +1,108 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.398",
+  "totalUsuariosConSuministro": "2.997.093",
+  "ultimaActualizacion": "19:55",
+  "totalUsuariosAyer": "39.807",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR3 / 363-5472 / 132-5523",
+      "usuarios": "56",
+      "normalizacion": "2022-01-27 22:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "PABLO PODESTA",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2 / 262-5538",
+      "usuarios": "582",
+      "normalizacion": "2022-01-27 21:00"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "HAEDO",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR4 / 66-5534",
+      "usuarios": "569",
+      "normalizacion": "2022-01-27 22:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "30",
+      "normalizacion": "2022-01-27 20:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "7",
+      "normalizacion": "2022-01-27 21:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "35",
+      "normalizacion": "2022-01-27 22:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA ORTUZAR",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA URQUIZA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "4"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "28"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "PARQUE SAN LORENZO",
+      "usuarios": "20"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "23"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "usuarios": "9"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "DEL VISO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "usuarios": "15"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "ZELAYA",
+      "usuarios": "2"
+    }
+  ]
+}
