@@ -1,0 +1,70 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.597",
+  "totalUsuariosConSuministro": "2.531.583",
+  "ultimaActualizacion": "10:15",
+  "totalUsuariosAyer": "25.008",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-4-81 / 271-4-81",
+      "usuarios": "835",
+      "normalizacion": "2022-01-29 13:37"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "subestacion_alimentador": "82-BURZACO / R:082-3-982 / 082-3-982",
+      "usuarios": "1549",
+      "normalizacion": "2022-01-29 14:37"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "37"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "14"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA GENERAL MITRE",
+      "usuarios": "12"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "usuarios": "21"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "9"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "39"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "46"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "35"
+    }
+  ]
+}

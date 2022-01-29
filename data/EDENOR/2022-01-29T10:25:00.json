@@ -1,0 +1,59 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "390",
+  "totalUsuariosConSuministro": "2.998.101",
+  "ultimaActualizacion": "10:25",
+  "totalUsuariosAyer": "52.964",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR1 / 51-5514",
+      "usuarios": "345",
+      "normalizacion": "2022-01-29 11:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:PARQUE / 357-TR4 / 357-5482",
+      "usuarios": "1",
+      "normalizacion": "2022-01-29 11:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "2",
+      "normalizacion": "2022-01-29 11:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR1 / 156-5513",
+      "usuarios": "1",
+      "normalizacion": "2022-01-29 12:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "33"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "VILLA UDAONDO",
+      "usuarios": "1"
+    }
+  ]
+}
