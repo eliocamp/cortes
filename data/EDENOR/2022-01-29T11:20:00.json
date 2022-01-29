@@ -1,0 +1,64 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "729",
+  "totalUsuariosConSuministro": "2.997.762",
+  "ultimaActualizacion": "11:20",
+  "totalUsuariosAyer": "52.964",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR2 / 258-5528",
+      "usuarios": "337",
+      "normalizacion": "2022-01-29 12:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR1 / 51-5514",
+      "usuarios": "345",
+      "normalizacion": "2022-01-29 12:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "2",
+      "normalizacion": "2022-01-29 13:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR1 / 156-5513",
+      "usuarios": "1",
+      "normalizacion": "2022-01-29 13:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA ORTUZAR",
+      "usuarios": "3"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "33"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "VILLA UDAONDO",
+      "usuarios": "1"
+    }
+  ]
+}
