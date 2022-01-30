@@ -1,0 +1,74 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.052",
+  "totalUsuariosConSuministro": "2.997.439",
+  "ultimaActualizacion": "17:20",
+  "totalUsuariosAyer": "18.875",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR2 / 168-5523",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5523",
+      "usuarios": "401",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "239",
+      "normalizacion": "2022-01-30 19:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5527",
+      "usuarios": "310",
+      "normalizacion": "2022-01-30 18:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "COLEGIALES",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "44"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "usuarios": "5"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "43"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "EL PALOMAR",
+      "usuarios": "1"
+    }
+  ]
+}
