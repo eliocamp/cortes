@@ -1,0 +1,100 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.325",
+  "totalUsuariosConSuministro": "2.996.166",
+  "ultimaActualizacion": "10:45",
+  "totalUsuariosAyer": "18.875",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "YAPEYU",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5514",
+      "usuarios": "313",
+      "normalizacion": "2022-01-30 11:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR2 / 168-5523",
+      "usuarios": "1",
+      "normalizacion": "2022-01-30 12:00"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "HAEDO",
+      "subestacion_alimentador": "- / R:CASTELAR / 61-TR2 / 61-5534",
+      "usuarios": "17",
+      "normalizacion": "2022-01-30 11:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR4 / 158-5471",
+      "usuarios": "1",
+      "normalizacion": "2022-01-30 12:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5524",
+      "usuarios": "1410",
+      "normalizacion": "2022-01-30 11:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "CNEL JOSE ZAPIOLA",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR2 / 68-5522",
+      "usuarios": "176",
+      "normalizacion": "2022-01-30 11:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5527",
+      "usuarios": "310",
+      "normalizacion": "2022-01-30 12:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "23"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "25"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "29"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "CASTELAR",
+      "usuarios": "4"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANZANARES",
+      "usuarios": "10"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VILLA MARTELLI",
+      "usuarios": "0"
+    }
+  ]
+}
