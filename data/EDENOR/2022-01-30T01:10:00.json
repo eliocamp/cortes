@@ -1,0 +1,59 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.549",
+  "totalUsuariosConSuministro": "2.995.942",
+  "ultimaActualizacion": "1:10",
+  "totalUsuariosAyer": "18.875",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "AYACUCHO",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR1 / 54-5448",
+      "usuarios": "131",
+      "normalizacion": "2022-01-30 05:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C LIBERTADOR SAN MART?N",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR1 / 54-5448",
+      "usuarios": "2271",
+      "normalizacion": "2022-01-30 05:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "usuarios": "16"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "usuarios": "16"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "14"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "29"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "usuarios": "37"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "usuarios": "35"
+    }
+  ]
+}
