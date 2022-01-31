@@ -1,0 +1,81 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.463",
+  "totalUsuariosConSuministro": "2.530.717",
+  "ultimaActualizacion": "13:55",
+  "totalUsuariosAyer": "18.253",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "186-GERLI / R:186-1-18 / 186-1-18",
+      "usuarios": "699",
+      "normalizacion": "2022-01-31 17:58"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA FIORITO",
+      "subestacion_alimentador": "89-ALSINA / R:089-2-25 / 089-2-25",
+      "usuarios": "5",
+      "normalizacion": "2022-01-31 18:38"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "89-ALSINA / R:089-2-25 / 089-2-25",
+      "usuarios": "2417",
+      "normalizacion": "2022-01-31 18:38"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "115"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "15"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORESTA",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "75"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN NICOLAS",
+      "usuarios": "52"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "18"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "usuarios": "21"
+    }
+  ]
+}
