@@ -1,0 +1,98 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "6.067",
+  "totalUsuariosConSuministro": "2.528.113",
+  "ultimaActualizacion": "3:15",
+  "totalUsuariosAyer": "18.209",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-1-18 / 189-1-18",
+      "usuarios": "2778",
+      "normalizacion": "2022-01-31 06:43"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MINISTRO RIVADAVIA",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-1-18 / 189-1-18",
+      "usuarios": "19",
+      "normalizacion": "2022-01-31 06:43"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-3-33 / 189-3-33",
+      "usuarios": "2801",
+      "normalizacion": "2022-01-31 07:43"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MINISTRO RIVADAVIA",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-3-33 / 189-3-33",
+      "usuarios": "19",
+      "normalizacion": "2022-01-31 07:43"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CARLOS SPEGAZZINNI",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-15 / 270-1-15",
+      "usuarios": "161",
+      "normalizacion": "2022-01-31 05:58"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-15 / 270-1-15",
+      "usuarios": "142",
+      "normalizacion": "2022-01-31 05:58"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MINISTRO RIVADAVIA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "34"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORESTA",
+      "usuarios": "20"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "LUIS GUILLON",
+      "usuarios": "7"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "9"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "49"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA NUMANCIA SUR",
+      "usuarios": "4"
+    }
+  ]
+}
