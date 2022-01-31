@@ -1,0 +1,64 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.480",
+  "totalUsuariosConSuministro": "2.532.700",
+  "ultimaActualizacion": "22:40",
+  "totalUsuariosAyer": "17.549",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LA PATERNAL",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-1-14 / 147-1-14",
+      "usuarios": "251",
+      "normalizacion": "2022-01-31 02:38"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-1-14 / 147-1-14",
+      "usuarios": "1069",
+      "normalizacion": "2022-01-31 02:38"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "54"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORESTA",
+      "usuarios": "20"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "9"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "34"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA NUMANCIA SUR",
+      "usuarios": "4"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "usuarios": "32"
+    }
+  ]
+}
