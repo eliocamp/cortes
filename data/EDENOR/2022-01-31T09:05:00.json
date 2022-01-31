@@ -1,0 +1,64 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "890",
+  "totalUsuariosConSuministro": "2.997.601",
+  "ultimaActualizacion": "9:05",
+  "totalUsuariosAyer": "41.355",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR1 / 167-5547",
+      "usuarios": "246",
+      "normalizacion": "2022-01-31 11:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR2 / 363-5526",
+      "usuarios": "225",
+      "normalizacion": "2022-01-31 10:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "5",
+      "normalizacion": "2022-01-31 10:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5527",
+      "usuarios": "310",
+      "normalizacion": "2022-01-31 10:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "40"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "5"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "30"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "29"
+    }
+  ]
+}
