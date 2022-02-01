@@ -1,0 +1,57 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "516",
+  "totalUsuariosConSuministro": "2.533.664",
+  "ultimaActualizacion": "22:05",
+  "totalUsuariosAyer": "18.253",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN NICOLAS",
+      "subestacion_alimentador": "49-PARQUE CENTENARIO / R:049-1-16 / 049-1-16",
+      "usuarios": "415",
+      "normalizacion": "2022-02-01 00:02"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "13"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "1"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "22"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "10"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "PARQUE LAS NACIONES",
+      "usuarios": "12"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "31"
+    }
+  ]
+}
