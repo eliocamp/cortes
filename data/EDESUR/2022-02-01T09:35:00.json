@@ -1,0 +1,105 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "4.026",
+  "totalUsuariosConSuministro": "2.530.154",
+  "ultimaActualizacion": "9:35",
+  "totalUsuariosAyer": "21.739",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN NICOLAS",
+      "subestacion_alimentador": "49-PARQUE CENTENARIO / R:049-1-16 / 049-1-16",
+      "usuarios": "415",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "PTE PERON",
+      "localidad": "EL PARAISO",
+      "subestacion_alimentador": "277-GLEW / R:277-2-26 / 277-2-26",
+      "usuarios": "4",
+      "normalizacion": "2022-02-01 13:05"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA CENTRO",
+      "subestacion_alimentador": "277-GLEW / R:277-2-26 / 277-2-26",
+      "usuarios": "548",
+      "normalizacion": "2022-02-01 13:05"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "LA HAYA",
+      "subestacion_alimentador": "277-GLEW / R:277-2-26 / 277-2-26",
+      "usuarios": "1446",
+      "normalizacion": "2022-02-01 13:05"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "LOS PINOS",
+      "subestacion_alimentador": "277-GLEW / R:277-2-26 / 277-2-26",
+      "usuarios": "979",
+      "normalizacion": "2022-02-01 13:05"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SAN PABLO",
+      "subestacion_alimentador": "277-GLEW / R:277-2-26 / 277-2-26",
+      "usuarios": "268",
+      "normalizacion": "2022-02-01 13:05"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "subestacion_alimentador": "85-CALCHAQUI / R:085-1-18 / 085-1-18",
+      "usuarios": "250",
+      "normalizacion": "2022-02-01 10:46"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "33"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "16"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "34"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "1"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "1"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "PARQUE LAS NACIONES",
+      "usuarios": "12"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "8"
+    }
+  ]
+}
