@@ -1,0 +1,71 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "4.118",
+  "totalUsuariosConSuministro": "2.994.373",
+  "ultimaActualizacion": "8:30",
+  "totalUsuariosAyer": "15.432",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "TIGRE",
+      "localidad": "TRONCOS DEL TALAR",
+      "subestacion_alimentador": "- / R:BANCALARI / 157-TR2 / 157-5524",
+      "usuarios": "164",
+      "normalizacion": "2022-02-01 10:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "SAENZ PE?A",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR1 / 69-5514",
+      "usuarios": "1234",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "SANTOS LUGARES",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR1 / 69-5514",
+      "usuarios": "601",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "subestacion_alimentador": "- / R:P.NUEVO / 44-TR2 / 44-5522",
+      "usuarios": "21",
+      "normalizacion": "2022-02-01 09:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:AEROCLUB / 451-TR2 / 451-5564",
+      "usuarios": "2023",
+      "normalizacion": "2022-02-01 11:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "15"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "29"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "5"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "usuarios": "26"
+    }
+  ]
+}

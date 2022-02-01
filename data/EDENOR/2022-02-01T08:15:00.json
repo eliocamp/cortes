@@ -1,0 +1,78 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "5.884",
+  "totalUsuariosConSuministro": "2.992.607",
+  "ultimaActualizacion": "8:15",
+  "totalUsuariosAyer": "15.432",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "TIGRE",
+      "localidad": "TRONCOS DEL TALAR",
+      "subestacion_alimentador": "- / R:BANCALARI / 157-TR2 / 157-5524",
+      "usuarios": "164",
+      "normalizacion": "2022-02-01 09:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR1 / 69-5514",
+      "usuarios": "441",
+      "normalizacion": "2022-02-01 12:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR1 / 69-5514",
+      "usuarios": "615",
+      "normalizacion": "2022-02-01 12:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "SAENZ PE?A",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR1 / 69-5514",
+      "usuarios": "1339",
+      "normalizacion": "2022-02-01 12:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "SANTOS LUGARES",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR1 / 69-5514",
+      "usuarios": "3229",
+      "normalizacion": "2022-02-01 12:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "subestacion_alimentador": "- / R:P.NUEVO / 44-TR2 / 44-5522",
+      "usuarios": "21",
+      "normalizacion": "2022-02-01 09:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "15"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "29"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "5"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "usuarios": "26"
+    }
+  ]
+}
