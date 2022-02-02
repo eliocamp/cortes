@@ -1,0 +1,51 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.622",
+  "totalUsuariosConSuministro": "2.532.558",
+  "ultimaActualizacion": "10:35",
+  "totalUsuariosAyer": "12.239",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "subestacion_alimentador": "79-PInEYRO / R:079-5-54 / 079-5-54",
+      "usuarios": "5",
+      "normalizacion": "2022-02-02 14:36"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-1-15 / 083-1-15",
+      "usuarios": "1085",
+      "normalizacion": "2022-02-02 13:46"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LAVALLOL",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-3-37 / 182-3-37",
+      "usuarios": "458",
+      "normalizacion": "2022-02-02 14:04"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "63"
+    }
+  ]
+}
