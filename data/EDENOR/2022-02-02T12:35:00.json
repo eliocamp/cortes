@@ -1,0 +1,142 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "7.930",
+  "totalUsuariosConSuministro": "2.990.561",
+  "ultimaActualizacion": "12:35",
+  "totalUsuariosAyer": "29.982",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR4 / 51-5482 / 4-5523",
+      "usuarios": "6",
+      "normalizacion": "2022-02-02 13:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR3 / 154-5472 / 253-5512",
+      "usuarios": "26",
+      "normalizacion": "2022-02-02 13:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR1 / 169-5533",
+      "usuarios": "854",
+      "normalizacion": "2022-02-02 14:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "subestacion_alimentador": "- / R:CASANOVA / 63-TR1 / 63-5517",
+      "usuarios": "564",
+      "normalizacion": "2022-02-02 14:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5523",
+      "usuarios": "1202",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "subestacion_alimentador": "- / N:PONTEVEDRA / 261-TR1 / 261-5512",
+      "usuarios": "165",
+      "normalizacion": "2022-02-02 14:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "subestacion_alimentador": "- / R:MUNIZ / 265-TR2 / 265-5526",
+      "usuarios": "375",
+      "normalizacion": "2022-02-02 14:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR2 / 158-5527",
+      "usuarios": "4",
+      "normalizacion": "2022-02-02 13:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "5",
+      "normalizacion": "2022-02-02 13:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "subestacion_alimentador": "- / R:MUNIZ / 265-TR2 / 265-5526",
+      "usuarios": "1020",
+      "normalizacion": "2022-02-02 14:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "AGRONOMIA",
+      "subestacion_alimentador": "- / R:URQUIZA136 / 136-TR3 / 136-5528",
+      "usuarios": "688",
+      "normalizacion": "2022-02-02 13:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "subestacion_alimentador": "- / R:VIDAL / 114-TR2 / 114-5526",
+      "usuarios": "145",
+      "normalizacion": "2022-02-02 13:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR5",
+      "usuarios": "2753",
+      "normalizacion": "2022-02-02 16:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "1"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "40"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA URQUIZA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "usuarios": "16"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "PARQUE SAN LORENZO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "26"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "25"
+    }
+  ]
+}

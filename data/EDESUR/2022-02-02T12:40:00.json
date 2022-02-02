@@ -1,0 +1,82 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.110",
+  "totalUsuariosConSuministro": "2.532.070",
+  "ultimaActualizacion": "12:40",
+  "totalUsuariosAyer": "12.239",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "82-BURZACO / R:082-3-982 / 082-3-982",
+      "usuarios": "1117",
+      "normalizacion": "2022-02-02 15:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "subestacion_alimentador": "79-PInEYRO / R:079-5-54 / 079-5-54",
+      "usuarios": "5",
+      "normalizacion": "2022-02-02 16:51"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "185-BOSQUES / R:185-2-25 / 185-2-25",
+      "usuarios": "914",
+      "normalizacion": "2022-02-02 17:28"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "2"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "14"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "usuarios": "19"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "6"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "1"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "1"
+    }
+  ]
+}
