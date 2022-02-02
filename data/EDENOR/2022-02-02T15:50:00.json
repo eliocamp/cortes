@@ -1,0 +1,141 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "11.744",
+  "totalUsuariosConSuministro": "2.986.747",
+  "ultimaActualizacion": "15:50",
+  "totalUsuariosAyer": "29.982",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR4 / 51-5482 / 4-5523",
+      "usuarios": "6",
+      "normalizacion": "2022-02-02 17:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "subestacion_alimentador": "- / R:CASANOVA / 63-TR1 / 63-5517",
+      "usuarios": "372",
+      "normalizacion": "2022-02-02 16:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "subestacion_alimentador": "- / N:PONTEVEDRA / 261-TR1 / 261-5512",
+      "usuarios": "165",
+      "normalizacion": "2022-02-02 17:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:DELVISO / 251-TR1",
+      "usuarios": "387",
+      "normalizacion": "2022-02-02 17:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:DELVISO / 251-TR1",
+      "usuarios": "439",
+      "normalizacion": "2022-02-02 16:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "DEL VISO",
+      "subestacion_alimentador": "- / R:DELVISO / 251-TR1",
+      "usuarios": "562",
+      "normalizacion": "2022-02-02 17:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LUIS LAGOMARSINO",
+      "subestacion_alimentador": "- / R:DELVISO / 251-TR1",
+      "usuarios": "2132",
+      "normalizacion": "2022-02-02 17:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "subestacion_alimentador": "- / R:DELVISO / 251-TR1",
+      "usuarios": "3669",
+      "normalizacion": "2022-02-02 17:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "subestacion_alimentador": "- / R:DELVISO / 251-TR1",
+      "usuarios": "99",
+      "normalizacion": "2022-02-02 17:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / TR2 / 362-5526",
+      "usuarios": "3521",
+      "normalizacion": "2022-02-02 16:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "SAENZ PE?A",
+      "usuarios": "36"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "33"
+    },
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "usuarios": "14"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "69"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN M DE PUEYRREDON",
+      "usuarios": "22"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "PARQUE SAN LORENZO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "usuarios": "31"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "31"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LUIS LAGOMARSINO",
+      "usuarios": "15"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "usuarios": "131"
+    }
+  ]
+}

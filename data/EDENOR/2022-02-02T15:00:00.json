@@ -1,0 +1,112 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "6.834",
+  "totalUsuariosConSuministro": "2.991.657",
+  "ultimaActualizacion": "15:00",
+  "totalUsuariosAyer": "29.982",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR4 / 51-5482 / 4-5523",
+      "usuarios": "6",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "subestacion_alimentador": "- / R:CASANOVA / 63-TR1 / 63-5517",
+      "usuarios": "372",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5523",
+      "usuarios": "333",
+      "normalizacion": "2022-02-02 16:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "subestacion_alimentador": "- / N:PONTEVEDRA / 261-TR1 / 261-5512",
+      "usuarios": "165",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "subestacion_alimentador": "- / R:MUNIZ / 265-TR2 / 265-5526",
+      "usuarios": "375",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "subestacion_alimentador": "- / R:MUNIZ / 265-TR2 / 265-5526",
+      "usuarios": "1020",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "AGRONOMIA",
+      "subestacion_alimentador": "- / R:URQUIZA136 / 136-TR3 / 136-5528",
+      "usuarios": "688",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / TR2 / 362-5526",
+      "usuarios": "3521",
+      "normalizacion": "2022-02-02 16:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "40"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "33"
+    },
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "usuarios": "14"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN M DE PUEYRREDON",
+      "usuarios": "22"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "PARQUE SAN LORENZO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "23"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "85"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "usuarios": "131"
+    }
+  ]
+}
