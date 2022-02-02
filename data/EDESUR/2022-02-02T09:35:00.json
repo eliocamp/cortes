@@ -1,0 +1,37 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "90",
+  "totalUsuariosConSuministro": "2.534.090",
+  "ultimaActualizacion": "9:35",
+  "totalUsuariosAyer": "12.239",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "subestacion_alimentador": "79-PInEYRO / R:079-5-54 / 079-5-54",
+      "usuarios": "5",
+      "normalizacion": "2022-02-02 14:36"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "23"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "61"
+    }
+  ]
+}
