@@ -1,0 +1,104 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.103",
+  "totalUsuariosConSuministro": "2.997.388",
+  "ultimaActualizacion": "11:50",
+  "totalUsuariosAyer": "40.059",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "ITUZAINGO",
+      "subestacion_alimentador": "- / R:SAN ALBERTO / 366-TR1 / 366-5517",
+      "usuarios": "320",
+      "normalizacion": "2022-02-05 12:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5536",
+      "usuarios": "1",
+      "normalizacion": "2022-02-05 12:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5524",
+      "usuarios": "125",
+      "normalizacion": "2022-02-05 13:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR3 / 158-5473",
+      "usuarios": "1",
+      "normalizacion": "2022-02-05 13:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "12",
+      "normalizacion": "2022-02-05 13:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR3 / 51-5483 / 4-5534",
+      "usuarios": "211",
+      "normalizacion": "2022-02-05 13:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GDEROS DE SAN MART?N",
+      "subestacion_alimentador": "- / R:TECNOPOLIS / 352-TR1 / 352-5511",
+      "usuarios": "2",
+      "normalizacion": "2022-02-05 13:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
+      "usuarios": "270",
+      "normalizacion": "2022-02-05 12:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "GENERAL PACHECO",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR2 / 58-5521",
+      "usuarios": "111",
+      "normalizacion": "2022-02-05 13:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "13"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "6"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "21"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    }
+  ]
+}
