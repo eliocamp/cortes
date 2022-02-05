@@ -1,0 +1,101 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.078",
+  "totalUsuariosConSuministro": "2.995.413",
+  "ultimaActualizacion": "0:05",
+  "totalUsuariosAyer": "39.233",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR1 / 168-5514",
+      "usuarios": "371",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR1 / 363-5512",
+      "usuarios": "791",
+      "normalizacion": "2022-02-05 01:00"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "CASTELAR",
+      "subestacion_alimentador": "- / R:ITUZAINGO / 264-TR2 / 264-5528",
+      "usuarios": "1511",
+      "normalizacion": "2022-02-05 02:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "SANTOS LUGARES",
+      "usuarios": "1"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "92"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "29"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "9"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "35"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "SAN ANTONIO DE PADUA",
+      "usuarios": "98"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "25"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "21"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ASTOLFI",
+      "usuarios": "8"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "53"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "14"
+    }
+  ]
+}
