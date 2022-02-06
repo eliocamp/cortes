@@ -1,0 +1,62 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "5.760",
+  "totalUsuariosConSuministro": "2.992.731",
+  "ultimaActualizacion": "17:00",
+  "totalUsuariosAyer": "25.745",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR1 / 254-5546",
+      "usuarios": "202",
+      "normalizacion": "2022-02-06 18:00"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR3 / 363-5472 / 132-5513",
+      "usuarios": "83",
+      "normalizacion": "2022-02-06 21:00"
+    },
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR3 / 363-5472 / 132-5513",
+      "usuarios": "3303",
+      "normalizacion": "2022-02-06 21:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR1 / 266-5511",
+      "usuarios": "1",
+      "normalizacion": "2022-02-06 18:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR1 / 353-5517",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR1 / 254-5546",
+      "usuarios": "2164",
+      "normalizacion": "2022-02-06 18:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    }
+  ]
+}

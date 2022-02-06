@@ -1,0 +1,60 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.551",
+  "totalUsuariosConSuministro": "2.995.940",
+  "ultimaActualizacion": "17:20",
+  "totalUsuariosAyer": "25.745",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR1 / 254-5546",
+      "usuarios": "202",
+      "normalizacion": "2022-02-06 19:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5543",
+      "usuarios": "110",
+      "normalizacion": "2022-02-06 21:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR1 / 266-5511",
+      "usuarios": "1",
+      "normalizacion": "2022-02-06 18:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR1 / 353-5517",
+      "usuarios": "1",
+      "normalizacion": "2022-02-06 18:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR1 / 254-5546",
+      "usuarios": "2164",
+      "normalizacion": "2022-02-06 19:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "67"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    }
+  ]
+}
