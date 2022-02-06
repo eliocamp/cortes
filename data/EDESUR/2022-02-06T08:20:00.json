@@ -1,0 +1,133 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "15.325",
+  "totalUsuariosConSuministro": "2.518.855",
+  "ultimaActualizacion": "8:20",
+  "totalUsuariosAyer": "34.583",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORESTA",
+      "subestacion_alimentador": "38-LURO / R:038-2-22 / 038-2-22",
+      "usuarios": "1438",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MONTE CASTRO",
+      "subestacion_alimentador": "38-LURO / R:038-2-22 / 038-2-22",
+      "usuarios": "2259",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VELEZ SARFIELD",
+      "subestacion_alimentador": "38-LURO / R:038-2-22 / 038-2-22",
+      "usuarios": "1099",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "GERLI A",
+      "subestacion_alimentador": "87-ESCALADA / R:087-1-08 / 087-1-08",
+      "usuarios": "1137",
+      "normalizacion": "2022-02-06 13:10"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI L",
+      "subestacion_alimentador": "87-ESCALADA / R:087-1-08 / 087-1-08",
+      "usuarios": "779",
+      "normalizacion": "2022-02-06 13:10"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS ESTE",
+      "subestacion_alimentador": "87-ESCALADA / R:087-1-08 / 087-1-08",
+      "usuarios": "3537",
+      "normalizacion": "2022-02-06 13:10"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS ESTE",
+      "subestacion_alimentador": "87-ESCALADA / R:087-4-42 / 087-4-42",
+      "usuarios": "2335",
+      "normalizacion": "2022-02-06 10:33"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "87-ESCALADA / R:087-4-42 / 087-4-42",
+      "usuarios": "254",
+      "normalizacion": "2022-02-06 10:33"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "87-ESCALADA / R:087-1-08 / 087-1-08",
+      "usuarios": "255",
+      "normalizacion": "2022-02-06 13:10"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-2-23 / 084-2-23",
+      "usuarios": "1824",
+      "normalizacion": "2022-02-06 11:02"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-2-27 / 281-2-27",
+      "usuarios": "240",
+      "normalizacion": "2022-02-06 13:48"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "40"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "44"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "28"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONTE CASTRO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "15"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "usuarios": "22"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "8"
+    }
+  ]
+}
