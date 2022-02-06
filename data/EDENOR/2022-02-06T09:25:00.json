@@ -1,0 +1,52 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.605",
+  "totalUsuariosConSuministro": "2.995.886",
+  "ultimaActualizacion": "9:25",
+  "totalUsuariosAyer": "25.745",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5536",
+      "usuarios": "1",
+      "normalizacion": "2022-02-06 11:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / TR2 / 362-5528",
+      "usuarios": "1285",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "MU?IZ",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / TR2 / 362-5528",
+      "usuarios": "1290",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    }
+  ]
+}

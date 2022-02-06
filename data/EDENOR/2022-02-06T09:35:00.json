@@ -1,0 +1,42 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "35",
+  "totalUsuariosConSuministro": "2.998.456",
+  "ultimaActualizacion": "9:35",
+  "totalUsuariosAyer": "25.745",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5536",
+      "usuarios": "1",
+      "normalizacion": "2022-02-06 10:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    }
+  ]
+}
