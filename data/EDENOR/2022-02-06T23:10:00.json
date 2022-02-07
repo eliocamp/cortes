@@ -1,0 +1,63 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.781",
+  "totalUsuariosConSuministro": "2.995.710",
+  "ultimaActualizacion": "23:10",
+  "totalUsuariosAyer": "25.745",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR2 / 156-5521",
+      "usuarios": "140",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR2 / 156-5521",
+      "usuarios": "526",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR2 / 156-5521",
+      "usuarios": "704",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR2 / 156-5521",
+      "usuarios": "1009",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5528",
+      "usuarios": "395",
+      "normalizacion": "2022-02-07 00:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR1 / 266-5511",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    }
+  ]
+}

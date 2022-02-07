@@ -1,0 +1,34 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "402",
+  "totalUsuariosConSuministro": "2.998.089",
+  "ultimaActualizacion": "23:45",
+  "totalUsuariosAyer": "25.745",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5528",
+      "usuarios": "395",
+      "normalizacion": "2022-02-07 00:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR1 / 266-5511",
+      "usuarios": "1",
+      "normalizacion": "2022-02-07 00:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    }
+  ]
+}
