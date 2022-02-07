@@ -1,0 +1,58 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.961",
+  "totalUsuariosConSuministro": "2.532.219",
+  "ultimaActualizacion": "8:05",
+  "totalUsuariosAyer": "31.858",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BARRACAS",
+      "subestacion_alimentador": "124-CONSTITUCION / R:124-2-26 / 124-2-26",
+      "usuarios": "1",
+      "normalizacion": "2022-02-07 09:48"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-3-33 / 083-3-33 / 083-4-42",
+      "usuarios": "491",
+      "normalizacion": "2022-02-07 08:53"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-2-21 / 281-2-21",
+      "usuarios": "114",
+      "normalizacion": "2022-02-07 10:25"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-2-21 / 281-2-21",
+      "usuarios": "1291",
+      "normalizacion": "2022-02-07 10:25"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "33"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "RECOLETA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "21"
+    }
+  ]
+}

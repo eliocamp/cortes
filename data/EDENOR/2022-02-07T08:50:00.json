@@ -1,0 +1,92 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.294",
+  "totalUsuariosConSuministro": "2.997.197",
+  "ultimaActualizacion": "8:50",
+  "totalUsuariosAyer": "24.691",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR1 / 167-5546",
+      "usuarios": "488",
+      "normalizacion": "2022-02-07 10:00"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BOULOGNE",
+      "subestacion_alimentador": "- / R:BOULOGNE / 56-TR1 / 56-5513",
+      "usuarios": "16",
+      "normalizacion": "2022-02-07 09:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "subestacion_alimentador": "- / R:MORON / 67-TR4 / 67-5524",
+      "usuarios": "327",
+      "normalizacion": "2022-02-07 10:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
+      "usuarios": "37",
+      "normalizacion": "2022-02-07 13:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR4 / 353-5481",
+      "usuarios": "1",
+      "normalizacion": "2022-02-07 10:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5528",
+      "usuarios": "395",
+      "normalizacion": "2022-02-07 10:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN M DE PUEYRREDON",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR2 / 68-5534",
+      "usuarios": "1",
+      "normalizacion": "2022-02-07 10:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR4 / 353-5481",
+      "usuarios": "2",
+      "normalizacion": "2022-02-07 10:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "5"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "usuarios": "4"
+    }
+  ]
+}

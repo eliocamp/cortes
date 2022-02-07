@@ -1,0 +1,53 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "453",
+  "totalUsuariosConSuministro": "2.998.038",
+  "ultimaActualizacion": "8:10",
+  "totalUsuariosAyer": "24.691",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR4 / 353-5481",
+      "usuarios": "1",
+      "normalizacion": "2022-02-07 11:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5528",
+      "usuarios": "395",
+      "normalizacion": "2022-02-07 09:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR4 / 353-5481",
+      "usuarios": "27",
+      "normalizacion": "2022-02-07 11:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR4 / 353-5481",
+      "usuarios": "12",
+      "normalizacion": "2022-02-07 11:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    }
+  ]
+}

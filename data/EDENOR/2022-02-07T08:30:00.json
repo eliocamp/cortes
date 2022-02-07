@@ -1,0 +1,71 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "913",
+  "totalUsuariosConSuministro": "2.997.578",
+  "ultimaActualizacion": "8:30",
+  "totalUsuariosAyer": "24.691",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR1 / 167-5546",
+      "usuarios": "488",
+      "normalizacion": "2022-02-07 09:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR4 / 353-5481",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5528",
+      "usuarios": "395",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN M DE PUEYRREDON",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR2 / 68-5534",
+      "usuarios": "1",
+      "normalizacion": "2022-02-07 09:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR4 / 353-5481",
+      "usuarios": "2",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "4"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "usuarios": "4"
+    }
+  ]
+}
