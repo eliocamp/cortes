@@ -1,0 +1,68 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "8.023",
+  "totalUsuariosConSuministro": "2.526.157",
+  "ultimaActualizacion": "22:10",
+  "totalUsuariosAyer": "34.583",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "2238",
+      "normalizacion": "2022-02-07 01:41"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "2852",
+      "normalizacion": "2022-02-07 01:41"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "1839",
+      "normalizacion": "2022-02-07 01:41"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "subestacion_alimentador": "85-CALCHAQUI / R:085-2-26 / 085-2-26",
+      "usuarios": "319",
+      "normalizacion": "2022-02-06 23:43"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES RP",
+      "subestacion_alimentador": "39-POMPEYA / R:039-4-42 / 039-4-42",
+      "usuarios": "240",
+      "normalizacion": "2022-02-06 23:21"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "286- / R:286-5-55 / 286-5-55",
+      "usuarios": "503",
+      "normalizacion": "2022-02-07 01:15"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MARMOL",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "26"
+    }
+  ]
+}
