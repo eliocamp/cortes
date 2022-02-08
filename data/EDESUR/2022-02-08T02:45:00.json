@@ -1,0 +1,47 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "211",
+  "totalUsuariosConSuministro": "2.533.969",
+  "ultimaActualizacion": "2:45",
+  "totalUsuariosAyer": "4.881",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-24 / 083-2-24",
+      "usuarios": "64",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "25"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "42"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "14"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "50"
+    }
+  ]
+}
