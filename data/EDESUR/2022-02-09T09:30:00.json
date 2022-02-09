@@ -1,0 +1,47 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.444",
+  "totalUsuariosConSuministro": "2.530.736",
+  "ultimaActualizacion": "9:30",
+  "totalUsuariosAyer": "6.777",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-2-25 / 270-2-25",
+      "usuarios": "1633",
+      "normalizacion": "2022-02-09 12:46"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CANNING EZ",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-2-25 / 270-2-25",
+      "usuarios": "24",
+      "normalizacion": "2022-02-09 12:46"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE PATRICIOS",
+      "subestacion_alimentador": "15-PATRICIOS / R:015-1-16 / 015-1-16",
+      "usuarios": "1713",
+      "normalizacion": "2022-02-09 13:57"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "18"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "56"
+    }
+  ]
+}
