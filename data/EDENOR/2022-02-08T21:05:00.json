@@ -1,0 +1,59 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "749",
+  "totalUsuariosConSuministro": "2.997.742",
+  "ultimaActualizacion": "21:05",
+  "totalUsuariosAyer": "10.836",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA ORTUZAR",
+      "subestacion_alimentador": "- / R:AGRONOMIA / 47-TR5 / 47-5528",
+      "usuarios": "251",
+      "normalizacion": "2022-02-08 21:21"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GRAL JOSE TOMAS GUIDO",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5518",
+      "usuarios": "420",
+      "normalizacion": "2022-02-08 22:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GRAL JOSE TOMAS GUIDO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "19"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "CASTELAR",
+      "usuarios": "0"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "44"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "498",
+  "totalUsuariosConSuministro": "2.997.993",
+  "ultimaActualizacion": "21:30",
+  "totalUsuariosAyer": "10.836",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GRAL JOSE TOMAS GUIDO",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5518",
+      "usuarios": "420",
+      "normalizacion": "2022-02-08 22:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GRAL JOSE TOMAS GUIDO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "19"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "44"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    }
+  ]
+}
