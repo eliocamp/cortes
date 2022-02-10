@@ -1,0 +1,50 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "301",
+  "totalUsuariosConSuministro": "2.533.879",
+  "ultimaActualizacion": "10:05",
+  "totalUsuariosAyer": "14.262",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-1-14 / 184-1-14",
+      "usuarios": "230",
+      "normalizacion": "2022-02-10 12:51"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 3",
+      "subestacion_alimentador": "271-CAnUELAS / N:271-2-27 / 271-2-27",
+      "usuarios": "1",
+      "normalizacion": "2022-02-10 15:19"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "GERLI",
+      "usuarios": "24"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "usuarios": "21"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "19"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "6"
+    }
+  ]
+}
