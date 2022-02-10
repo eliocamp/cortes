@@ -1,0 +1,42 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.138",
+  "totalUsuariosConSuministro": "2.995.353",
+  "ultimaActualizacion": "7:30",
+  "totalUsuariosAyer": "27.388",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "subestacion_alimentador": "- / R:MORON / 67-TR4 / 67-5528",
+      "usuarios": "3092",
+      "normalizacion": "2022-02-10 11:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "8"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "5"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "usuarios": "2"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "TRONCOS DEL TALAR",
+      "usuarios": "31"
+    }
+  ]
+}

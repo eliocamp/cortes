@@ -1,0 +1,49 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.848",
+  "totalUsuariosConSuministro": "2.995.643",
+  "ultimaActualizacion": "7:45",
+  "totalUsuariosAyer": "27.388",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5524",
+      "usuarios": "329",
+      "normalizacion": "2022-02-10 11:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TIERRAS ALTAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5524",
+      "usuarios": "2473",
+      "normalizacion": "2022-02-10 11:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "8"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "5"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "usuarios": "2"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "TRONCOS DEL TALAR",
+      "usuarios": "31"
+    }
+  ]
+}
