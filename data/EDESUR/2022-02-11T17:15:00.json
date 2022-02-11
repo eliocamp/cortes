@@ -1,0 +1,160 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "11.800",
+  "totalUsuariosConSuministro": "2.522.380",
+  "ultimaActualizacion": "17:15",
+  "totalUsuariosAyer": "11.623",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-3-36 / 189-3-36",
+      "usuarios": "2433",
+      "normalizacion": "2022-02-11 18:02"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-25 / 083-2-25",
+      "usuarios": "111",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-2-25 / 174-2-25",
+      "usuarios": "36",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LAVALLOL",
+      "subestacion_alimentador": "180-ALMIRANTE BROWN / R:180-2-24 / 180-2-24",
+      "usuarios": "356",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "564",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-2-25 / 076-2-25",
+      "usuarios": "2",
+      "normalizacion": "2022-02-11 20:21"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-2-25 / 076-2-25",
+      "usuarios": "760",
+      "normalizacion": "2022-02-11 20:21"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "952- / R:952-1-05 / 952-1-05",
+      "usuarios": "343",
+      "normalizacion": "2022-02-11 20:37"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-2-25 / 076-2-25",
+      "usuarios": "4854",
+      "normalizacion": "2022-02-11 20:21"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "85-CALCHAQUI / R:085-1-11 / 085-1-11",
+      "usuarios": "1233",
+      "normalizacion": "2022-02-11 20:38"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "73-QUILMES / R:073-2-24 / 073-2-24",
+      "usuarios": "346",
+      "normalizacion": "2022-02-11 20:48"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "73-QUILMES / R:073-3-36 / 073-3-36",
+      "usuarios": "462",
+      "normalizacion": "2022-02-11 22:45"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "67"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "2"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "119"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "14"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "24"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "34"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "9"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "usuarios": "13"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "2"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "2"
+    }
+  ]
+}

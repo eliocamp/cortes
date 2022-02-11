@@ -1,0 +1,178 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "5.267",
+  "totalUsuariosConSuministro": "2.993.224",
+  "ultimaActualizacion": "17:50",
+  "totalUsuariosAyer": "24.976",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:LAS HERAS / 269-TR2 / 269-5512",
+      "usuarios": "298",
+      "normalizacion": "2022-02-11 18:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR1 / 353-5517",
+      "usuarios": "9",
+      "normalizacion": "2022-02-11 18:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "49",
+      "normalizacion": "2022-02-11 19:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5524",
+      "usuarios": "61",
+      "normalizacion": "2022-02-11 18:00"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "1",
+      "normalizacion": "2022-02-11 19:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR1 / 167-5512",
+      "usuarios": "290",
+      "normalizacion": "2022-02-11 21:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR1 / 167-5512",
+      "usuarios": "196",
+      "normalizacion": "2022-02-11 21:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR1 / 59-5513",
+      "usuarios": "15",
+      "normalizacion": "2022-02-11 18:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5524",
+      "usuarios": "377",
+      "normalizacion": "2022-02-11 18:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "LOMA VERDE",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5524",
+      "usuarios": "705",
+      "normalizacion": "2022-02-11 18:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5524",
+      "usuarios": "1847",
+      "normalizacion": "2022-02-11 18:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR1 / 353-5517",
+      "usuarios": "8",
+      "normalizacion": "2022-02-11 18:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5527",
+      "usuarios": "505",
+      "normalizacion": "2022-02-11 19:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "49",
+      "normalizacion": "2022-02-11 19:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "LA LUCILA",
+      "subestacion_alimentador": "- / R:V.LOPEZ / 50-TR1 / 50-5518",
+      "usuarios": "337",
+      "normalizacion": "2022-02-11 19:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "subestacion_alimentador": "- / R:V.LOPEZ / 50-TR1 / 50-5518",
+      "usuarios": "304",
+      "normalizacion": "2022-02-11 19:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "AGRONOMIA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "COLEGIALES",
+      "usuarios": "12"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "130"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "15"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "64"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "14"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VIRREYES",
+      "usuarios": "4"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "4"
+    }
+  ]
+}
