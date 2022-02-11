@@ -1,0 +1,67 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.309",
+  "totalUsuariosConSuministro": "2.997.182",
+  "ultimaActualizacion": "1:15",
+  "totalUsuariosAyer": "24.145",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5527",
+      "usuarios": "457",
+      "normalizacion": "2022-02-11 02:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "2",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR1 / 262-5518",
+      "usuarios": "776",
+      "normalizacion": "2022-02-11 04:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "10"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "4"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "usuarios": "24"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "GENERAL PACHECO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "TRONCOS DEL TALAR",
+      "usuarios": "25"
+    }
+  ]
+}
