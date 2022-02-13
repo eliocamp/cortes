@@ -1,0 +1,52 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "134",
+  "totalUsuariosConSuministro": "2.998.357",
+  "ultimaActualizacion": "22:35",
+  "totalUsuariosAyer": "50.179",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "17",
+      "normalizacion": "2022-02-12 23:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAAVEDRA",
+      "usuarios": "16"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "8"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "25"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "44"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "CASTELAR",
+      "usuarios": "5"
+    }
+  ]
+}
