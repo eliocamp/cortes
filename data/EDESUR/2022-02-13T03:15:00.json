@@ -1,0 +1,72 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.010",
+  "totalUsuariosConSuministro": "2.532.170",
+  "ultimaActualizacion": "3:15",
+  "totalUsuariosAyer": "41.663",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "subestacion_alimentador": "951- / R:951-1-03 / 951-1-03",
+      "usuarios": "36",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "MAXIMO PAZ",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-17 / 270-1-17",
+      "usuarios": "1220",
+      "normalizacion": "2022-02-13 07:18"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 8",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-17 / 270-1-17",
+      "usuarios": "2",
+      "normalizacion": "2022-02-13 07:18"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 9",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-17 / 270-1-17",
+      "usuarios": "570",
+      "normalizacion": "2022-02-13 07:18"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CARLOS SPEGAZZINNI",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-17 / 270-1-17",
+      "usuarios": "48",
+      "normalizacion": "2022-02-13 07:18"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-25 / 083-2-25",
+      "usuarios": "111",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "11"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "5"
+    }
+  ]
+}

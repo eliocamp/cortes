@@ -1,0 +1,46 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "743",
+  "totalUsuariosConSuministro": "2.997.748",
+  "ultimaActualizacion": "3:20",
+  "totalUsuariosAyer": "7.723",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5515",
+      "usuarios": "335",
+      "normalizacion": "2022-02-13 07:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "VILLA BOSCH",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5515",
+      "usuarios": "328",
+      "normalizacion": "2022-02-13 07:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "17",
+      "normalizacion": "2022-02-13 04:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "44"
+    }
+  ]
+}
