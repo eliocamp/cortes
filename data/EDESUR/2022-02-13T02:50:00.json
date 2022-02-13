@@ -1,0 +1,51 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.614",
+  "totalUsuariosConSuministro": "2.532.566",
+  "ultimaActualizacion": "2:50",
+  "totalUsuariosAyer": "41.663",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "subestacion_alimentador": "951- / R:951-1-03 / 951-1-03",
+      "usuarios": "36",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-25 / 083-2-25",
+      "usuarios": "111",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "subestacion_alimentador": "185-BOSQUES / R:185-2-24 / 185-2-24",
+      "usuarios": "1444",
+      "normalizacion": "2022-02-13 06:37"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "11"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "5"
+    }
+  ]
+}
