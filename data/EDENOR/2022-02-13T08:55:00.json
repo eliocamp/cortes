@@ -1,0 +1,42 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "456",
+  "totalUsuariosConSuministro": "2.998.035",
+  "ultimaActualizacion": "8:55",
+  "totalUsuariosAyer": "8.208",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR1 / 167-5511",
+      "usuarios": "386",
+      "normalizacion": "2022-02-13 09:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "EL TRIANGULO",
+      "subestacion_alimentador": "- / R:FORD / 151-TR2 / 151-5533",
+      "usuarios": "34",
+      "normalizacion": "2022-02-13 09:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "17",
+      "normalizacion": "2022-02-13 09:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "19"
+    }
+  ]
+}
