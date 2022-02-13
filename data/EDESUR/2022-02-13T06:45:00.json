@@ -1,0 +1,40 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "608",
+  "totalUsuariosConSuministro": "2.533.572",
+  "ultimaActualizacion": "6:45",
+  "totalUsuariosAyer": "42.335",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-25 / 083-2-25",
+      "usuarios": "111",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-4-45 / 083-4-45",
+      "usuarios": "484",
+      "normalizacion": "2022-02-13 09:12"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "6"
+    }
+  ]
+}
