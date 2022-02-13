@@ -1,0 +1,54 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "4.502",
+  "totalUsuariosConSuministro": "2.529.678",
+  "ultimaActualizacion": "9:45",
+  "totalUsuariosAyer": "42.335",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "subestacion_alimentador": "951- / R:951-1-03 / 951-1-03",
+      "usuarios": "33",
+      "normalizacion": "2022-02-13 10:27"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "87-ESCALADA / R:087-1-07 / 087-1-07",
+      "usuarios": "2454",
+      "normalizacion": "2022-02-13 13:32"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "87-ESCALADA / R:087-1-07 / 087-1-07",
+      "usuarios": "1254",
+      "normalizacion": "2022-02-13 13:32"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "subestacion_alimentador": "185-BOSQUES / R:185-2-26 / 185-2-26",
+      "usuarios": "577",
+      "normalizacion": "2022-02-13 13:44"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "178"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "6"
+    }
+  ]
+}
