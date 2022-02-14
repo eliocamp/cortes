@@ -1,0 +1,122 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.279",
+  "totalUsuariosConSuministro": "2.531.901",
+  "ultimaActualizacion": "16:50",
+  "totalUsuariosAyer": "20.401",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "ZONA RURAL 1 EE",
+      "subestacion_alimentador": "277-GLEW / R:277-1-18 / 277-1-18",
+      "usuarios": "34",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-4-48 / 077-4-48",
+      "usuarios": "2",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "ZONA RURAL 1 EE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27",
+      "usuarios": "83",
+      "normalizacion": "2022-02-14 20:13"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27",
+      "usuarios": "1",
+      "normalizacion": "2022-02-14 20:13"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI L",
+      "subestacion_alimentador": "186-GERLI / R:186-2-23 / 186-2-23",
+      "usuarios": "994",
+      "normalizacion": "2022-02-14 20:12"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-1-14 / 084-1-14",
+      "usuarios": "181",
+      "normalizacion": "2022-02-14 19:14"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TURDERA",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-1-14 / 084-1-14",
+      "usuarios": "174",
+      "normalizacion": "2022-02-14 19:14"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27",
+      "usuarios": "719",
+      "normalizacion": "2022-02-14 20:13"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORESTA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA GENERAL MITRE",
+      "usuarios": "7"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "usuarios": "4"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "ING. ALLAN",
+      "usuarios": "15"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "19"
+    }
+  ]
+}
