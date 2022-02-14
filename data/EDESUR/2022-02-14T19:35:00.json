@@ -1,0 +1,110 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.527",
+  "totalUsuariosConSuministro": "2.531.653",
+  "ultimaActualizacion": "19:35",
+  "totalUsuariosAyer": "20.401",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "CANNING EE",
+      "subestacion_alimentador": "277-GLEW / R:277-1-18 / 277-1-18",
+      "usuarios": "146",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "ZONA RURAL 1 EE",
+      "subestacion_alimentador": "277-GLEW / R:277-1-18 / 277-1-18",
+      "usuarios": "464",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "277-GLEW / R:277-1-18 / 277-1-18",
+      "usuarios": "434",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "277-GLEW / R:277-1-18 / 277-1-18",
+      "usuarios": "520",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "ZONA RURAL 1 EE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27",
+      "usuarios": "83",
+      "normalizacion": "2022-02-14 23:39"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27",
+      "usuarios": "1",
+      "normalizacion": "2022-02-14 23:39"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27",
+      "usuarios": "719",
+      "normalizacion": "2022-02-14 23:39"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "9"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "79"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "26"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "1"
+    }
+  ]
+}
