@@ -1,0 +1,76 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.353",
+  "totalUsuariosConSuministro": "2.995.138",
+  "ultimaActualizacion": "8:35",
+  "totalUsuariosAyer": "28.286",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MAQUINISTA SAVIO",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5522",
+      "usuarios": "9",
+      "normalizacion": "2022-02-15 10:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GRAL EUGENIO NECOCHEA",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR2 / 266-5527",
+      "usuarios": "626",
+      "normalizacion": "2022-02-15 12:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "EL TRIANGULO",
+      "subestacion_alimentador": "- / R:FORD / 151-TR2 / 151-5528",
+      "usuarios": "2",
+      "normalizacion": "2022-02-15 09:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR2 / 260-5522",
+      "usuarios": "1",
+      "normalizacion": "2022-02-15 10:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "subestacion_alimentador": "- / R:S.FERNANDO / 351-TR1 / 351-5512",
+      "usuarios": "2609",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C LIBERTADOR SAN MART?N",
+      "usuarios": "6"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "32"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "43"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "19"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VILLA MARTELLI",
+      "usuarios": "6"
+    }
+  ]
+}
