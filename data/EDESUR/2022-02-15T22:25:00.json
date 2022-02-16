@@ -1,0 +1,114 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "580",
+  "totalUsuariosConSuministro": "2.533.600",
+  "ultimaActualizacion": "22:25",
+  "totalUsuariosAyer": "23.748",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "PTE PERON",
+      "localidad": "ZONA RURAL I PP",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27 / 277-1-18",
+      "usuarios": "118",
+      "normalizacion": "2022-02-16 01:32"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27 / 277-1-18",
+      "usuarios": "48",
+      "normalizacion": "2022-02-16 01:32"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "19"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "28"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "50"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "19"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORESTA",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "21"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "18"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "97"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "CANNING",
+      "usuarios": "34"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI",
+      "usuarios": "12"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "52"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "8"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA FIORITO",
+      "usuarios": "12"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "8"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "20"
+    }
+  ]
+}
