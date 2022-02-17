@@ -1,0 +1,157 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.294",
+  "totalUsuariosConSuministro": "2.995.197",
+  "ultimaActualizacion": "14:35",
+  "totalUsuariosAyer": "35.994",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR1 / 167-5542",
+      "usuarios": "48",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "subestacion_alimentador": "- / R:P.NUEVO / 44-TR2 / 44-5524",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5536",
+      "usuarios": "327",
+      "normalizacion": "2022-02-17 15:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "DEL VISO",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR1 / 51-5515",
+      "usuarios": "136",
+      "normalizacion": "2022-02-17 15:00"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BOULOGNE",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR2 / 266-5531",
+      "usuarios": "261",
+      "normalizacion": "2022-02-17 15:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
+      "usuarios": "942",
+      "normalizacion": "2022-02-17 16:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA ORTUZAR",
+      "subestacion_alimentador": "- / R:VIDAL / 114-TR1 / 114-5515",
+      "usuarios": "918",
+      "normalizacion": "2022-02-17 15:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR1 / 252-5514",
+      "usuarios": "151",
+      "normalizacion": "2022-02-17 15:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "JOSE INGENIEROS",
+      "usuarios": "38"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA ORTUZAR",
+      "usuarios": "21"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "24"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA LIBERTAD",
+      "usuarios": "1"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "VILLA TESEI",
+      "usuarios": "55"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "VILLA UDAONDO",
+      "usuarios": "7"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "25"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "48"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "66"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "usuarios": "20"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "EL PALOMAR",
+      "usuarios": "22"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "usuarios": "12"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "usuarios": "76"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "27"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VIRREYES",
+      "usuarios": "35"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "usuarios": "14"
+    }
+  ]
+}
