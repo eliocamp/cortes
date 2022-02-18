@@ -1,0 +1,108 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.597",
+  "totalUsuariosConSuministro": "2.995.894",
+  "ultimaActualizacion": "9:50",
+  "totalUsuariosAyer": "42.648",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5482 / 253-5522",
+      "usuarios": "16",
+      "normalizacion": "2022-02-18 11:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "subestacion_alimentador": "- / R:CASANOVA / 63-TR2 / 63-5524",
+      "usuarios": "238",
+      "normalizacion": "2022-02-18 10:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR1 / 65-5514",
+      "usuarios": "394",
+      "normalizacion": "2022-02-18 11:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR3 / 65-5532",
+      "usuarios": "70",
+      "normalizacion": "2022-02-18 10:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR1 / 353-5517",
+      "usuarios": "27",
+      "normalizacion": "2022-02-18 11:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "PABLO NOGUES",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5537",
+      "usuarios": "397",
+      "normalizacion": "2022-02-18 12:21"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR2 / 258-5524",
+      "usuarios": "35",
+      "normalizacion": "2022-02-18 10:00"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BOULOGNE",
+      "subestacion_alimentador": "- / R:BOULOGNE / 56-TR1 / 56-5511",
+      "usuarios": "261",
+      "normalizacion": "2022-02-18 11:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR1 / 156-5514",
+      "usuarios": "172",
+      "normalizacion": "2022-02-18 10:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR1 / 51-5513",
+      "usuarios": "541",
+      "normalizacion": "2022-02-18 10:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "subestacion_alimentador": "- / R:LIBERTAD / 361-TR2 / 361-5524",
+      "usuarios": "367",
+      "normalizacion": "2022-02-18 11:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "54"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "13"
+    }
+  ]
+}
