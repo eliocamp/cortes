@@ -1,0 +1,42 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "504",
+  "totalUsuariosConSuministro": "2.533.676",
+  "ultimaActualizacion": "4:10",
+  "totalUsuariosAyer": "16.939",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "subestacion_alimentador": "172-SARANDI / R:172-2-22 / 172-2-22",
+      "usuarios": "342",
+      "normalizacion": "2022-02-18 08:41"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "usuarios": "15"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "106"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "21"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "20"
+    }
+  ]
+}
