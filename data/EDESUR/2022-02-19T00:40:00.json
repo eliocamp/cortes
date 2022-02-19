@@ -1,0 +1,60 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.690",
+  "totalUsuariosConSuministro": "2.531.490",
+  "ultimaActualizacion": "0:40",
+  "totalUsuariosAyer": "25.400",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BALVANERA RP",
+      "subestacion_alimentador": "113-ONCE / R:113-2-28 / 113-2-28",
+      "usuarios": "2305",
+      "normalizacion": "2022-02-19 04:51"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BALVANERA GP",
+      "subestacion_alimentador": "20-INDEPENDENCIA / R:020-3-38 / 020-3-38",
+      "usuarios": "287",
+      "normalizacion": "2022-02-19 04:39"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "40"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "5"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "13"
+    }
+  ]
+}
