@@ -1,0 +1,42 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.526",
+  "totalUsuariosConSuministro": "2.995.965",
+  "ultimaActualizacion": "6:50",
+  "totalUsuariosAyer": "18.055",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ALDO BONZI",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR1 / 65-5518",
+      "usuarios": "584",
+      "normalizacion": "2022-02-19 10:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR1 / 65-5518",
+      "usuarios": "1654",
+      "normalizacion": "2022-02-19 10:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "subestacion_alimentador": "- / R:SAN JUSTO / 164-TR2 / 164-5523",
+      "usuarios": "287",
+      "normalizacion": "2022-02-19 08:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "1"
+    }
+  ]
+}
