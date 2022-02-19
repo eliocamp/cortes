@@ -1,0 +1,93 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "9.470",
+  "totalUsuariosConSuministro": "2.524.710",
+  "ultimaActualizacion": "17:40",
+  "totalUsuariosAyer": "28.013",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TURDERA",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-2-26 / 182-2-26",
+      "usuarios": "323",
+      "normalizacion": "2022-02-19 18:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "subestacion_alimentador": "279-9 DE JULIO / R:279-1-18 / 279-1-18",
+      "usuarios": "3143",
+      "normalizacion": "2022-02-19 21:38"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "ZONA DE RESERVA",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-2-25 / 077-2-25",
+      "usuarios": "1225",
+      "normalizacion": "2022-02-19 18:19"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CANNING EZ",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-26 / 083-2-26",
+      "usuarios": "1036",
+      "normalizacion": "2022-02-19 22:03"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-26 / 083-2-26",
+      "usuarios": "623",
+      "normalizacion": "2022-02-19 22:03"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "2994",
+      "normalizacion": "2022-02-19 19:42"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "27"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "44"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "9"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "16"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "3"
+    }
+  ]
+}
