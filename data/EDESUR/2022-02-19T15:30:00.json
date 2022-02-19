@@ -1,0 +1,86 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "7.355",
+  "totalUsuariosConSuministro": "2.526.825",
+  "ultimaActualizacion": "15:30",
+  "totalUsuariosAyer": "28.013",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO GP",
+      "subestacion_alimentador": "122-CABALLITO / R:122-1-15 / 122-1-15",
+      "usuarios": "2639",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TURDERA",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-2-26 / 182-2-26",
+      "usuarios": "323",
+      "normalizacion": "2022-02-19 18:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "ZONA DE RESERVA",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-2-25 / 077-2-25",
+      "usuarios": "1225",
+      "normalizacion": "2022-02-19 18:19"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN NICOLAS",
+      "subestacion_alimentador": "22-RIVADAVIA / R:022-1-11 / 022-1-11",
+      "usuarios": "5",
+      "normalizacion": "2022-02-19 18:49"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "2994",
+      "normalizacion": "2022-02-19 19:42"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "44"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "13"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "34"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA STA. RITA",
+      "usuarios": "49"
+    }
+  ]
+}

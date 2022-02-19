@@ -1,0 +1,54 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "266",
+  "totalUsuariosConSuministro": "2.998.225",
+  "ultimaActualizacion": "15:40",
+  "totalUsuariosAyer": "18.055",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR1 / 254-5512",
+      "usuarios": "130",
+      "normalizacion": "2022-02-19 16:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "EL TRIANGULO",
+      "subestacion_alimentador": "- / R:FORD / 151-TR1 / 151-5542",
+      "usuarios": "1",
+      "normalizacion": "2022-02-19 16:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAAVEDRA",
+      "usuarios": "6"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "61"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "usuarios": "35"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "32"
+    }
+  ]
+}
