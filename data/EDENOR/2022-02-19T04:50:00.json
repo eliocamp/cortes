@@ -1,0 +1,34 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.141",
+  "totalUsuariosConSuministro": "2.997.350",
+  "ultimaActualizacion": "4:50",
+  "totalUsuariosAyer": "18.055",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR2 / 254-5533",
+      "usuarios": "941",
+      "normalizacion": "2022-02-19 05:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VICENTE LOPEZ",
+      "subestacion_alimentador": "- / R:ANIVERSARIO / 52-TR1 / 52-5518",
+      "usuarios": "199",
+      "normalizacion": "2022-02-19 05:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "1"
+    }
+  ]
+}

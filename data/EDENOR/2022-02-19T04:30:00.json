@@ -1,0 +1,34 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.168",
+  "totalUsuariosConSuministro": "2.997.323",
+  "ultimaActualizacion": "4:30",
+  "totalUsuariosAyer": "18.055",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR2 / 254-5533",
+      "usuarios": "941",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VICENTE LOPEZ",
+      "subestacion_alimentador": "- / R:ANIVERSARIO / 52-TR1 / 52-5518",
+      "usuarios": "199",
+      "normalizacion": "2022-02-19 05:53"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "28"
+    }
+  ]
+}
