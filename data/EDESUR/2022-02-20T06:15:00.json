@@ -1,0 +1,108 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "11.308",
+  "totalUsuariosConSuministro": "2.522.872",
+  "ultimaActualizacion": "6:15",
+  "totalUsuariosAyer": "23.106",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "2994",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "GLEW",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "147",
+      "normalizacion": "2022-02-20 08:42"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "subestacion_alimentador": "279-9 DE JULIO / R:279-1-18 / 279-1-18",
+      "usuarios": "3143",
+      "normalizacion": "2022-02-20 09:38"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-23 / 080-2-23",
+      "usuarios": "3",
+      "normalizacion": "2022-02-20 09:22"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-23 / 080-2-23",
+      "usuarios": "969",
+      "normalizacion": "2022-02-20 09:22"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-1-17 / 076-1-17",
+      "usuarios": "772",
+      "normalizacion": "2022-02-20 10:24"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-1-17 / 076-1-17",
+      "usuarios": "177",
+      "normalizacion": "2022-02-20 10:24"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "EL PARAISO",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "9",
+      "normalizacion": "2022-02-20 08:42"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "ZONA RURAL II PP",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "1",
+      "normalizacion": "2022-02-20 08:42"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "284",
+      "normalizacion": "2022-02-20 07:10"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "2756",
+      "normalizacion": "2022-02-20 08:42"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "42"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "5"
+    }
+  ]
+}
