@@ -1,0 +1,83 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.192",
+  "totalUsuariosConSuministro": "2.997.299",
+  "ultimaActualizacion": "12:35",
+  "totalUsuariosAyer": "37.751",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR4 / 263-5482",
+      "usuarios": "3",
+      "normalizacion": "2022-02-20 14:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "VILLA BOSCH",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2 / 262-5534",
+      "usuarios": "132",
+      "normalizacion": "2022-02-20 14:00"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR1 / 254-5511",
+      "usuarios": "102",
+      "normalizacion": "2022-02-20 13:00"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:NOGUES / 159-TR1 / 159-5543",
+      "usuarios": "226",
+      "normalizacion": "2022-02-20 13:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5524",
+      "usuarios": "307",
+      "normalizacion": "2022-02-20 14:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "310",
+      "normalizacion": "2022-02-20 14:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "20"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "YAPEYU",
+      "usuarios": "27"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "33"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "27"
+    }
+  ]
+}
