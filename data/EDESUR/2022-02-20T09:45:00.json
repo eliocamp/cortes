@@ -1,0 +1,87 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "6.729",
+  "totalUsuariosConSuministro": "2.527.451",
+  "ultimaActualizacion": "9:45",
+  "totalUsuariosAyer": "23.106",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "2994",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "GLEW",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "147",
+      "normalizacion": "2022-02-20 12:31"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "subestacion_alimentador": "279-9 DE JULIO / R:279-1-18 / 279-1-18",
+      "usuarios": "3143",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN NICOLAS",
+      "subestacion_alimentador": "210-CARLOS PELLEGRINI / R:210-3-31 / 210-3-31",
+      "usuarios": "66",
+      "normalizacion": "2022-02-20 14:50"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "EL PARAISO",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "9",
+      "normalizacion": "2022-02-20 12:31"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "ZONA RURAL II PP",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "1",
+      "normalizacion": "2022-02-20 12:31"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "284",
+      "normalizacion": "2022-02-20 13:10"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "6",
+      "normalizacion": "2022-02-20 12:31"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "3"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "5"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "71"
+    }
+  ]
+}

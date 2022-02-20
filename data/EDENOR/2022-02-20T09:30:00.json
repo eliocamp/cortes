@@ -1,0 +1,85 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "6.802",
+  "totalUsuariosConSuministro": "2.991.689",
+  "ultimaActualizacion": "9:30",
+  "totalUsuariosAyer": "37.751",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5534",
+      "usuarios": "103",
+      "normalizacion": "2022-02-20 13:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TIERRAS ALTAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5534",
+      "usuarios": "1489",
+      "normalizacion": "2022-02-20 13:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5534",
+      "usuarios": "2604",
+      "normalizacion": "2022-02-20 13:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR4 / 263-5482",
+      "usuarios": "3",
+      "normalizacion": "2022-02-20 11:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "VILLA BOSCH",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2 / 262-5534",
+      "usuarios": "2085",
+      "normalizacion": "2022-02-20 11:00"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR1 / 254-5511",
+      "usuarios": "102",
+      "normalizacion": "2022-02-20 10:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5524",
+      "usuarios": "307",
+      "normalizacion": "2022-02-20 11:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "usuarios": "43"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "YAPEYU",
+      "usuarios": "27"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "33"
+    }
+  ]
+}
