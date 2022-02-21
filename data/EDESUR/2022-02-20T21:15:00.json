@@ -1,0 +1,37 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.551",
+  "totalUsuariosConSuministro": "2.531.629",
+  "ultimaActualizacion": "21:15",
+  "totalUsuariosAyer": "23.106",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA DEVOTO",
+      "subestacion_alimentador": "38-LURO / R:038-4-44 / 038-4-44",
+      "usuarios": "2526",
+      "normalizacion": "2022-02-20 23:45"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "7"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "13"
+    }
+  ]
+}

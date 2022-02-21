@@ -1,0 +1,85 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.491",
+  "totalUsuariosConSuministro": "2.996.000",
+  "ultimaActualizacion": "21:50",
+  "totalUsuariosAyer": "37.751",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR1 / 254-5511",
+      "usuarios": "102",
+      "normalizacion": "2022-02-20 23:00"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:NOGUES / 159-TR1 / 159-5543",
+      "usuarios": "226",
+      "normalizacion": "2022-02-20 22:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "subestacion_alimentador": "- / R:NOGUES / 159-TR1 / 159-5513",
+      "usuarios": "1206",
+      "normalizacion": "2022-02-20 22:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "subestacion_alimentador": "- / R:NOGUES / 159-TR1 / 159-5541",
+      "usuarios": "793",
+      "normalizacion": "2022-02-20 23:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5512",
+      "usuarios": "68",
+      "normalizacion": "2022-02-20 22:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "5"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "12"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "7"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "33"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "HAEDO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "22"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "MARTINEZ",
+      "usuarios": "13"
+    }
+  ]
+}
