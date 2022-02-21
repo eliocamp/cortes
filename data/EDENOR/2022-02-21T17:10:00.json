@@ -1,0 +1,131 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.005",
+  "totalUsuariosConSuministro": "2.997.486",
+  "ultimaActualizacion": "17:10",
+  "totalUsuariosAyer": "60.913",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2 / 262-5527",
+      "usuarios": "131",
+      "normalizacion": "2022-02-21 19:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
+      "usuarios": "146",
+      "normalizacion": "2022-02-21 18:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "subestacion_alimentador": "- / R:TAPIALES / 162-TR2 / 162-5526",
+      "usuarios": "420",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VICTORIA",
+      "subestacion_alimentador": "- / R:VICTORIA / 53-TR2 / 53-5533",
+      "usuarios": "1",
+      "normalizacion": "2022-02-21 18:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RICARDO ROJAS",
+      "subestacion_alimentador": "- / R:FORD / 151-TR2 / 151-5525",
+      "usuarios": "41",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA ORTUZAR",
+      "usuarios": "12"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "9"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JOSE LEON SUAREZ",
+      "usuarios": "4"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "VILLA UDAONDO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "8"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "15"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "2"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "13"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "21"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "81"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ASTOLFI",
+      "usuarios": "10"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "usuarios": "69"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "LA LUCILA",
+      "usuarios": "4"
+    }
+  ]
+}

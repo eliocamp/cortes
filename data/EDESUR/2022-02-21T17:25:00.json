@@ -1,0 +1,71 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.626",
+  "totalUsuariosConSuministro": "2.530.554",
+  "ultimaActualizacion": "17:25",
+  "totalUsuariosAyer": "26.398",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-1-14 / 281-1-14",
+      "usuarios": "77",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-2-23 / 084-2-23",
+      "usuarios": "716",
+      "normalizacion": "2022-02-21 21:26"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-18 / 174-1-18 / 951-1-03",
+      "usuarios": "172",
+      "normalizacion": "2022-02-21 22:51"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-24 / 271-2-24",
+      "usuarios": "1204",
+      "normalizacion": "2022-02-21 22:51"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-2-23 / 084-2-23",
+      "usuarios": "1406",
+      "normalizacion": "2022-02-21 21:26"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "24"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "9"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "12"
+    }
+  ]
+}
