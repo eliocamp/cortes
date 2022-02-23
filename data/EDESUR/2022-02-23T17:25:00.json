@@ -1,0 +1,55 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.425",
+  "totalUsuariosConSuministro": "2.532.755",
+  "ultimaActualizacion": "17:25",
+  "totalUsuariosAyer": "11.656",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-1-13 / 281-1-13",
+      "usuarios": "443",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-3-35 / 077-3-35",
+      "usuarios": "722",
+      "normalizacion": "2022-02-23 20:41"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "35"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "38"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "75"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "45"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "67"
+    }
+  ]
+}
