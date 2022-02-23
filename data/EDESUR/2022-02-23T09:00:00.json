@@ -1,0 +1,40 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.454",
+  "totalUsuariosConSuministro": "2.530.726",
+  "ultimaActualizacion": "9:00",
+  "totalUsuariosAyer": "11.656",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-1-13 / 281-1-13",
+      "usuarios": "1287",
+      "normalizacion": "2022-02-23 13:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-3-31 / 184-3-31",
+      "usuarios": "2135",
+      "normalizacion": "2022-02-23 12:01"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "25"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "usuarios": "7"
+    }
+  ]
+}
