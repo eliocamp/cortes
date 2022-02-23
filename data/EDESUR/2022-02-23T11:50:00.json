@@ -1,0 +1,55 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.324",
+  "totalUsuariosConSuministro": "2.531.856",
+  "ultimaActualizacion": "11:50",
+  "totalUsuariosAyer": "11.656",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-1-13 / 281-1-13",
+      "usuarios": "1287",
+      "normalizacion": "2022-02-23 13:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-3-35 / 077-3-35",
+      "usuarios": "722",
+      "normalizacion": "2022-02-23 14:41"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "31"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "68"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "38"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA GENERAL MITRE",
+      "usuarios": "171"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "usuarios": "7"
+    }
+  ]
+}
