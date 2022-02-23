@@ -1,0 +1,168 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.307",
+  "totalUsuariosConSuministro": "2.997.184",
+  "ultimaActualizacion": "19:00",
+  "totalUsuariosAyer": "62.364",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR1 / 167-5541",
+      "usuarios": "135",
+      "normalizacion": "2022-02-23 21:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5542",
+      "usuarios": "8",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR1 / 154-5513",
+      "usuarios": "1",
+      "normalizacion": "2022-02-23 23:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR1 / 154-5513",
+      "usuarios": "646",
+      "normalizacion": "2022-02-23 23:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5542",
+      "usuarios": "64",
+      "normalizacion": "2022-02-23 21:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5522",
+      "usuarios": "16",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "JOSE INGENIEROS",
+      "usuarios": "38"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "4"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA BALLESTER",
+      "usuarios": "3"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "ITUZAINGO",
+      "usuarios": "27"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "usuarios": "35"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "44"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "8"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "96"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "PONTEVEDRA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "8"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "CASTELAR",
+      "usuarios": "8"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "111"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "7"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "VILLA ADELINA (SI)",
+      "usuarios": "5"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "6"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "GENERAL PACHECO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "NORDELTA",
+      "usuarios": "4"
+    }
+  ]
+}
