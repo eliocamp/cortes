@@ -1,0 +1,107 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.593",
+  "totalUsuariosConSuministro": "2.531.587",
+  "ultimaActualizacion": "9:50",
+  "totalUsuariosAyer": "8.772",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-18 / 174-1-18",
+      "usuarios": "104",
+      "normalizacion": "2022-02-24 14:38"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "GUTIERREZ",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-18 / 174-1-18",
+      "usuarios": "8",
+      "normalizacion": "2022-02-24 14:38"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-1-17 / 076-1-17",
+      "usuarios": "102",
+      "normalizacion": "2022-02-24 14:14"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-1-17 / 076-1-17",
+      "usuarios": "177",
+      "normalizacion": "2022-02-24 14:14"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-1-17 / 076-1-17",
+      "usuarios": "393",
+      "normalizacion": "2022-02-24 14:14"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "subestacion_alimentador": "175-SOBRAL / R:175-1-18 / 175-1-18",
+      "usuarios": "1551",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "usuarios": "96"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "29"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "37"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "21"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "usuarios": "32"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "21"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "6"
+    }
+  ]
+}

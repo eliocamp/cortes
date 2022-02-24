@@ -1,0 +1,116 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "6.235",
+  "totalUsuariosConSuministro": "2.527.945",
+  "ultimaActualizacion": "9:35",
+  "totalUsuariosAyer": "8.772",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "subestacion_alimentador": "82-BURZACO / N:082-3-982 / 082-3-982",
+      "usuarios": "4",
+      "normalizacion": "2022-02-24 11:51"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-18 / 174-1-18",
+      "usuarios": "104",
+      "normalizacion": "2022-02-24 12:44"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "GUTIERREZ",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-18 / 174-1-18",
+      "usuarios": "8",
+      "normalizacion": "2022-02-24 12:44"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-1-17 / 076-1-17",
+      "usuarios": "102",
+      "normalizacion": "2022-02-24 14:14"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-1-17 / 076-1-17",
+      "usuarios": "177",
+      "normalizacion": "2022-02-24 14:14"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-1-17 / 076-1-17",
+      "usuarios": "393",
+      "normalizacion": "2022-02-24 14:14"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "subestacion_alimentador": "175-SOBRAL / R:175-1-18 / 175-1-18",
+      "usuarios": "1551",
+      "normalizacion": "2022-02-24 09:50"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "82-BURZACO / N:082-3-982 / 082-3-982",
+      "usuarios": "3646",
+      "normalizacion": "2022-02-24 11:51"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "usuarios": "90"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "28"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "37"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "21"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "usuarios": "32"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "22"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "6"
+    }
+  ]
+}
