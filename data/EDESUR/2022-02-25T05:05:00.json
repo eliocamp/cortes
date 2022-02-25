@@ -1,0 +1,67 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.036",
+  "totalUsuariosConSuministro": "2.531.144",
+  "ultimaActualizacion": "5:05",
+  "totalUsuariosAyer": "44.759",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 4",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "154",
+      "normalizacion": "2022-02-25 07:48"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "8",
+      "normalizacion": "2022-02-25 07:48"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MONSERRAT",
+      "subestacion_alimentador": "210-CARLOS PELLEGRINI / R:210-1-01 / 210-1-01",
+      "usuarios": "27",
+      "normalizacion": "2022-02-25 06:15"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-23 / 083-2-23",
+      "usuarios": "956",
+      "normalizacion": "2022-02-25 06:20"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-23 / 083-2-23",
+      "usuarios": "226",
+      "normalizacion": "2022-02-25 06:20"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-23 / 083-2-23",
+      "usuarios": "1647",
+      "normalizacion": "2022-02-25 06:20"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "usuarios": "8"
+    }
+  ]
+}
