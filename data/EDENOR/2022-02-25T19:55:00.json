@@ -1,0 +1,90 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.068",
+  "totalUsuariosConSuministro": "2.997.423",
+  "ultimaActualizacion": "19:55",
+  "totalUsuariosAyer": "41.152",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR2 / 68-5523",
+      "usuarios": "504",
+      "normalizacion": "2022-02-25 21:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "subestacion_alimentador": "- / R:MERLO / 62-TR4 / 62-5546",
+      "usuarios": "344",
+      "normalizacion": "2022-02-25 20:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "VILLA BOSCH",
+      "usuarios": "31"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "COLEGIALES",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAAVEDRA",
+      "usuarios": "14"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "usuarios": "23"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA LIBERTAD",
+      "usuarios": "15"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "26"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "21"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "usuarios": "47"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "usuarios": "11"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "usuarios": "1"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "MUÑIZ",
+      "usuarios": "25"
+    }
+  ]
+}
