@@ -1,0 +1,66 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.405",
+  "totalUsuariosConSuministro": "2.532.775",
+  "ultimaActualizacion": "18:55",
+  "totalUsuariosAyer": "8.194",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "RANELAGH",
+      "subestacion_alimentador": "179-RIGOLLEAU / R:179-2-22 / 179-2-22",
+      "usuarios": "350",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "SOURIGUES",
+      "subestacion_alimentador": "80-EZPELETA / R:080-1-11 / 080-1-11",
+      "usuarios": "312",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "249",
+      "normalizacion": "2022-02-26 21:55"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 4",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "190",
+      "normalizacion": "2022-02-26 21:55"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "150",
+      "normalizacion": "2022-02-26 21:55"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "23"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "121"
+    }
+  ]
+}
