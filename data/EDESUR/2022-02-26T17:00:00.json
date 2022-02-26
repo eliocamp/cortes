@@ -1,0 +1,79 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.337",
+  "totalUsuariosConSuministro": "2.532.843",
+  "ultimaActualizacion": "17:00",
+  "totalUsuariosAyer": "8.194",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "RANELAGH",
+      "subestacion_alimentador": "179-RIGOLLEAU / R:179-2-22 / 179-2-22",
+      "usuarios": "350",
+      "normalizacion": "2022-02-26 18:00"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "SOURIGUES",
+      "subestacion_alimentador": "80-EZPELETA / R:080-1-11 / 080-1-11",
+      "usuarios": "312",
+      "normalizacion": "2022-02-26 18:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORESTA",
+      "subestacion_alimentador": "218-ALBERDI / R:218-2-24 / 218-2-24",
+      "usuarios": "427",
+      "normalizacion": "2022-02-26 21:19"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "subestacion_alimentador": "281-TRANSRADIO / N:281-4-41 / 281-4-41",
+      "usuarios": "144",
+      "normalizacion": "2022-02-26 21:31"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "24"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "23"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "12"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "8"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TURDERA",
+      "usuarios": "5"
+    }
+  ]
+}
