@@ -1,0 +1,55 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.435",
+  "totalUsuariosConSuministro": "2.997.056",
+  "ultimaActualizacion": "18:50",
+  "totalUsuariosAyer": "27.442",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR2 / 167-5532",
+      "usuarios": "1",
+      "normalizacion": "2022-02-26 20:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BECCAR",
+      "subestacion_alimentador": "- / R:VICTORIA / 53-TR1 / 53-5548",
+      "usuarios": "1315",
+      "normalizacion": "2022-02-26 20:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "16"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "PONTEVEDRA",
+      "usuarios": "46"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "25"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "usuarios": "28"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VICTORIA",
+      "usuarios": "4"
+    }
+  ]
+}
