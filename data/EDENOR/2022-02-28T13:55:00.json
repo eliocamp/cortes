@@ -1,0 +1,166 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.253",
+  "totalUsuariosConSuministro": "2.997.238",
+  "ultimaActualizacion": "13:55",
+  "totalUsuariosAyer": "85.936",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR2 / 59-5533",
+      "usuarios": "1",
+      "normalizacion": "2022-02-28 15:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR1 / 266-5511",
+      "usuarios": "1",
+      "normalizacion": "2022-02-28 15:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR4 / 158-5471",
+      "usuarios": "1",
+      "normalizacion": "2022-02-28 15:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5538",
+      "usuarios": "55",
+      "normalizacion": "2022-02-28 14:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "1",
+      "normalizacion": "2022-02-28 15:00"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "ITUZAINGO",
+      "subestacion_alimentador": "- / R:SAN ALBERTO / 366-TR1 / 366-5512",
+      "usuarios": "380",
+      "normalizacion": "2022-02-28 14:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR2 / 365-5527",
+      "usuarios": "151",
+      "normalizacion": "2022-02-28 15:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR1 / 353-5517",
+      "usuarios": "19",
+      "normalizacion": "2022-02-28 14:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "135",
+      "normalizacion": "2022-02-28 15:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
+      "usuarios": "148",
+      "normalizacion": "2022-02-28 15:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "usuarios": "1"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "27"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "30"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "67"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "usuarios": "8"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "usuarios": "85"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "VILLA DE MAYO",
+      "usuarios": "35"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "20"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "21"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "14"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BOULOGNE",
+      "usuarios": "1"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "usuarios": "21"
+    }
+  ]
+}
