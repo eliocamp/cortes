@@ -1,0 +1,86 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "811",
+  "totalUsuariosConSuministro": "2.997.680",
+  "ultimaActualizacion": "15:40",
+  "totalUsuariosAyer": "15.744",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5481 / 132-5513",
+      "usuarios": "267",
+      "normalizacion": "2022-03-01 17:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5481 / 132-5512",
+      "usuarios": "1",
+      "normalizacion": "2022-03-01 17:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR1 / 252-5545",
+      "usuarios": "405",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR1 / 353-5517",
+      "usuarios": "19",
+      "normalizacion": "2022-03-01 16:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5481 / 132-5512",
+      "usuarios": "3",
+      "normalizacion": "2022-03-01 17:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "12"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "25"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "20"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "CASTELAR",
+      "usuarios": "21"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "5"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "usuarios": "13"
+    }
+  ]
+}
