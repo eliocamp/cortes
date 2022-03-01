@@ -1,0 +1,91 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "4.637",
+  "totalUsuariosConSuministro": "2.529.543",
+  "ultimaActualizacion": "18:40",
+  "totalUsuariosAyer": "13.161",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE CHACABUCO",
+      "subestacion_alimentador": "122-CABALLITO / R:122-4-47 / 122-4-47",
+      "usuarios": "281",
+      "normalizacion": "2022-03-01 21:23"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 3",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-27 / 271-2-27",
+      "usuarios": "1",
+      "normalizacion": "2022-03-01 23:44"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BARRACAS",
+      "subestacion_alimentador": "124-CONSTITUCION / R:124-1-16 / 124-1-16",
+      "usuarios": "276",
+      "normalizacion": "2022-03-01 21:00"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-4-42 / 083-4-42",
+      "usuarios": "2329",
+      "normalizacion": "2022-03-01 22:17"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-4-42 / 083-4-42",
+      "usuarios": "1647",
+      "normalizacion": "2022-03-01 22:17"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "13"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "27"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "29"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "12"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "3"
+    }
+  ]
+}
