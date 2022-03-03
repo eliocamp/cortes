@@ -1,0 +1,47 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "324",
+  "totalUsuariosConSuministro": "2.998.167",
+  "ultimaActualizacion": "8:50",
+  "totalUsuariosAyer": "44.222",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5521",
+      "usuarios": "139",
+      "normalizacion": "2022-03-03 13:21"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "22"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "usuarios": "53"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "20"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "31"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "59"
+    }
+  ]
+}
