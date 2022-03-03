@@ -1,0 +1,66 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "819",
+  "totalUsuariosConSuministro": "2.997.672",
+  "ultimaActualizacion": "11:45",
+  "totalUsuariosAyer": "44.222",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA MAIPU",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR2 / 54-5534",
+      "usuarios": "444",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "EL PALOMAR",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR4 / 66-5535",
+      "usuarios": "211",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "10",
+      "normalizacion": "2022-03-03 13:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "40"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "WILLIAM MORRIS",
+      "usuarios": "7"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "22"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "53"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "31"
+    }
+  ]
+}

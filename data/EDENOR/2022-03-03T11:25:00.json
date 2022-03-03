@@ -1,0 +1,104 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.106",
+  "totalUsuariosConSuministro": "2.997.385",
+  "ultimaActualizacion": "11:25",
+  "totalUsuariosAyer": "44.222",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA MAIPU",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR2 / 54-5534",
+      "usuarios": "444",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "EL PALOMAR",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR4 / 66-5535",
+      "usuarios": "211",
+      "normalizacion": "2022-03-03 12:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "19",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "DELTA 1RA SECCION (ES)",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5481 / 951-5512",
+      "usuarios": "31",
+      "normalizacion": "2022-03-03 13:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5481 / 951-5512",
+      "usuarios": "209",
+      "normalizacion": "2022-03-03 13:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5481 / 951-5512",
+      "usuarios": "21",
+      "normalizacion": "2022-03-03 13:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "19",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "SAN ISIDRO",
+      "subestacion_alimentador": "- / R:S.ISIDRO / 152-TR2 / 152-5523",
+      "usuarios": "1",
+      "normalizacion": "2022-03-03 14:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DIQUE LUJAN",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5481 / 951-5512",
+      "usuarios": "23",
+      "normalizacion": "2022-03-03 13:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "40"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "22"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "53"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "31"
+    }
+  ]
+}
