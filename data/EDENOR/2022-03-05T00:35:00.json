@@ -1,0 +1,78 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.622",
+  "totalUsuariosConSuministro": "2.994.869",
+  "ultimaActualizacion": "0:35",
+  "totalUsuariosAyer": "29.026",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR2 / 59-5533",
+      "usuarios": "3",
+      "normalizacion": "2022-03-05 04:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR2 / 59-5533",
+      "usuarios": "14",
+      "normalizacion": "2022-03-05 04:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "subestacion_alimentador": "- / R:TAPIALES / 162-TR2 / 162-5527",
+      "usuarios": "2874",
+      "normalizacion": "2022-03-05 04:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR1 / 168-5511",
+      "usuarios": "585",
+      "normalizacion": "2022-03-05 02:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "10"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "usuarios": "18"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "26"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LOMAS DEL MIRADOR",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "21"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "28"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "38"
+    }
+  ]
+}
