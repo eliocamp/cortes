@@ -1,0 +1,45 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.188",
+  "totalUsuariosConSuministro": "2.530.992",
+  "ultimaActualizacion": "4:05",
+  "totalUsuariosAyer": "11.305",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA DEVOTO",
+      "subestacion_alimentador": "38-LURO / R:038-4-44 / 038-4-44",
+      "usuarios": "2966",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "subestacion_alimentador": "21-AZCUENAGA / R:021-2-24 / 021-2-24",
+      "usuarios": "112",
+      "normalizacion": "2022-03-06 07:13"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "14"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "90"
+    }
+  ]
+}
