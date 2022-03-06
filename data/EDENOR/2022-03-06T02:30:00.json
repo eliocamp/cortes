@@ -1,0 +1,37 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "6.443",
+  "totalUsuariosConSuministro": "2.992.048",
+  "ultimaActualizacion": "2:30",
+  "totalUsuariosAyer": "16.652",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR3 / 154-5472",
+      "usuarios": "6391",
+      "normalizacion": "2022-03-06 06:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "20"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "16"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "16"
+    }
+  ]
+}
