@@ -1,0 +1,75 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.147",
+  "totalUsuariosConSuministro": "2.997.344",
+  "ultimaActualizacion": "8:10",
+  "totalUsuariosAyer": "16.652",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA MAIPU",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR2 / 54-5532",
+      "usuarios": "1",
+      "normalizacion": "2022-03-06 09:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5532",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2",
+      "usuarios": "135",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "LOMA HERMOSA",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2",
+      "usuarios": "386",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2",
+      "usuarios": "131",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "M REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2",
+      "usuarios": "411",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DIQUE LUJAN",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR2 / 156-5523",
+      "usuarios": "42",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "24"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "16"
+    }
+  ]
+}

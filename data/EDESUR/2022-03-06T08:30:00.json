@@ -1,0 +1,32 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "212",
+  "totalUsuariosConSuministro": "2.533.968",
+  "ultimaActualizacion": "8:30",
+  "totalUsuariosAyer": "11.305",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "subestacion_alimentador": "21-AZCUENAGA / R:021-2-24 / 021-2-24",
+      "usuarios": "112",
+      "normalizacion": "2022-03-06 13:13"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "94"
+    }
+  ]
+}
