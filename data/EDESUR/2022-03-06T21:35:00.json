@@ -1,0 +1,39 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.664",
+  "totalUsuariosConSuministro": "2.530.516",
+  "ultimaActualizacion": "21:35",
+  "totalUsuariosAyer": "11.305",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "186-GERLI / R:186-4-48 / 186-4-48",
+      "usuarios": "3629",
+      "normalizacion": "2022-03-06 23:38"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "186-GERLI / R:186-4-48 / 186-4-48",
+      "usuarios": "3",
+      "normalizacion": "2022-03-06 23:38"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "28"
+    }
+  ]
+}
