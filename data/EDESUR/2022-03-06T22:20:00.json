@@ -1,0 +1,51 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.872",
+  "totalUsuariosConSuministro": "2.530.308",
+  "ultimaActualizacion": "22:20",
+  "totalUsuariosAyer": "11.305",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NUEVA POMPEYA",
+      "subestacion_alimentador": "39-POMPEYA / R:039-2-27 / 039-2-27",
+      "usuarios": "189",
+      "normalizacion": "2022-03-07 01:29"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "186-GERLI / R:186-4-48 / 186-4-48",
+      "usuarios": "3629",
+      "normalizacion": "2022-03-06 23:38"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "186-GERLI / R:186-4-48 / 186-4-48",
+      "usuarios": "3",
+      "normalizacion": "2022-03-06 23:38"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "38"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "9"
+    }
+  ]
+}

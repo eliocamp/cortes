@@ -1,0 +1,79 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "13.796",
+  "totalUsuariosConSuministro": "2.520.384",
+  "ultimaActualizacion": "22:30",
+  "totalUsuariosAyer": "11.305",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-2-23 / 218-2-23",
+      "usuarios": "5616",
+      "normalizacion": "2022-03-07 02:13"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO RP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-2-23 / 218-2-23",
+      "usuarios": "2334",
+      "normalizacion": "2022-03-07 02:13"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-2-23 / 218-2-23",
+      "usuarios": "535",
+      "normalizacion": "2022-03-07 02:13"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES RP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-2-23 / 218-2-23",
+      "usuarios": "1439",
+      "normalizacion": "2022-03-07 02:13"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NUEVA POMPEYA",
+      "subestacion_alimentador": "39-POMPEYA / R:039-2-27 / 039-2-27",
+      "usuarios": "189",
+      "normalizacion": "2022-03-07 01:29"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "186-GERLI / R:186-4-48 / 186-4-48",
+      "usuarios": "3629",
+      "normalizacion": "2022-03-06 23:38"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "186-GERLI / R:186-4-48 / 186-4-48",
+      "usuarios": "3",
+      "normalizacion": "2022-03-06 23:38"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "38"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "9"
+    }
+  ]
+}
