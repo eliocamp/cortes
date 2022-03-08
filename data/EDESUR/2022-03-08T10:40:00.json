@@ -1,0 +1,139 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.848",
+  "totalUsuariosConSuministro": "2.530.332",
+  "ultimaActualizacion": "10:40",
+  "totalUsuariosAyer": "53.853",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "675",
+      "normalizacion": "2022-03-08 13:11"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MINISTRO RIVADAVIA",
+      "subestacion_alimentador": "286- / R:286-5-56 / 286-5-56",
+      "usuarios": "5",
+      "normalizacion": "2022-03-08 16:07"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "subestacion_alimentador": "75-CORINA / R:075-1-12 / 075-1-12",
+      "usuarios": "598",
+      "normalizacion": "2022-03-08 16:03"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 4",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "36",
+      "normalizacion": "2022-03-08 16:04"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "23",
+      "normalizacion": "2022-03-08 16:04"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "185-BOSQUES / N:185-2-25 / 185-2-25",
+      "usuarios": "460",
+      "normalizacion": "2022-03-08 16:04"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "286- / R:286-5-56 / 286-5-56",
+      "usuarios": "249",
+      "normalizacion": "2022-03-08 16:07"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "subestacion_alimentador": "75-CORINA / R:075-1-12 / 075-1-12",
+      "usuarios": "687",
+      "normalizacion": "2022-03-08 16:03"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-2-24 / 189-2-24",
+      "usuarios": "772",
+      "normalizacion": "2022-03-08 15:17"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "4"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "19"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "5"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "21"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA STA. RITA",
+      "usuarios": "53"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "BANDFIELD",
+      "usuarios": "43"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "128"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "usuarios": "9"
+    }
+  ]
+}
