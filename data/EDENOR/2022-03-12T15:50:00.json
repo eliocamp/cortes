@@ -1,0 +1,60 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.543",
+  "totalUsuariosConSuministro": "2.994.948",
+  "ultimaActualizacion": "15:50",
+  "totalUsuariosAyer": "28.413",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MUNRO / 55-TR1 / 55-5547",
+      "usuarios": "224",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GDEROS DE SAN MART?N",
+      "subestacion_alimentador": "- / R:MUNRO / 55-TR1 / 55-5547",
+      "usuarios": "1871",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GREGORIA MATORRAS",
+      "subestacion_alimentador": "- / R:MUNRO / 55-TR1 / 55-5547",
+      "usuarios": "158",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "MARQUES A DE AGUADO",
+      "subestacion_alimentador": "- / R:MUNRO / 55-TR1 / 55-5547",
+      "usuarios": "966",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LOMAS DEL MIRADOR",
+      "subestacion_alimentador": "- / R:SAN JUSTO / 164-TR2 / 164-5534",
+      "usuarios": "305",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "COLEGIALES",
+      "usuarios": "4"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "15"
+    }
+  ]
+}
