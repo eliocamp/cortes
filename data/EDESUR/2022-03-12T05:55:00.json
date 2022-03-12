@@ -1,0 +1,54 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.926",
+  "totalUsuariosConSuministro": "2.531.254",
+  "ultimaActualizacion": "5:55",
+  "totalUsuariosAyer": "14.914",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-1-14 / 281-1-14",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-3-35 / 281-3-35",
+      "usuarios": "698",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS ESTE",
+      "subestacion_alimentador": "87-ESCALADA / R:087-4-42 / 087-4-42",
+      "usuarios": "1922",
+      "normalizacion": "2022-03-12 06:49"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "87-ESCALADA / R:087-4-42 / 087-4-42",
+      "usuarios": "255",
+      "normalizacion": "2022-03-12 06:49"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "7"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "43"
+    }
+  ]
+}
