@@ -1,0 +1,78 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.961",
+  "totalUsuariosConSuministro": "2.530.219",
+  "ultimaActualizacion": "11:20",
+  "totalUsuariosAyer": "35.911",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-2-25 / 270-2-25",
+      "usuarios": "427",
+      "normalizacion": "2022-03-13 12:19"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "subestacion_alimentador": "172-SARANDI / R:172-4-41 / 172-4-41",
+      "usuarios": "419",
+      "normalizacion": "2022-03-13 13:04"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "subestacion_alimentador": "172-SARANDI / R:172-4-42 / 172-4-42",
+      "usuarios": "419",
+      "normalizacion": "2022-03-13 13:24"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "subestacion_alimentador": "72-ISLA MACIEL / R:072-1-11 / 072-1-11",
+      "usuarios": "472",
+      "normalizacion": "2022-03-13 15:01"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-2-25 / 077-2-25",
+      "usuarios": "630",
+      "normalizacion": "2022-03-13 15:08"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-2-27 / 077-2-27",
+      "usuarios": "1543",
+      "normalizacion": "2022-03-13 15:07"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "usuarios": "24"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "18"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "5"
+    }
+  ]
+}
