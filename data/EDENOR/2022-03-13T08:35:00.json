@@ -1,0 +1,44 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.911",
+  "totalUsuariosConSuministro": "2.996.580",
+  "ultimaActualizacion": "8:35",
+  "totalUsuariosAyer": "24.594",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR1 / 263-5516",
+      "usuarios": "259",
+      "normalizacion": "2022-03-13 12:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR1 / 263-5516",
+      "usuarios": "1599",
+      "normalizacion": "2022-03-13 12:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "27"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "25"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "usuarios": "1"
+    }
+  ]
+}

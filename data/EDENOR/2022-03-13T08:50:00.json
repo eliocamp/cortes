@@ -1,0 +1,52 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "879",
+  "totalUsuariosConSuministro": "2.997.612",
+  "ultimaActualizacion": "8:50",
+  "totalUsuariosAyer": "24.594",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VILLA ADELINA (VL)",
+      "subestacion_alimentador": "- / R:V.ADELINA / 155-TR1 / 155-5511",
+      "usuarios": "526",
+      "normalizacion": "2022-03-13 12:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR1 / 263-5516",
+      "usuarios": "197",
+      "normalizacion": "2022-03-13 09:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR1 / 263-5516",
+      "usuarios": "103",
+      "normalizacion": "2022-03-13 09:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "27"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "25"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "usuarios": "1"
+    }
+  ]
+}

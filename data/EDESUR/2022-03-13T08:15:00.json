@@ -1,0 +1,41 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.405",
+  "totalUsuariosConSuministro": "2.531.775",
+  "ultimaActualizacion": "8:15",
+  "totalUsuariosAyer": "35.911",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "subestacion_alimentador": "172-SARANDI / R:172-4-41 / 172-4-41",
+      "usuarios": "419",
+      "normalizacion": "2022-03-13 13:04"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "subestacion_alimentador": "172-SARANDI / R:172-4-42 / 172-4-42",
+      "usuarios": "419",
+      "normalizacion": "2022-03-13 13:24"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-2-27 / 077-2-27",
+      "usuarios": "1543",
+      "normalizacion": "2022-03-13 12:40"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "usuarios": "24"
+    }
+  ]
+}
