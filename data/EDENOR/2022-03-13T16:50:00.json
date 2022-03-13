@@ -1,0 +1,54 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "183",
+  "totalUsuariosConSuministro": "2.998.308",
+  "ultimaActualizacion": "16:50",
+  "totalUsuariosAyer": "24.594",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR2 / 363-5523",
+      "usuarios": "105",
+      "normalizacion": "2022-03-13 20:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR3 / 158-5473",
+      "usuarios": "1",
+      "normalizacion": "2022-03-13 18:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "11"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "20"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "usuarios": "1"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "usuarios": "44"
+    }
+  ]
+}

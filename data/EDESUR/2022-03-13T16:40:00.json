@@ -1,0 +1,55 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.198",
+  "totalUsuariosConSuministro": "2.531.982",
+  "ultimaActualizacion": "16:40",
+  "totalUsuariosAyer": "35.911",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-2-25 / 270-2-25",
+      "usuarios": "427",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-2-27 / 077-2-27",
+      "usuarios": "1543",
+      "normalizacion": "2022-03-13 21:07"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "71"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "43"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "9"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "82"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA",
+      "usuarios": "23"
+    }
+  ]
+}

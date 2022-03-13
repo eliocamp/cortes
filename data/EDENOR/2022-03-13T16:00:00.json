@@ -1,0 +1,37 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "36",
+  "totalUsuariosConSuministro": "2.998.455",
+  "ultimaActualizacion": "16:00",
+  "totalUsuariosAyer": "24.594",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR3 / 158-5473",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "11"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "20"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "4"
+    }
+  ]
+}
