@@ -1,0 +1,45 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "726",
+  "totalUsuariosConSuministro": "2.997.765",
+  "ultimaActualizacion": "19:55",
+  "totalUsuariosAyer": "24.594",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR2 / 363-5523",
+      "usuarios": "9",
+      "normalizacion": "2022-03-13 21:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "FLORIDA",
+      "subestacion_alimentador": "- / R:V.LOPEZ / 50-TR2 / 50-5524",
+      "usuarios": "676",
+      "normalizacion": "2022-03-13 22:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "15"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "25"
+    }
+  ]
+}
