@@ -1,0 +1,61 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.560",
+  "totalUsuariosConSuministro": "2.995.931",
+  "ultimaActualizacion": "9:50",
+  "totalUsuariosAyer": "24.594",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR4 / 158-5471",
+      "usuarios": "1",
+      "normalizacion": "2022-03-13 10:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VILLA ADELINA (VL)",
+      "subestacion_alimentador": "- / R:V.ADELINA / 155-TR1 / 155-5511",
+      "usuarios": "526",
+      "normalizacion": "2022-03-13 10:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5523",
+      "usuarios": "6",
+      "normalizacion": "2022-03-13 13:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5523",
+      "usuarios": "1275",
+      "normalizacion": "2022-03-13 13:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5523",
+      "usuarios": "700",
+      "normalizacion": "2022-03-13 13:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "27"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "25"
+    }
+  ]
+}
