@@ -1,0 +1,81 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "12.018",
+  "totalUsuariosConSuministro": "2.522.162",
+  "ultimaActualizacion": "0:55",
+  "totalUsuariosAyer": "35.911",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "subestacion_alimentador": "172-SARANDI / R:172-4-42 / 172-4-42",
+      "usuarios": "878",
+      "normalizacion": "2022-03-13 01:24"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "subestacion_alimentador": "172-SARANDI / R:172-4-42 / 172-4-42",
+      "usuarios": "1325",
+      "normalizacion": "2022-03-13 01:24"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "subestacion_alimentador": "172-SARANDI / R:172-4-41 / 172-4-41",
+      "usuarios": "1049",
+      "normalizacion": "2022-03-13 01:04"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "ZONA DE RESERVA",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-3-34 / 077-3-34",
+      "usuarios": "530",
+      "normalizacion": "2022-03-13 06:31"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "ZONA DE RESERVA",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-2-25 / 077-2-25",
+      "usuarios": "291",
+      "normalizacion": "2022-03-13 06:31"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO RP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-4-44 / 218-4-44",
+      "usuarios": "123",
+      "normalizacion": "2022-03-13 04:06"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE CHACABUCO",
+      "subestacion_alimentador": "218-ALBERDI / R:218-4-44 / 218-4-44",
+      "usuarios": "6210",
+      "normalizacion": "2022-03-13 04:06"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-2-27 / 077-2-27",
+      "usuarios": "1543",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "usuarios": "24"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "usuarios": "45"
+    }
+  ]
+}
