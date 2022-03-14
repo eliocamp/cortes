@@ -1,0 +1,96 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.598",
+  "totalUsuariosConSuministro": "2.995.893",
+  "ultimaActualizacion": "11:05",
+  "totalUsuariosAyer": "29.893",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5542",
+      "usuarios": "8",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "PARQUE SAN LORENZO",
+      "subestacion_alimentador": "- / R:TECNOPOLIS / 352-TR1 / 352-5515",
+      "usuarios": "536",
+      "normalizacion": "2022-03-14 12:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR1 / 65-5512",
+      "usuarios": "336",
+      "normalizacion": "2022-03-14 13:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR1 / 168-5513",
+      "usuarios": "537",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR1 / 353-5517",
+      "usuarios": "24",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5482",
+      "usuarios": "12",
+      "normalizacion": "2022-03-14 12:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR1 / 252-5541",
+      "usuarios": "174",
+      "normalizacion": "2022-03-14 12:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5521",
+      "usuarios": "1",
+      "normalizacion": "2022-03-14 12:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "subestacion_alimentador": "- / R:EDISON / 57-TR4 / 57-5543",
+      "usuarios": "335",
+      "normalizacion": "2022-03-14 13:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR2 / 168-5526",
+      "usuarios": "611",
+      "normalizacion": "2022-03-14 12:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "19"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "usuarios": "5"
+    }
+  ]
+}
