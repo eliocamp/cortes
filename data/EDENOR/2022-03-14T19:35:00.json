@@ -1,0 +1,51 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "642",
+  "totalUsuariosConSuministro": "2.997.849",
+  "ultimaActualizacion": "19:35",
+  "totalUsuariosAyer": "29.893",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR2 / 66-5547",
+      "usuarios": "115",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "DEL VISO",
+      "subestacion_alimentador": "- / R:DELVISO / 251-TR2 / 251-5534",
+      "usuarios": "175",
+      "normalizacion": "2022-03-14 21:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "subestacion_alimentador": "- / R:EDISON / 57-TR4 / 57-5543",
+      "usuarios": "335",
+      "normalizacion": "2022-03-14 20:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "7"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "usuarios": "1"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "usuarios": "9"
+    }
+  ]
+}
