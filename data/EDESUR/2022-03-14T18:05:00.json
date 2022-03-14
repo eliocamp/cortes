@@ -1,0 +1,97 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.331",
+  "totalUsuariosConSuministro": "2.530.849",
+  "ultimaActualizacion": "18:05",
+  "totalUsuariosAyer": "34.940",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "87-ESCALADA / R:087-4-47 / 087-4-47",
+      "usuarios": "1152",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "QUILMES",
+      "localidad": "DON BOSCO",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-3-34 / 077-3-34",
+      "usuarios": "653",
+      "normalizacion": "2022-03-14 21:25"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-2-25 / 184-2-25",
+      "usuarios": "1121",
+      "normalizacion": "2022-03-14 23:17"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "14"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "23"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "18"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN NICOLAS",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VERSALLES",
+      "usuarios": "74"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEVOTO",
+      "usuarios": "35"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA RIACHUELO",
+      "usuarios": "48"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "3"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "82"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "DON BOSCO",
+      "usuarios": "72"
+    }
+  ]
+}
