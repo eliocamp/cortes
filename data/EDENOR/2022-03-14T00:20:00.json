@@ -1,0 +1,45 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "768",
+  "totalUsuariosConSuministro": "2.997.723",
+  "ultimaActualizacion": "0:20",
+  "totalUsuariosAyer": "29.893",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BECCAR",
+      "subestacion_alimentador": "- / R:VICTORIA / 53-TR1 / 53-5544",
+      "usuarios": "347",
+      "normalizacion": "2022-03-14 01:07"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR1 / 154-5515",
+      "usuarios": "362",
+      "normalizacion": "2022-03-14 01:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "15"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BECCAR",
+      "usuarios": "21"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "MARTINEZ",
+      "usuarios": "23"
+    }
+  ]
+}
