@@ -1,0 +1,103 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "12.392",
+  "totalUsuariosConSuministro": "2.986.099",
+  "ultimaActualizacion": "16:10",
+  "totalUsuariosAyer": "29.893",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR2 / 66-5547",
+      "usuarios": "115",
+      "normalizacion": "2022-03-14 17:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "subestacion_alimentador": "- / R:EDISON / 57-TR4 / 57-5543",
+      "usuarios": "335",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR3 / 58-5537",
+      "usuarios": "33",
+      "normalizacion": "2022-03-14 19:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR3 / 58-5537",
+      "usuarios": "1266",
+      "normalizacion": "2022-03-14 19:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR3 / 58-5537",
+      "usuarios": "242",
+      "normalizacion": "2022-03-14 19:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "PABLO NOGUES",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR3 / 58-5537",
+      "usuarios": "131",
+      "normalizacion": "2022-03-14 19:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TIERRAS ALTAS",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR3 / 58-5537",
+      "usuarios": "167",
+      "normalizacion": "2022-03-14 19:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "VILLA DE MAYO",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR3 / 58-5537",
+      "usuarios": "1996",
+      "normalizacion": "2022-03-14 19:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR3 / 58-5537",
+      "usuarios": "3390",
+      "normalizacion": "2022-03-14 19:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "GENERAL PACHECO",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR3 / 58-5537",
+      "usuarios": "4662",
+      "normalizacion": "2022-03-14 19:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RICARDO ROJAS",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR3 / 58-5537",
+      "usuarios": "1",
+      "normalizacion": "2022-03-14 19:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "25"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "29"
+    }
+  ]
+}
