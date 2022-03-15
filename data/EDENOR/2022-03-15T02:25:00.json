@@ -1,0 +1,61 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.688",
+  "totalUsuariosConSuministro": "2.994.803",
+  "ultimaActualizacion": "2:25",
+  "totalUsuariosAyer": "32.771",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR2 / 66-5547",
+      "usuarios": "115",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:AEROCLUB / 451-TR2 / 451-5564",
+      "usuarios": "126",
+      "normalizacion": "2022-03-15 03:29"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:AEROCLUB / 451-TR2 / 451-5564",
+      "usuarios": "3345",
+      "normalizacion": "2022-03-15 03:29"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NU?EZ",
+      "usuarios": "8"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "VILLA TESEI",
+      "usuarios": "55"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "usuarios": "29"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VICTORIA",
+      "usuarios": "6"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VIRREYES",
+      "usuarios": "4"
+    }
+  ]
+}
