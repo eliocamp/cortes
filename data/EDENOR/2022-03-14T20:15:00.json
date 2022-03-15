@@ -1,0 +1,59 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "4.831",
+  "totalUsuariosConSuministro": "2.993.660",
+  "ultimaActualizacion": "20:15",
+  "totalUsuariosAyer": "29.893",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR2 / 66-5547",
+      "usuarios": "115",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "subestacion_alimentador": "- / R:EDISON / 57-TR4 / 57-5543",
+      "usuarios": "335",
+      "normalizacion": "2022-03-14 21:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "subestacion_alimentador": "- / R:NOGUES / 159-TR1 / 159-5513",
+      "usuarios": "3873",
+      "normalizacion": "2022-03-15 00:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "MALVINAS ARGENTINAS",
+      "subestacion_alimentador": "- / R:NOGUES / 159-TR1 / 159-5513",
+      "usuarios": "491",
+      "normalizacion": "2022-03-15 00:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "7"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "usuarios": "1"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "usuarios": "9"
+    }
+  ]
+}
