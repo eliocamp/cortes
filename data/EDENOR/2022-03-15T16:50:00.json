@@ -1,0 +1,99 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "4.490",
+  "totalUsuariosConSuministro": "2.994.001",
+  "ultimaActualizacion": "16:50",
+  "totalUsuariosAyer": "32.771",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5522",
+      "usuarios": "5",
+      "normalizacion": "2022-03-15 17:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5522",
+      "usuarios": "1",
+      "normalizacion": "2022-03-15 17:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "NORDELTA",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR2 / 156-5522",
+      "usuarios": "96",
+      "normalizacion": "2022-03-15 17:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR1 / 266-5511",
+      "usuarios": "252",
+      "normalizacion": "2022-03-15 18:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5531",
+      "usuarios": "135",
+      "normalizacion": "2022-03-15 18:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR1 / 260-5518",
+      "usuarios": "87",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "MU?IZ",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / 362-TR1 / 362-5518",
+      "usuarios": "462",
+      "normalizacion": "2022-03-15 18:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / 362-TR1 / 362-5518",
+      "usuarios": "2357",
+      "normalizacion": "2022-03-15 18:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "NORDELTA",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR1 / 156-5512",
+      "usuarios": "985",
+      "normalizacion": "2022-03-15 17:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "38"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAAVEDRA",
+      "usuarios": "22"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "34"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "usuarios": "16"
+    }
+  ]
+}
