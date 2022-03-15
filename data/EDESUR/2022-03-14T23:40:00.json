@@ -1,0 +1,96 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.952",
+  "totalUsuariosConSuministro": "2.530.228",
+  "ultimaActualizacion": "23:40",
+  "totalUsuariosAyer": "34.940",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORESTA",
+      "subestacion_alimentador": "143-SANTA RITA / R:143-1-14 / 143-1-14",
+      "usuarios": "694",
+      "normalizacion": "2022-03-15 02:06"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA STA. RITA",
+      "subestacion_alimentador": "143-SANTA RITA / R:143-1-14 / 143-1-14",
+      "usuarios": "650",
+      "normalizacion": "2022-03-15 02:06"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "QUILMES",
+      "localidad": "DON BOSCO",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-3-34 / 077-3-34",
+      "usuarios": "653",
+      "normalizacion": "2022-03-15 02:58"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES ESTE",
+      "subestacion_alimentador": "73-QUILMES / R:073-3-32 / 073-3-32",
+      "usuarios": "615",
+      "normalizacion": "2022-03-15 04:13"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-2-25 / 184-2-25",
+      "usuarios": "1121",
+      "normalizacion": "2022-03-15 03:03"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "26"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "RECOLETA",
+      "usuarios": "45"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN NICOLAS",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "2"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "22"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "19"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "DON BOSCO",
+      "usuarios": "76"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "14"
+    }
+  ]
+}
