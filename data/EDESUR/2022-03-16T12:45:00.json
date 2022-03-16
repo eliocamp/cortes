@@ -1,0 +1,74 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "153",
+  "totalUsuariosConSuministro": "2.534.027",
+  "ultimaActualizacion": "12:45",
+  "totalUsuariosAyer": "10.362",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-12 / 174-1-12",
+      "usuarios": "23",
+      "normalizacion": "2022-03-16 15:07"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-11 / 185-1-11 / 185-2-25",
+      "usuarios": "9",
+      "normalizacion": "2022-03-16 13:19"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "1"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "31"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "RECOLETA",
+      "usuarios": "36"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN NICOLAS",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEVOTO",
+      "usuarios": "7"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "18"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "1"
+    }
+  ]
+}
