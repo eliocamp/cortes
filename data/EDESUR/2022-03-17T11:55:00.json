@@ -1,0 +1,78 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "10.208",
+  "totalUsuariosConSuministro": "2.523.972",
+  "ultimaActualizacion": "11:55",
+  "totalUsuariosAyer": "17.699",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-1-15 / 189-1-15",
+      "usuarios": "680",
+      "normalizacion": "2022-03-17 12:00"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-4-42 / 083-4-42",
+      "usuarios": "2027",
+      "normalizacion": "2022-03-17 14:16"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN TELMO",
+      "subestacion_alimentador": "31-HERNANDARIAS / R:031-2-27 / 031-2-27",
+      "usuarios": "1435",
+      "normalizacion": "2022-03-17 15:27"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-2-28 / 270-2-28",
+      "usuarios": "3077",
+      "normalizacion": "2022-03-17 13:41"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI L",
+      "subestacion_alimentador": "186-GERLI / R:186-4-43 / 186-4-43",
+      "usuarios": "505",
+      "normalizacion": "2022-03-17 16:00"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES ESTE",
+      "subestacion_alimentador": "73-QUILMES / R:073-3-32 / 073-3-32",
+      "usuarios": "2335",
+      "normalizacion": "2022-03-17 16:06"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "58"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "62"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "18"
+    }
+  ]
+}
