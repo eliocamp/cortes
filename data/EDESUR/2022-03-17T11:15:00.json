@@ -1,0 +1,64 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "7.349",
+  "totalUsuariosConSuministro": "2.526.831",
+  "ultimaActualizacion": "11:15",
+  "totalUsuariosAyer": "17.699",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-4-42 / 083-4-42",
+      "usuarios": "2027",
+      "normalizacion": "2022-03-17 14:16"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-2-28 / 270-2-28",
+      "usuarios": "3072",
+      "normalizacion": "2022-03-17 13:41"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI L",
+      "subestacion_alimentador": "186-GERLI / R:186-4-43 / 186-4-43",
+      "usuarios": "505",
+      "normalizacion": "2022-03-17 16:00"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES ESTE",
+      "subestacion_alimentador": "73-QUILMES / R:073-3-32 / 073-3-32",
+      "usuarios": "1600",
+      "normalizacion": "2022-03-17 14:21"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "57"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "61"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "LUIS GUILLON",
+      "usuarios": "9"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "18"
+    }
+  ]
+}
