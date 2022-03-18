@@ -1,0 +1,122 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "6.327",
+  "totalUsuariosConSuministro": "2.527.853",
+  "ultimaActualizacion": "16:15",
+  "totalUsuariosAyer": "58.617",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-24 / 271-2-24",
+      "usuarios": "802",
+      "normalizacion": "2022-03-18 20:14"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 2",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-24 / 271-2-24",
+      "usuarios": "4",
+      "normalizacion": "2022-03-18 20:14"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-24 / 271-2-24",
+      "usuarios": "13",
+      "normalizacion": "2022-03-18 20:14"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "7",
+      "normalizacion": "2022-03-18 21:15"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "186-GERLI / R:186-4-44 / 186-4-44",
+      "usuarios": "4082",
+      "normalizacion": "2022-03-18 21:53"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-2-24 / 184-2-24",
+      "usuarios": "1060",
+      "normalizacion": "2022-03-18 20:21"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "17"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "usuarios": "47"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "62"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN NICOLAS",
+      "usuarios": "15"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA GENERAL MITRE",
+      "usuarios": "8"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "LUIS GUILLON",
+      "usuarios": "33"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "12"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "18"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "55"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "41"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "21"
+    }
+  ]
+}
