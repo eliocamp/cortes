@@ -1,0 +1,184 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "7.867",
+  "totalUsuariosConSuministro": "2.990.624",
+  "ultimaActualizacion": "2:10",
+  "totalUsuariosAyer": "40.018",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "PILAR",
+      "localidad": "LUIS LAGOMARSINO",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR1 / 257-5513",
+      "usuarios": "447",
+      "normalizacion": "2022-03-18 04:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR1 / 257-5513",
+      "usuarios": "3846",
+      "normalizacion": "2022-03-18 04:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LOMAS DEL MIRADOR",
+      "subestacion_alimentador": "- / R:SAN JUSTO / 164-TR1 / 164-5516",
+      "usuarios": "714",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5511",
+      "usuarios": "313",
+      "normalizacion": "2022-03-18 06:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5511",
+      "usuarios": "746",
+      "normalizacion": "2022-03-18 06:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5511",
+      "usuarios": "439",
+      "normalizacion": "2022-03-18 06:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "GENERAL PACHECO",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5511",
+      "usuarios": "202",
+      "normalizacion": "2022-03-18 06:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
+      "usuarios": "136",
+      "normalizacion": "2022-03-18 04:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "TRONCOS DEL TALAR",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5511",
+      "usuarios": "304",
+      "normalizacion": "2022-03-18 06:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "19"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "25"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "53"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GRAL EUGENIO NECOCHEA",
+      "usuarios": "39"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "13"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "usuarios": "109"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA LUZURIAGA",
+      "usuarios": "17"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "48"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "VILLA DE MAYO",
+      "usuarios": "42"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "40"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "20"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "usuarios": "32"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "usuarios": "7"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "76"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "MARTINEZ",
+      "usuarios": "39"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "MUÑIZ",
+      "usuarios": "7"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "usuarios": "20"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "usuarios": "47"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "usuarios": "28"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "usuarios": "27"
+    }
+  ]
+}
