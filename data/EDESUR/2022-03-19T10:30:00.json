@@ -1,0 +1,71 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.632",
+  "totalUsuariosConSuministro": "2.530.548",
+  "ultimaActualizacion": "10:30",
+  "totalUsuariosAyer": "109.296",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "4",
+      "normalizacion": "2022-03-19 14:40"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "MAXIMO PAZ",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-15 / 270-1-15",
+      "usuarios": "14",
+      "normalizacion": "2022-03-19 13:16"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "82-BURZACO / R:082-4-983 / 082-4-983",
+      "usuarios": "3261",
+      "normalizacion": "2022-03-19 14:40"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "PIÑEYRO",
+      "usuarios": "44"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "87"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "47"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "usuarios": "84"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "usuarios": "23"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "55"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "13"
+    }
+  ]
+}
