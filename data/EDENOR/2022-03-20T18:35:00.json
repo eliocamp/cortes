@@ -1,0 +1,66 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "6.152",
+  "totalUsuariosConSuministro": "2.992.339",
+  "ultimaActualizacion": "18:35",
+  "totalUsuariosAyer": "26.058",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR3 / 353-5472",
+      "usuarios": "595",
+      "normalizacion": "2022-03-20 20:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR3 / 353-5472",
+      "usuarios": "1",
+      "normalizacion": "2022-03-20 20:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR3 / 353-5472",
+      "usuarios": "5285",
+      "normalizacion": "2022-03-20 20:00"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "VILLA ADELINA (SI)",
+      "subestacion_alimentador": "- / R:V.ADELINA / 155-TR1 / 155-5515",
+      "usuarios": "172",
+      "normalizacion": "2022-03-20 19:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "24",
+      "normalizacion": "2022-03-20 20:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "17"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA MAIPU",
+      "usuarios": "15"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "FLORIDA",
+      "usuarios": "43"
+    }
+  ]
+}
