@@ -1,0 +1,94 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "6.355",
+  "totalUsuariosConSuministro": "2.992.136",
+  "ultimaActualizacion": "9:15",
+  "totalUsuariosAyer": "26.058",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR3 / 353-5472",
+      "usuarios": "595",
+      "normalizacion": "2022-03-20 10:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "CHACABUCO",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR2 / 54-5528 / 54-5541 / 54-5514",
+      "usuarios": "4",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "WILLIAM MORRIS",
+      "subestacion_alimentador": "- / R:MORON / 67-TR2 / 67-5518",
+      "usuarios": "1",
+      "normalizacion": "2022-03-20 10:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR3 / 353-5472",
+      "usuarios": "1",
+      "normalizacion": "2022-03-20 10:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "subestacion_alimentador": "- / R:SAN JUSTO / 164-TR1 / 164-5518",
+      "usuarios": "16",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR3 / 353-5472",
+      "usuarios": "5285",
+      "normalizacion": "2022-03-20 10:00"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BOULOGNE",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR2 / 266-5532",
+      "usuarios": "1",
+      "normalizacion": "2022-03-20 11:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "MUNRO",
+      "subestacion_alimentador": "- / R:V.ADELINA / 155-TR1 / 155-5511",
+      "usuarios": "69",
+      "normalizacion": "2022-03-20 10:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VILLA ADELINA (VL)",
+      "subestacion_alimentador": "- / R:V.ADELINA / 155-TR1 / 155-5511",
+      "usuarios": "238",
+      "normalizacion": "2022-03-20 10:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA LUZURIAGA",
+      "usuarios": "99"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "30"
+    }
+  ]
+}
