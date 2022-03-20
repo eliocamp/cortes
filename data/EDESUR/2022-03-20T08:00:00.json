@@ -1,0 +1,75 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.871",
+  "totalUsuariosConSuministro": "2.531.309",
+  "ultimaActualizacion": "8:00",
+  "totalUsuariosAyer": "9.583",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI CENTRO",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-23 / 080-2-23",
+      "usuarios": "128",
+      "normalizacion": "2022-03-20 11:11"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-23 / 080-2-23",
+      "usuarios": "3",
+      "normalizacion": "2022-03-20 11:11"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "SOURIGUES",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-23 / 080-2-23",
+      "usuarios": "625",
+      "normalizacion": "2022-03-20 11:11"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-23 / 080-2-23",
+      "usuarios": "974",
+      "normalizacion": "2022-03-20 11:11"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "186-GERLI / R:186-2-27 / 186-2-27",
+      "usuarios": "1002",
+      "normalizacion": "2022-03-20 09:24"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "48"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "55"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "17"
+    }
+  ]
+}
