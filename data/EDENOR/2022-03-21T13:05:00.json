@@ -1,0 +1,117 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "9.689",
+  "totalUsuariosConSuministro": "2.988.802",
+  "ultimaActualizacion": "13:05",
+  "totalUsuariosAyer": "23.127",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "VILLA BOSCH",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR1 / 262-5513",
+      "usuarios": "418",
+      "normalizacion": "2022-03-21 14:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR2 / 258-5528",
+      "usuarios": "2738",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR1 / 258-5544",
+      "usuarios": "790",
+      "normalizacion": "2022-03-21 14:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR2 / 258-5528",
+      "usuarios": "1799",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "VILLA BOSCH",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR2 / 69-5521",
+      "usuarios": "235",
+      "normalizacion": "2022-03-21 14:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR2 / 363-5527",
+      "usuarios": "2",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / TR2 / 362-5526",
+      "usuarios": "3100",
+      "normalizacion": "2022-03-21 14:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "subestacion_alimentador": "- / R:BANCALARI / 157-TR2 / 157-5527",
+      "usuarios": "520",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "VILLA BOSCH",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "30"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LOMAS DEL MIRADOR",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "22"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "1"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BECCAR",
+      "usuarios": "5"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "MUÑIZ",
+      "usuarios": "16"
+    }
+  ]
+}
