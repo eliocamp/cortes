@@ -1,0 +1,61 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "408",
+  "totalUsuariosConSuministro": "2.998.083",
+  "ultimaActualizacion": "16:20",
+  "totalUsuariosAyer": "23.127",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR2 / 363-5527",
+      "usuarios": "2",
+      "normalizacion": "2022-03-21 18:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5482",
+      "usuarios": "8",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR1 / 156-5513",
+      "usuarios": "340",
+      "normalizacion": "2022-03-21 19:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "28"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "ITUZAINGO",
+      "usuarios": "12"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LOMAS DEL MIRADOR",
+      "usuarios": "4"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BECCAR",
+      "usuarios": "4"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "usuarios": "10"
+    }
+  ]
+}
