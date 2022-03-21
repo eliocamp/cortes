@@ -1,0 +1,44 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "324",
+  "totalUsuariosConSuministro": "2.533.856",
+  "ultimaActualizacion": "2:50",
+  "totalUsuariosAyer": "28.171",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-3-33 / 189-3-33",
+      "usuarios": "273",
+      "normalizacion": "2022-03-21 05:49"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MINISTRO RIVADAVIA",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-3-33 / 189-3-33",
+      "usuarios": "19",
+      "normalizacion": "2022-03-21 05:49"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "2"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "usuarios": "19"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "11"
+    }
+  ]
+}
