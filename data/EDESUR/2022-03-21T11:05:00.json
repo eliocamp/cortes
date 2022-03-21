@@ -1,0 +1,92 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "7.043",
+  "totalUsuariosConSuministro": "2.527.137",
+  "ultimaActualizacion": "11:05",
+  "totalUsuariosAyer": "28.171",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "subestacion_alimentador": "49-PARQUE CENTENARIO / R:049-3-34 / 049-3-34",
+      "usuarios": "1009",
+      "normalizacion": "2022-03-21 13:17"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-3-33 / 189-3-33",
+      "usuarios": "273",
+      "normalizacion": "2022-03-21 15:25"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MINISTRO RIVADAVIA",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-3-33 / 189-3-33",
+      "usuarios": "19",
+      "normalizacion": "2022-03-21 15:25"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MINISTRO RIVADAVIA",
+      "subestacion_alimentador": "82-BURZACO / R:082-1-09 / 082-1-09",
+      "usuarios": "565",
+      "normalizacion": "2022-03-21 15:25"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "subestacion_alimentador": "281-TRANSRADIO / N:281-2-24 / 281-2-24",
+      "usuarios": "135",
+      "normalizacion": "2022-03-21 15:25"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-1-17 / 083-1-17",
+      "usuarios": "4562",
+      "normalizacion": "2022-03-21 15:26"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-1-17 / 083-1-17",
+      "usuarios": "356",
+      "normalizacion": "2022-03-21 15:26"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CARLOS SPEGAZZINNI",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-26 / 271-2-26",
+      "usuarios": "50",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "RAFAEL CALZADA",
+      "usuarios": "46"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "usuarios": "19"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI",
+      "usuarios": "3"
+    }
+  ]
+}
