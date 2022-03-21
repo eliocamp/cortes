@@ -1,0 +1,79 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "379",
+  "totalUsuariosConSuministro": "2.998.112",
+  "ultimaActualizacion": "18:50",
+  "totalUsuariosAyer": "23.127",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / N:MARCOS PAZ / 363-TR4 / 363-5481 / 132-5512",
+      "usuarios": "1",
+      "normalizacion": "2022-03-21 20:00"
+    },
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / N:MARCOS PAZ / 363-TR4 / 363-5481 / 132-5512",
+      "usuarios": "9",
+      "normalizacion": "2022-03-21 20:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR1 / 169-5534",
+      "usuarios": "227",
+      "normalizacion": "2022-03-21 19:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANZANARES",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR1 / 158-5513",
+      "usuarios": "41",
+      "normalizacion": "2022-03-21 19:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "VILLA BOSCH",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "28"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NU?EZ",
+      "usuarios": "5"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "ITUZAINGO",
+      "usuarios": "12"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "15"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BECCAR",
+      "usuarios": "4"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "usuarios": "30"
+    }
+  ]
+}
