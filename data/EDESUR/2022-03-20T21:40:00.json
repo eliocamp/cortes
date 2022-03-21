@@ -1,0 +1,37 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "690",
+  "totalUsuariosConSuministro": "2.533.490",
+  "ultimaActualizacion": "21:40",
+  "totalUsuariosAyer": "9.583",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES ESTE",
+      "subestacion_alimentador": "73-QUILMES / R:073-2-22 / 073-2-22",
+      "usuarios": "645",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "18"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "usuarios": "20"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "7"
+    }
+  ]
+}

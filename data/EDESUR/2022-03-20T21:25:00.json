@@ -1,0 +1,80 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "4.022",
+  "totalUsuariosConSuministro": "2.530.158",
+  "ultimaActualizacion": "21:25",
+  "totalUsuariosAyer": "9.583",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES ESTE",
+      "subestacion_alimentador": "73-QUILMES / R:073-2-22 / 073-2-22",
+      "usuarios": "645",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "CANNING EE",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-26 / 083-2-26",
+      "usuarios": "38",
+      "normalizacion": "2022-03-20 23:15"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-26 / 083-2-26",
+      "usuarios": "405",
+      "normalizacion": "2022-03-20 23:15"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CANNING EZ",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-26 / 083-2-26",
+      "usuarios": "1833",
+      "normalizacion": "2022-03-20 23:15"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CARLOS SPEGAZZINNI",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-26 / 083-2-26",
+      "usuarios": "164",
+      "normalizacion": "2022-03-20 23:15"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-26 / 083-2-26",
+      "usuarios": "888",
+      "normalizacion": "2022-03-20 23:15"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-26 / 083-2-26",
+      "usuarios": "10",
+      "normalizacion": "2022-03-20 23:15"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "18"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "usuarios": "20"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "1"
+    }
+  ]
+}
