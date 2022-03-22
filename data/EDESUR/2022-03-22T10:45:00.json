@@ -1,0 +1,57 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "808",
+  "totalUsuariosConSuministro": "2.533.372",
+  "ultimaActualizacion": "10:45",
+  "totalUsuariosAyer": "36.184",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-4-81 / 271-4-81",
+      "usuarios": "692",
+      "normalizacion": "2022-03-22 12:20"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "43"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "14"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "12"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONTE CASTRO",
+      "usuarios": "13"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "usuarios": "8"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "usuarios": "16"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "870",
+  "totalUsuariosConSuministro": "2.533.310",
+  "ultimaActualizacion": "10:05",
+  "totalUsuariosAyer": "36.184",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-2-25 / 174-2-25",
+      "usuarios": "62",
+      "normalizacion": "2022-03-22 15:08"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-4-81 / 271-4-81",
+      "usuarios": "692",
+      "normalizacion": "2022-03-22 12:20"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "40"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "26"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "12"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "usuarios": "8"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "usuarios": "16"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "4"
+    }
+  ]
+}
