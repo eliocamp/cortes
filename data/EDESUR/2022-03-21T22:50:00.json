@@ -1,0 +1,93 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.800",
+  "totalUsuariosConSuministro": "2.532.380",
+  "ultimaActualizacion": "22:50",
+  "totalUsuariosAyer": "28.171",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MINISTRO RIVADAVIA",
+      "subestacion_alimentador": "82-BURZACO / R:082-1-09 / 082-1-09",
+      "usuarios": "565",
+      "normalizacion": "2022-03-22 01:34"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN TELMO",
+      "subestacion_alimentador": "31-HERNANDARIAS / R:031-2-28 / 031-2-28",
+      "usuarios": "81",
+      "normalizacion": "2022-03-22 01:38"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "subestacion_alimentador": "281-TRANSRADIO / N:281-2-24 / 281-2-24",
+      "usuarios": "135",
+      "normalizacion": "2022-03-22 01:34"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-4-41 / 281-4-41",
+      "usuarios": "836",
+      "normalizacion": "2022-03-22 01:11"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "SANTA ANITA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "35"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "12"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "usuarios": "19"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "usuarios": "23"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "47"
+    }
+  ]
+}
