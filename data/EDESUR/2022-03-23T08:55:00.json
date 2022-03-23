@@ -1,0 +1,56 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.719",
+  "totalUsuariosConSuministro": "2.530.461",
+  "ultimaActualizacion": "8:55",
+  "totalUsuariosAyer": "16.040",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "subestacion_alimentador": "75-CORINA / R:075-2-26 / 075-2-26",
+      "usuarios": "286",
+      "normalizacion": "2022-03-23 12:23"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-24 / 271-2-24",
+      "usuarios": "2043",
+      "normalizacion": "2022-03-23 12:07"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "subestacion_alimentador": "75-CORINA / R:075-2-26 / 075-2-26",
+      "usuarios": "4",
+      "normalizacion": "2022-03-23 12:23"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-11 / 218-1-11",
+      "usuarios": "45",
+      "normalizacion": "2022-03-23 12:29"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-15 / 185-1-15",
+      "usuarios": "1322",
+      "normalizacion": "2022-03-23 12:12"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "SOURIGUES",
+      "usuarios": "19"
+    }
+  ]
+}

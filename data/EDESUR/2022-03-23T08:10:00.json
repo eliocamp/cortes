@@ -1,0 +1,32 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "428",
+  "totalUsuariosConSuministro": "2.533.752",
+  "ultimaActualizacion": "8:10",
+  "totalUsuariosAyer": "16.040",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-11 / 218-1-11",
+      "usuarios": "413",
+      "normalizacion": "2022-03-23 12:29"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "SOURIGUES",
+      "usuarios": "14"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "1"
+    }
+  ]
+}
