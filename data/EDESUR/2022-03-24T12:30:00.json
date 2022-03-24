@@ -1,0 +1,149 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "11.945",
+  "totalUsuariosConSuministro": "2.522.235",
+  "ultimaActualizacion": "12:30",
+  "totalUsuariosAyer": "47.478",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA DEL PARQUE",
+      "subestacion_alimentador": "143-SANTA RITA / R:143-3-32 / 143-3-32",
+      "usuarios": "260",
+      "normalizacion": "2022-03-24 14:06"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-16 / 185-1-16",
+      "usuarios": "102",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "ING. ALLAN",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-16 / 185-1-16",
+      "usuarios": "5",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI CENTRO",
+      "subestacion_alimentador": "175-SOBRAL / R:175-2-25 / 175-2-25",
+      "usuarios": "1904",
+      "normalizacion": "2022-03-24 15:55"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-2-24 / 281-2-24",
+      "usuarios": "137",
+      "normalizacion": "2022-03-24 17:39"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "subestacion_alimentador": "185-BOSQUES / R:185-2-23 / 185-2-23",
+      "usuarios": "3300",
+      "normalizacion": "2022-03-24 16:46"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "ING. ALLAN",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-2-26 / 174-2-26",
+      "usuarios": "3000",
+      "normalizacion": "2022-03-24 16:55"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "subestacion_alimentador": "175-SOBRAL / R:175-2-25 / 175-2-25",
+      "usuarios": "1928",
+      "normalizacion": "2022-03-24 15:55"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "subestacion_alimentador": "73-QUILMES / R:073-3-31 / 073-3-31",
+      "usuarios": "895",
+      "normalizacion": "2022-03-24 18:01"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "37"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "113"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "28"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONTE CASTRO",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "121"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "1"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "BANDFIELD",
+      "usuarios": "3"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "22"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "1"
+    }
+  ]
+}
