@@ -1,0 +1,99 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "10.281",
+  "totalUsuariosConSuministro": "2.523.899",
+  "ultimaActualizacion": "9:25",
+  "totalUsuariosAyer": "47.478",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-16 / 185-1-16",
+      "usuarios": "984",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "ING. ALLAN",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-16 / 185-1-16",
+      "usuarios": "5",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "RAFAEL CALZADA",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-3-32 / 184-3-32",
+      "usuarios": "229",
+      "normalizacion": "2022-03-24 14:51"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-3-32 / 184-3-32",
+      "usuarios": "1432",
+      "normalizacion": "2022-03-24 14:51"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-2-24 / 281-2-24",
+      "usuarios": "137",
+      "normalizacion": "2022-03-24 14:51"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "subestacion_alimentador": "185-BOSQUES / R:185-2-23 / 185-2-23",
+      "usuarios": "3300",
+      "normalizacion": "2022-03-24 10:46"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "ING. ALLAN",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-2-26 / 174-2-26",
+      "usuarios": "3000",
+      "normalizacion": "2022-03-24 10:55"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "subestacion_alimentador": "73-QUILMES / R:073-3-31 / 073-3-31",
+      "usuarios": "895",
+      "normalizacion": "2022-03-24 14:52"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-3-32 / 184-3-32",
+      "usuarios": "242",
+      "normalizacion": "2022-03-24 14:51"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "33"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "2"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "18"
+    }
+  ]
+}
