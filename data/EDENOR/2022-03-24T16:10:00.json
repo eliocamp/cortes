@@ -1,0 +1,237 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "6.705",
+  "totalUsuariosConSuministro": "2.991.786",
+  "ultimaActualizacion": "16:10",
+  "totalUsuariosAyer": "97.297",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:FORD / 151-TR1 / 151-5541",
+      "usuarios": "10",
+      "normalizacion": "2022-03-24 17:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR1 / 257-5518",
+      "usuarios": "20",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR5 / 169-5486 / 255-5513",
+      "usuarios": "1630",
+      "normalizacion": "2022-03-24 18:00"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "6",
+      "normalizacion": "2022-03-24 17:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "154-MASCHWITZ / R:154-TR3 / 154-5472 / 253-5513",
+      "usuarios": "213",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR5 / 169-5486 / 255-5513",
+      "usuarios": "303",
+      "normalizacion": "2022-03-24 18:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR5 / 169-5562",
+      "usuarios": "356",
+      "normalizacion": "2022-03-24 17:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR3 / 263-5471",
+      "usuarios": "647",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR1 / 365-5513",
+      "usuarios": "184",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR1 / 168-5471",
+      "usuarios": "29",
+      "normalizacion": "2022-03-24 17:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR1 / 363-5518",
+      "usuarios": "192",
+      "normalizacion": "2022-03-24 17:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR1 / 256-5512",
+      "usuarios": "313",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR1 / 260-5512",
+      "usuarios": "465",
+      "normalizacion": "2022-03-24 17:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "1193",
+      "normalizacion": "2022-03-24 17:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "243",
+      "normalizacion": "2022-03-24 17:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "1",
+      "normalizacion": "2022-03-24 17:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR3 / 154-5473 / 951-5522",
+      "usuarios": "373",
+      "normalizacion": "2022-03-24 17:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
+      "usuarios": "100",
+      "normalizacion": "2022-03-24 17:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "33"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CHACARITA",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "COGHLAN",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "15"
+    },
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "usuarios": "2"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "22"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "14"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "usuarios": "65"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "usuarios": "68"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "44"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "PONTEVEDRA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "CASTELAR",
+      "usuarios": "13"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "96"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "VILLA SARMIENTO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "usuarios": "19"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "usuarios": "4"
+    }
+  ]
+}
