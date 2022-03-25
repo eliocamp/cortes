@@ -1,0 +1,97 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "351",
+  "totalUsuariosConSuministro": "2.533.829",
+  "ultimaActualizacion": "0:40",
+  "totalUsuariosAyer": "43.389",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-16 / 185-1-16",
+      "usuarios": "10",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "ING. ALLAN",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-16 / 185-1-16",
+      "usuarios": "2",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 2",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-71 / 271-3-71",
+      "usuarios": "7",
+      "normalizacion": "2022-03-25 02:15"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MARMOL",
+      "usuarios": "29"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "usuarios": "71"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "10"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "3"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "37"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "34"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "16"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "RECOLETA",
+      "usuarios": "14"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI",
+      "usuarios": "24"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "BANDFIELD",
+      "usuarios": "69"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "15"
+    }
+  ]
+}
