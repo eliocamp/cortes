@@ -1,0 +1,105 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.742",
+  "totalUsuariosConSuministro": "2.996.749",
+  "ultimaActualizacion": "3:55",
+  "totalUsuariosAyer": "81.349",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "6",
+      "normalizacion": "2022-03-25 05:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR3 / 263-5471",
+      "usuarios": "14",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "1193",
+      "normalizacion": "2022-03-25 05:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "243",
+      "normalizacion": "2022-03-25 05:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "1",
+      "normalizacion": "2022-03-25 05:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "41"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "2"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "49"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "21"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "PONTEVEDRA",
+      "usuarios": "21"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "28"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "64"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "50"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "usuarios": "1"
+    }
+  ]
+}
