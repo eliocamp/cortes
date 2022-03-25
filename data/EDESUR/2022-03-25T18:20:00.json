@@ -1,0 +1,214 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "8.006",
+  "totalUsuariosConSuministro": "2.526.174",
+  "ultimaActualizacion": "18:20",
+  "totalUsuariosAyer": "43.436",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-2-28 / 147-2-28",
+      "usuarios": "993",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-4-48 / 182-4-48",
+      "usuarios": "475",
+      "normalizacion": "2022-03-25 20:00"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-4-48 / 182-4-48",
+      "usuarios": "448",
+      "normalizacion": "2022-03-25 20:00"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI L",
+      "subestacion_alimentador": "186-GERLI / R:186-2-23 / 186-2-23",
+      "usuarios": "631",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "952- / R:952-1-01 / 952-1-01",
+      "usuarios": "738",
+      "normalizacion": "2022-03-25 19:35"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "subestacion_alimentador": "951- / R:951-1-03 / 951-1-03",
+      "usuarios": "914",
+      "normalizacion": "2022-03-25 22:49"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI CENTRO",
+      "subestacion_alimentador": "80-EZPELETA / R:080-1-05 / 080-1-05",
+      "usuarios": "1178",
+      "normalizacion": "2022-03-25 23:49"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "MAXIMO PAZ",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-17 / 270-1-17",
+      "usuarios": "1",
+      "normalizacion": "2022-03-25 23:45"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "UDAONDO",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "160",
+      "normalizacion": "2022-03-25 23:49"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 2",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-71 / 271-3-71",
+      "usuarios": "7",
+      "normalizacion": "2022-03-25 23:45"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 4",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "203",
+      "normalizacion": "2022-03-25 23:49"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 5",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "22",
+      "normalizacion": "2022-03-25 23:49"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "94",
+      "normalizacion": "2022-03-25 23:49"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 8",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-17 / 270-1-17",
+      "usuarios": "2",
+      "normalizacion": "2022-03-25 23:45"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 9",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-17 / 270-1-17",
+      "usuarios": "571",
+      "normalizacion": "2022-03-25 23:45"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CARLOS SPEGAZZINNI",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-17 / 270-1-17",
+      "usuarios": "48",
+      "normalizacion": "2022-03-25 23:45"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "186-GERLI / R:186-3-31 / 186-3-31",
+      "usuarios": "297",
+      "normalizacion": "2022-03-25 23:44"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "subestacion_alimentador": "82-BURZACO / R:082-3-982 / 082-3-982",
+      "usuarios": "842",
+      "normalizacion": "2022-03-25 23:45"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "38",
+      "normalizacion": "2022-03-25 23:49"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "8"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "6"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "37"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "43"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "40"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "2"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "19"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "BANDFIELD",
+      "usuarios": "53"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "26"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "64"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "24"
+    }
+  ]
+}
