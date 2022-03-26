@@ -1,0 +1,68 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "690",
+  "totalUsuariosConSuministro": "2.997.801",
+  "ultimaActualizacion": "12:05",
+  "totalUsuariosAyer": "57.426",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "EL TRIANGULO",
+      "subestacion_alimentador": "- / R:FORD / 151-TR2 / 151-5531",
+      "usuarios": "1",
+      "normalizacion": "2022-03-26 14:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR3 / 363-5472 / 132-5522",
+      "usuarios": "9",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR5 / 169-5562",
+      "usuarios": "457",
+      "normalizacion": "2022-03-26 14:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5481 / 132-5512",
+      "usuarios": "88",
+      "normalizacion": "2022-03-26 13:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "34",
+      "normalizacion": "2022-03-26 14:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
+      "usuarios": "28",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "64"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "9"
+    }
+  ]
+}
