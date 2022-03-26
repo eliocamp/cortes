@@ -1,0 +1,89 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.502",
+  "totalUsuariosConSuministro": "2.531.678",
+  "ultimaActualizacion": "7:15",
+  "totalUsuariosAyer": "45.947",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "UDAONDO",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "160",
+      "normalizacion": "2022-03-26 10:05"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 4",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "48",
+      "normalizacion": "2022-03-26 10:05"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 5",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "22",
+      "normalizacion": "2022-03-26 10:05"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "75",
+      "normalizacion": "2022-03-26 10:05"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-3-34 / 184-3-34",
+      "usuarios": "9",
+      "normalizacion": "2022-03-26 08:43"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-3-35 / 184-3-35",
+      "usuarios": "2047",
+      "normalizacion": "2022-03-26 11:10"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-14 / 271-1-14",
+      "usuarios": "38",
+      "normalizacion": "2022-03-26 10:05"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "26"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "5"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "24"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "42"
+    }
+  ]
+}
