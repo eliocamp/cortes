@@ -1,0 +1,106 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.572",
+  "totalUsuariosConSuministro": "2.994.919",
+  "ultimaActualizacion": "11:20",
+  "totalUsuariosAyer": "57.426",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "EL TRIANGULO",
+      "subestacion_alimentador": "- / R:FORD / 151-TR2 / 151-5531",
+      "usuarios": "1",
+      "normalizacion": "2022-03-26 13:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR3 / 363-5472 / 132-5522",
+      "usuarios": "9",
+      "normalizacion": "2022-03-26 13:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C LIBERTADOR SAN MART?N",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR2 / 54-5532",
+      "usuarios": "355",
+      "normalizacion": "2022-03-26 15:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "CHACABUCO",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR2 / 54-5532",
+      "usuarios": "1",
+      "normalizacion": "2022-03-26 15:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "PARQUE SAN LORENZO",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR2 / 54-5532",
+      "usuarios": "454",
+      "normalizacion": "2022-03-26 15:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA MAIPU",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR2 / 54-5532",
+      "usuarios": "2089",
+      "normalizacion": "2022-03-26 15:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA MAIPU",
+      "subestacion_alimentador": "- / R:TECNOPOLIS / 352-TR2 / 352-5525",
+      "usuarios": "315",
+      "normalizacion": "2022-03-26 12:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5481 / 132-5512",
+      "usuarios": "100",
+      "normalizacion": "2022-03-26 12:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "34",
+      "normalizacion": "2022-03-26 15:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
+      "usuarios": "28",
+      "normalizacion": "2022-03-26 12:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "64"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "98"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DIQUE LUJAN",
+      "usuarios": "8"
+    }
+  ]
+}
