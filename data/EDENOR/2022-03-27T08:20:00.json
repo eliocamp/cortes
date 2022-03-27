@@ -1,0 +1,63 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "4.107",
+  "totalUsuariosConSuministro": "2.994.384",
+  "ultimaActualizacion": "8:20",
+  "totalUsuariosAyer": "22.002",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LOMAS DEL MIRADOR",
+      "subestacion_alimentador": "- / R:SAN JUSTO / 164-TR2 / 164-5533",
+      "usuarios": "599",
+      "normalizacion": "2022-03-27 12:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "subestacion_alimentador": "- / R:SAN JUSTO / 164-TR2 / 164-5533",
+      "usuarios": "1662",
+      "normalizacion": "2022-03-27 12:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "subestacion_alimentador": "- / R:NOGUES / 159-TR2 / 159-5521",
+      "usuarios": "1570",
+      "normalizacion": "2022-03-27 09:17"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "MALVINAS ARGENTINAS",
+      "subestacion_alimentador": "- / R:NOGUES / 159-TR2 / 159-5521",
+      "usuarios": "212",
+      "normalizacion": "2022-03-27 09:17"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "MARTINEZ",
+      "subestacion_alimentador": "- / R:EDISON / 57-TR3 / 57-5531",
+      "usuarios": "1",
+      "normalizacion": "2022-03-27 12:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "35",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "28"
+    }
+  ]
+}
