@@ -1,0 +1,32 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "46",
+  "totalUsuariosConSuministro": "2.998.445",
+  "ultimaActualizacion": "0:25",
+  "totalUsuariosAyer": "11.726",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "CHACABUCO",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR1 / 54-5514",
+      "usuarios": "10",
+      "normalizacion": "2022-03-28 02:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "usuarios": "13"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "23"
+    }
+  ]
+}
