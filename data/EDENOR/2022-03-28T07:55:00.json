@@ -1,0 +1,46 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "4.020",
+  "totalUsuariosConSuministro": "2.994.471",
+  "ultimaActualizacion": "7:55",
+  "totalUsuariosAyer": "11.726",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR5 / 169-5486 / 255-5513",
+      "usuarios": "694",
+      "normalizacion": "2022-03-28 09:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5524",
+      "usuarios": "366",
+      "normalizacion": "2022-03-28 10:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ASTOLFI",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5524",
+      "usuarios": "2835",
+      "normalizacion": "2022-03-28 10:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "31"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "94"
+    }
+  ]
+}
