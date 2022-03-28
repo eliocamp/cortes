@@ -1,9 +1,9 @@
 {
   "fuente": "Web Service",
   "empresa": "EDESUR",
-  "totalUsuariosSinSuministro": "3.216",
-  "totalUsuariosConSuministro": "2.530.964",
-  "ultimaActualizacion": "19:00",
+  "totalUsuariosSinSuministro": "7.549",
+  "totalUsuariosConSuministro": "2.526.631",
+  "ultimaActualizacion": "19:40",
   "totalUsuariosAyer": "18.020",
   "cortesPreventivos": [],
   "cortesProgramados": [
@@ -41,17 +41,19 @@
       "partido": "AVELLANEDA",
       "localidad": "WILDE",
       "subestacion_alimentador": "172-SARANDI / R:172-2-27 / 172-2-27",
-      "usuarios": "977",
-      "normalizacion": "Sin datos"
+      "usuarios": "248",
+      "normalizacion": "2022-03-29 01:02"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO GP",
+      "subestacion_alimentador": "122-CABALLITO / R:122-3-31 / 122-3-31",
+      "usuarios": "5018",
+      "normalizacion": "2022-03-28 23:10"
     }
   ],
   "cortesComunicados": [],
   "cortesServicioBaja": [
-    {
-      "partido": "AVELLANEDA",
-      "localidad": "AVELLANEDA",
-      "usuarios": "36"
-    },
     {
       "partido": "BERAZATEGUI",
       "localidad": "EL PATO",
@@ -60,12 +62,17 @@
     {
       "partido": "CAPITAL",
       "localidad": "BOEDO",
-      "usuarios": "9"
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "29"
     },
     {
       "partido": "CAPITAL",
       "localidad": "CONSTITUCION",
-      "usuarios": "4"
+      "usuarios": "5"
     },
     {
       "partido": "CAPITAL",
@@ -78,14 +85,29 @@
       "usuarios": "8"
     },
     {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "32"
+    },
+    {
       "partido": "FLORENCIO VARELA",
       "localidad": "FLORENCIO VARELA",
-      "usuarios": "5"
+      "usuarios": "9"
     },
     {
       "partido": "LANUS",
       "localidad": "LANUS",
       "usuarios": "71"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "1"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "usuarios": "12"
     }
   ]
 }

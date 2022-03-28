@@ -1,9 +1,9 @@
 {
   "fuente": "Web Service",
   "empresa": "EDESUR",
-  "totalUsuariosSinSuministro": "3.216",
-  "totalUsuariosConSuministro": "2.530.964",
-  "ultimaActualizacion": "19:00",
+  "totalUsuariosSinSuministro": "2.536",
+  "totalUsuariosConSuministro": "2.531.644",
+  "ultimaActualizacion": "19:30",
   "totalUsuariosAyer": "18.020",
   "cortesPreventivos": [],
   "cortesProgramados": [
@@ -41,7 +41,7 @@
       "partido": "AVELLANEDA",
       "localidad": "WILDE",
       "subestacion_alimentador": "172-SARANDI / R:172-2-27 / 172-2-27",
-      "usuarios": "977",
+      "usuarios": "248",
       "normalizacion": "Sin datos"
     }
   ],
@@ -60,7 +60,7 @@
     {
       "partido": "CAPITAL",
       "localidad": "BOEDO",
-      "usuarios": "9"
+      "usuarios": "10"
     },
     {
       "partido": "CAPITAL",
@@ -78,14 +78,24 @@
       "usuarios": "8"
     },
     {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "32"
+    },
+    {
       "partido": "FLORENCIO VARELA",
       "localidad": "FLORENCIO VARELA",
-      "usuarios": "5"
+      "usuarios": "9"
     },
     {
       "partido": "LANUS",
       "localidad": "LANUS",
       "usuarios": "71"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "usuarios": "12"
     }
   ]
 }
