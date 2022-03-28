@@ -1,0 +1,54 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "4.141",
+  "totalUsuariosConSuministro": "2.994.350",
+  "ultimaActualizacion": "7:50",
+  "totalUsuariosAyer": "11.726",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "EL TRIANGULO",
+      "subestacion_alimentador": "- / R:FORD / 151-TR1 / 151-5541",
+      "usuarios": "121",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR5 / 169-5486 / 255-5513",
+      "usuarios": "694",
+      "normalizacion": "2022-03-28 09:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5524",
+      "usuarios": "366",
+      "normalizacion": "2022-03-28 08:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ASTOLFI",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5524",
+      "usuarios": "2835",
+      "normalizacion": "2022-03-28 08:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "31"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "94"
+    }
+  ]
+}
