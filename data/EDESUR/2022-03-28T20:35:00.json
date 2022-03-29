@@ -1,0 +1,121 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "6.583",
+  "totalUsuariosConSuministro": "2.527.597",
+  "ultimaActualizacion": "20:35",
+  "totalUsuariosAyer": "18.020",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MARMOL",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-4-47 / 189-4-47",
+      "usuarios": "455",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "RAFAEL CALZADA",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-4-47 / 189-4-47",
+      "usuarios": "673",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BOEDO",
+      "subestacion_alimentador": "15-PATRICIOS / R:015-1-12 / 015-1-12",
+      "usuarios": "35",
+      "normalizacion": "2022-03-29 00:03"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NUEVA POMPEYA",
+      "subestacion_alimentador": "15-PATRICIOS / R:015-1-12 / 015-1-12",
+      "usuarios": "214",
+      "normalizacion": "2022-03-29 00:03"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE PATRICIOS",
+      "subestacion_alimentador": "15-PATRICIOS / R:015-1-12 / 015-1-12",
+      "usuarios": "331",
+      "normalizacion": "2022-03-29 00:03"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE PATRICIOS",
+      "subestacion_alimentador": "15-PATRICIOS / R:015-2-24 / 015-2-24",
+      "usuarios": "571",
+      "normalizacion": "2022-03-29 00:51"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "87-ESCALADA / R:087-2-2526 / 087-2-2526",
+      "usuarios": "117",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-2-22 / 182-2-22",
+      "usuarios": "776",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "subestacion_alimentador": "172-SARANDI / R:172-2-27 / 172-2-27",
+      "usuarios": "248",
+      "normalizacion": "2022-03-29 01:02"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO GP",
+      "subestacion_alimentador": "122-CABALLITO / R:122-3-31 / 122-3-31",
+      "usuarios": "3053",
+      "normalizacion": "2022-03-29 01:01"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "33"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "32"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "11"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "usuarios": "12"
+    }
+  ]
+}
