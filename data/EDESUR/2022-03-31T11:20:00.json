@@ -1,0 +1,132 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.912",
+  "totalUsuariosConSuministro": "2.530.268",
+  "ultimaActualizacion": "11:20",
+  "totalUsuariosAyer": "15.855",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-11 / 218-1-11",
+      "usuarios": "452",
+      "normalizacion": "2022-03-31 14:11"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-1-16 / 083-1-16",
+      "usuarios": "690",
+      "normalizacion": "2022-03-31 16:00"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "subestacion_alimentador": "185-BOSQUES / R:185-2-24 / 185-2-24",
+      "usuarios": "496",
+      "normalizacion": "2022-03-31 13:42"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-1-17 / 184-1-17",
+      "usuarios": "518",
+      "normalizacion": "2022-03-31 14:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN FRANCISCO SOLANO",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-1-16 / 189-1-16",
+      "usuarios": "352",
+      "normalizacion": "2022-03-31 16:40"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI CENTRO",
+      "subestacion_alimentador": "80-EZPELETA / R:080-1-09 / 080-1-09",
+      "usuarios": "655",
+      "normalizacion": "2022-03-31 16:39"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MONSERRAT",
+      "subestacion_alimentador": "210-CARLOS PELLEGRINI / R:210-1-01 / 210-1-01",
+      "usuarios": "260",
+      "normalizacion": "2022-03-31 16:40"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA SOLDATI RP",
+      "subestacion_alimentador": "39-POMPEYA / R:039-1-17 / 039-1-17",
+      "usuarios": "296",
+      "normalizacion": "2022-03-31 15:16"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "48"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "2"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "32"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "15"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "13"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "26"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "BANDFIELD",
+      "usuarios": "1"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA PANAMERICANA",
+      "usuarios": "15"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "15"
+    }
+  ]
+}
