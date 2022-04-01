@@ -1,0 +1,105 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "5.804",
+  "totalUsuariosConSuministro": "2.528.376",
+  "ultimaActualizacion": "22:10",
+  "totalUsuariosAyer": "15.855",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-1-16 / 083-1-16",
+      "usuarios": "690",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-26 / 083-2-26",
+      "usuarios": "61",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-27 / 080-2-27",
+      "usuarios": "1254",
+      "normalizacion": "2022-04-01 00:31"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI CENTRO",
+      "subestacion_alimentador": "80-EZPELETA / R:080-1-09 / 080-1-09",
+      "usuarios": "655",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-27 / 080-2-27",
+      "usuarios": "348",
+      "normalizacion": "2022-04-01 00:31"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "RANELAGH",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-27 / 080-2-27",
+      "usuarios": "2031",
+      "normalizacion": "2022-04-01 00:31"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "SOURIGUES",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-27 / 080-2-27",
+      "usuarios": "628",
+      "normalizacion": "2022-04-01 00:31"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "DOCK SUD",
+      "usuarios": "34"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "14"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VELEZ SARFIELD",
+      "usuarios": "15"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "24"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "41"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "1"
+    }
+  ]
+}
