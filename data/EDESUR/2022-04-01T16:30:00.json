@@ -1,0 +1,170 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "5.424",
+  "totalUsuariosConSuministro": "2.528.756",
+  "ultimaActualizacion": "16:30",
+  "totalUsuariosAyer": "13.303",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "subestacion_alimentador": "75-CORINA / R:075-2-26 / 075-2-26",
+      "usuarios": "286",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "LOS POZOS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-26 / 271-2-26",
+      "usuarios": "558",
+      "normalizacion": "2022-04-01 18:00"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "SANTA ANITA",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-26 / 271-2-26",
+      "usuarios": "336",
+      "normalizacion": "2022-04-01 18:00"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 1",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-26 / 271-2-26",
+      "usuarios": "27",
+      "normalizacion": "2022-04-01 18:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-2-21 / 218-2-21",
+      "usuarios": "738",
+      "normalizacion": "2022-04-01 17:11"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-1-13 / 281-1-13",
+      "usuarios": "334",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-1-13 / 281-1-13",
+      "usuarios": "692",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-1-14 / 077-1-14",
+      "usuarios": "438",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CONSTITUCION",
+      "subestacion_alimentador": "124-CONSTITUCION / R:124-2-24 / 124-2-24",
+      "usuarios": "528",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "subestacion_alimentador": "82-BURZACO / R:082-3-982 / 082-3-982",
+      "usuarios": "828",
+      "normalizacion": "2022-04-01 20:03"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "subestacion_alimentador": "82-BURZACO / R:082-3-982 / 082-3-982",
+      "usuarios": "29",
+      "normalizacion": "2022-04-01 20:03"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "82-BURZACO / R:082-3-982 / 082-3-982",
+      "usuarios": "214",
+      "normalizacion": "2022-04-01 20:03"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "55"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "23"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "121"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "38"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "9"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "24"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI",
+      "usuarios": "24"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "21"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "52"
+    }
+  ]
+}
