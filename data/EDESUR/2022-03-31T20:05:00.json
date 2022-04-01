@@ -1,0 +1,104 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "6.591",
+  "totalUsuariosConSuministro": "2.527.589",
+  "ultimaActualizacion": "20:05",
+  "totalUsuariosAyer": "15.855",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-1-16 / 083-1-16",
+      "usuarios": "690",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-26 / 083-2-26",
+      "usuarios": "61",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "73-QUILMES / R:073-4-46 / 073-4-46",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-27 / 080-2-27",
+      "usuarios": "1254",
+      "normalizacion": "2022-04-01 00:31"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI CENTRO",
+      "subestacion_alimentador": "80-EZPELETA / R:080-1-09 / 080-1-09",
+      "usuarios": "655",
+      "normalizacion": "2022-03-31 21:52"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-27 / 080-2-27",
+      "usuarios": "348",
+      "normalizacion": "2022-04-01 00:31"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "RANELAGH",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-27 / 080-2-27",
+      "usuarios": "2031",
+      "normalizacion": "2022-04-01 00:31"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "SOURIGUES",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-27 / 080-2-27",
+      "usuarios": "628",
+      "normalizacion": "2022-04-01 00:31"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "89-ALSINA / R:089-1-12 / 089-1-12",
+      "usuarios": "834",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "23"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "29"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "11"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "20"
+    }
+  ]
+}
