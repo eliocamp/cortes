@@ -1,0 +1,44 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.635",
+  "totalUsuariosConSuministro": "2.532.545",
+  "ultimaActualizacion": "7:45",
+  "totalUsuariosAyer": "18.288",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CONSTITUCION",
+      "subestacion_alimentador": "124-CONSTITUCION / R:124-2-24 / 124-2-24",
+      "usuarios": "528",
+      "normalizacion": "2022-04-02 12:18"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "79-PInEYRO / R:079-5-57 / 079-5-57",
+      "usuarios": "1068",
+      "normalizacion": "2022-04-02 10:30"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "19"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "8"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "12"
+    }
+  ]
+}
