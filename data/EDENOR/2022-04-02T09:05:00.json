@@ -1,0 +1,54 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "828",
+  "totalUsuariosConSuministro": "2.997.663",
+  "ultimaActualizacion": "9:05",
+  "totalUsuariosAyer": "27.235",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2 / 262-5523",
+      "usuarios": "150",
+      "normalizacion": "2022-04-02 10:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR2 / 365-5528",
+      "usuarios": "239",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:LIBERTADOR / 41-TR1 / 41-5515",
+      "usuarios": "372",
+      "normalizacion": "2022-04-02 10:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2 / 262-5524",
+      "usuarios": "1",
+      "normalizacion": "2022-04-02 10:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CHURRUCA",
+      "usuarios": "51"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "15"
+    }
+  ]
+}

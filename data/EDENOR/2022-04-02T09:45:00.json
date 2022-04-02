@@ -1,0 +1,76 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.233",
+  "totalUsuariosConSuministro": "2.997.258",
+  "ultimaActualizacion": "9:45",
+  "totalUsuariosAyer": "27.235",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2 / 262-5523",
+      "usuarios": "150",
+      "normalizacion": "2022-04-02 11:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR2 / 365-5528",
+      "usuarios": "239",
+      "normalizacion": "2022-04-02 11:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR1 / 260-5511",
+      "usuarios": "694",
+      "normalizacion": "2022-04-02 11:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2 / 262-5524",
+      "usuarios": "1",
+      "normalizacion": "2022-04-02 11:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR1 / 365-5513",
+      "usuarios": "24",
+      "normalizacion": "2022-04-02 10:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CHURRUCA",
+      "usuarios": "51"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "15"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "18"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "36"
+    }
+  ]
+}
