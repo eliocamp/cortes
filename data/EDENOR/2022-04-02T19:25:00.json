@@ -1,0 +1,62 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.363",
+  "totalUsuariosConSuministro": "2.997.128",
+  "ultimaActualizacion": "19:25",
+  "totalUsuariosAyer": "27.235",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR2 / 365-5528",
+      "usuarios": "239",
+      "normalizacion": "2022-04-02 20:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR1 / 252-5543",
+      "usuarios": "1",
+      "normalizacion": "2022-04-02 20:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR1 / 260-5541",
+      "usuarios": "1042",
+      "normalizacion": "2022-04-02 21:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA PUEYRRED?N",
+      "usuarios": "12"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "usuarios": "22"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "usuarios": "18"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "usuarios": "23"
+    }
+  ]
+}
