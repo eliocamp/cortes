@@ -1,0 +1,40 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.212",
+  "totalUsuariosConSuministro": "2.532.968",
+  "ultimaActualizacion": "23:20",
+  "totalUsuariosAyer": "18.288",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-4-41 / 218-4-41",
+      "usuarios": "667",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CONSTITUCION",
+      "subestacion_alimentador": "124-CONSTITUCION / R:124-2-24 / 124-2-24",
+      "usuarios": "528",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "7"
+    }
+  ]
+}
