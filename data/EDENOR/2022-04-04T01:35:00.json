@@ -1,0 +1,27 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "408",
+  "totalUsuariosConSuministro": "2.998.083",
+  "ultimaActualizacion": "1:35",
+  "totalUsuariosAyer": "16.121",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "subestacion_alimentador": "- / R:V.LOPEZ / 50-TR2 / 50-5528",
+      "usuarios": "340",
+      "normalizacion": "2022-04-04 03:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "usuarios": "68"
+    }
+  ]
+}
