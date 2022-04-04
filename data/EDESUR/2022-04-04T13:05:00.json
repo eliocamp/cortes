@@ -1,0 +1,80 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.156",
+  "totalUsuariosConSuministro": "2.531.024",
+  "ultimaActualizacion": "13:05",
+  "totalUsuariosAyer": "28.424",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "subestacion_alimentador": "180-ALMIRANTE BROWN / R:180-1-16 / 180-1-16",
+      "usuarios": "399",
+      "normalizacion": "2022-04-04 13:30"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-27 / 271-2-27",
+      "usuarios": "1155",
+      "normalizacion": "2022-04-04 13:14"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE PATRICIOS",
+      "subestacion_alimentador": "15-PATRICIOS / R:015-1-13 / 015-1-13",
+      "usuarios": "34",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-3-33 / 083-3-33",
+      "usuarios": "858",
+      "normalizacion": "2022-04-04 20:00"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "186-GERLI / R:186-2-23 / 186-2-23",
+      "usuarios": "576",
+      "normalizacion": "2022-04-04 16:33"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "67"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "18"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "12"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "21"
+    }
+  ]
+}
