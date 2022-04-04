@@ -1,0 +1,62 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.937",
+  "totalUsuariosConSuministro": "2.996.554",
+  "ultimaActualizacion": "0:20",
+  "totalUsuariosAyer": "16.121",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "BILLINGHURST",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR1 / 262-5511",
+      "usuarios": "392",
+      "normalizacion": "2022-04-04 04:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "BO PARQUE SAN MARTIN",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR1 / 262-5511",
+      "usuarios": "13",
+      "normalizacion": "2022-04-04 04:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR1 / 262-5511",
+      "usuarios": "1",
+      "normalizacion": "2022-04-04 04:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "CNEL JOSE ZAPIOLA",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR1 / 262-5511",
+      "usuarios": "820",
+      "normalizacion": "2022-04-04 04:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN GREGORIO LAS HERAS",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR1 / 262-5511",
+      "usuarios": "303",
+      "normalizacion": "2022-04-04 04:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "subestacion_alimentador": "- / R:V.LOPEZ / 50-TR2 / 50-5528",
+      "usuarios": "340",
+      "normalizacion": "2022-04-04 01:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "usuarios": "68"
+    }
+  ]
+}
