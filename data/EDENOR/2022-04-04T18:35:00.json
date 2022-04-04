@@ -1,0 +1,47 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "730",
+  "totalUsuariosConSuministro": "2.997.761",
+  "ultimaActualizacion": "18:35",
+  "totalUsuariosAyer": "16.121",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR1 / 169-5471",
+      "usuarios": "1",
+      "normalizacion": "2022-04-04 20:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR1 / 260-5511",
+      "usuarios": "229",
+      "normalizacion": "2022-04-04 20:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR1 / 260-5511",
+      "usuarios": "476",
+      "normalizacion": "2022-04-04 20:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "23"
+    }
+  ]
+}
