@@ -1,0 +1,118 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.128",
+  "totalUsuariosConSuministro": "2.996.363",
+  "ultimaActualizacion": "12:10",
+  "totalUsuariosAyer": "16.121",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR5 / 169-5486 / 255-5512",
+      "usuarios": "39",
+      "normalizacion": "2022-04-04 13:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR1 / 363-5517",
+      "usuarios": "6",
+      "normalizacion": "2022-04-04 13:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR4 / 263-5482",
+      "usuarios": "4",
+      "normalizacion": "2022-04-04 14:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR1 / 257-5513",
+      "usuarios": "496",
+      "normalizacion": "2022-04-04 13:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
+      "usuarios": "17",
+      "normalizacion": "2022-04-04 13:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "MUNRO",
+      "subestacion_alimentador": "- / R:V.ADELINA / 155-TR1 / 155-5516",
+      "usuarios": "1",
+      "normalizacion": "2022-04-04 14:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5481 / 132-5511",
+      "usuarios": "3",
+      "normalizacion": "2022-04-04 13:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR1 / 260-5511",
+      "usuarios": "229",
+      "normalizacion": "2022-04-04 13:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR1 / 260-5511",
+      "usuarios": "476",
+      "normalizacion": "2022-04-04 13:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / 362-TR1 / 362-5517",
+      "usuarios": "216",
+      "normalizacion": "2022-04-04 13:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / TR2 / 362-5527",
+      "usuarios": "597",
+      "normalizacion": "2022-04-04 13:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "BERNARDO MONTEAGUDO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "usuarios": "1"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "DEL VISO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "MUÑIZ",
+      "usuarios": "6"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "MUNRO",
+      "usuarios": "30"
+    }
+  ]
+}
