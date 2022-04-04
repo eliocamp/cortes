@@ -1,0 +1,48 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "6.349",
+  "totalUsuariosConSuministro": "2.992.142",
+  "ultimaActualizacion": "3:35",
+  "totalUsuariosAyer": "16.121",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5525",
+      "usuarios": "54",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ASTOLFI",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5525",
+      "usuarios": "114",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5525",
+      "usuarios": "4520",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "ZELAYA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5525",
+      "usuarios": "1593",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "usuarios": "68"
+    }
+  ]
+}
