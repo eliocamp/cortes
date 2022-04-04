@@ -1,0 +1,63 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "5.218",
+  "totalUsuariosConSuministro": "2.528.962",
+  "ultimaActualizacion": "10:05",
+  "totalUsuariosAyer": "28.424",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "subestacion_alimentador": "180-ALMIRANTE BROWN / R:180-1-16 / 180-1-16",
+      "usuarios": "399",
+      "normalizacion": "2022-04-04 13:30"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-27 / 271-2-27",
+      "usuarios": "1155",
+      "normalizacion": "2022-04-04 13:14"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-3-33 / 083-3-33",
+      "usuarios": "857",
+      "normalizacion": "2022-04-04 20:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-18 / 174-1-18 / 951-1-03",
+      "usuarios": "655",
+      "normalizacion": "2022-04-04 12:02"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NUEVA POMPEYA",
+      "subestacion_alimentador": "39-POMPEYA / R:039-3-34 / 039-3-34",
+      "usuarios": "16",
+      "normalizacion": "2022-04-04 13:45"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "subestacion_alimentador": "85-CALCHAQUI / R:085-1-18 / 085-1-18",
+      "usuarios": "2116",
+      "normalizacion": "2022-04-04 12:58"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "20"
+    }
+  ]
+}
