@@ -1,0 +1,70 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "6.927",
+  "totalUsuariosConSuministro": "2.527.253",
+  "ultimaActualizacion": "8:55",
+  "totalUsuariosAyer": "28.424",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LA PATERNAL",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-1-14 / 147-1-14",
+      "usuarios": "250",
+      "normalizacion": "2022-04-04 09:19"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RETIRO",
+      "subestacion_alimentador": "117-PARANA / R:117-3-37 / 117-3-37",
+      "usuarios": "87",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-1-14 / 147-1-14",
+      "usuarios": "429",
+      "normalizacion": "2022-04-04 09:19"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-18 / 174-1-18 / 951-1-03",
+      "usuarios": "655",
+      "normalizacion": "2022-04-04 12:02"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NUEVA POMPEYA",
+      "subestacion_alimentador": "39-POMPEYA / R:039-3-34 / 039-3-34",
+      "usuarios": "283",
+      "normalizacion": "2022-04-04 10:33"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-3-33 / 083-3-33",
+      "usuarios": "857",
+      "normalizacion": "2022-04-04 20:00"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-2-27 / 182-2-27",
+      "usuarios": "4348",
+      "normalizacion": "2022-04-04 19:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "18"
+    }
+  ]
+}
