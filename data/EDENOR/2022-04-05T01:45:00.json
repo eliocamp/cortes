@@ -1,0 +1,58 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "5.297",
+  "totalUsuariosConSuministro": "2.993.194",
+  "ultimaActualizacion": "1:45",
+  "totalUsuariosAyer": "17.965",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR1 / 252-5512",
+      "usuarios": "368",
+      "normalizacion": "2022-04-05 01:49"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR1 / 252-5512",
+      "usuarios": "998",
+      "normalizacion": "2022-04-05 01:49"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "MALVINAS ARGENTINAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR1 / 252-5512",
+      "usuarios": "259",
+      "normalizacion": "2022-04-05 01:49"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "PABLO NOGUES",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR1 / 252-5512",
+      "usuarios": "3607",
+      "normalizacion": "2022-04-05 01:49"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "2"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "usuarios": "40"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "usuarios": "23"
+    }
+  ]
+}
