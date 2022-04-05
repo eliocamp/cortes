@@ -1,0 +1,66 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.183",
+  "totalUsuariosConSuministro": "2.531.997",
+  "ultimaActualizacion": "10:40",
+  "totalUsuariosAyer": "31.870",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BALVANERA GP",
+      "subestacion_alimentador": "113-ONCE / R:113-4-45 / 113-4-45",
+      "usuarios": "346",
+      "normalizacion": "2022-04-05 12:45"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "CARLOS SPEGAZZINNI",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-13 / 270-1-13",
+      "usuarios": "232",
+      "normalizacion": "2022-04-05 13:41"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "subestacion_alimentador": "175-SOBRAL / R:175-1-13 / 175-1-13",
+      "usuarios": "894",
+      "normalizacion": "2022-04-05 14:00"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "175-SOBRAL / R:175-1-13 / 175-1-13",
+      "usuarios": "37",
+      "normalizacion": "2022-04-05 14:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-2-27 / 182-2-27",
+      "usuarios": "604",
+      "normalizacion": "2022-04-05 15:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "15"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "49"
+    }
+  ]
+}

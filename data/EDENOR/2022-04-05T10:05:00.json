@@ -1,0 +1,47 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "76",
+  "totalUsuariosConSuministro": "2.998.415",
+  "ultimaActualizacion": "10:05",
+  "totalUsuariosAyer": "17.965",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GRAL EUGENIO NECOCHEA",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR1 / 266-5544",
+      "usuarios": "1",
+      "normalizacion": "2022-04-05 13:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "32"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "VILLA TESEI",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "usuarios": "15"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "usuarios": "1"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "usuarios": "23"
+    }
+  ]
+}
