@@ -1,0 +1,34 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "415",
+  "totalUsuariosConSuministro": "2.998.076",
+  "ultimaActualizacion": "7:45",
+  "totalUsuariosAyer": "22.047",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR2 / 260-5534",
+      "usuarios": "198",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR5 / 158-5486",
+      "usuarios": "213",
+      "normalizacion": "2022-04-06 09:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "usuarios": "4"
+    }
+  ]
+}
