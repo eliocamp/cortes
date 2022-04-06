@@ -1,0 +1,67 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "4.795",
+  "totalUsuariosConSuministro": "2.529.385",
+  "ultimaActualizacion": "22:30",
+  "totalUsuariosAyer": "31.870",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MATADEROS",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-1-11 / 048-1-11",
+      "usuarios": "509",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-16 / 185-1-16",
+      "usuarios": "1735",
+      "normalizacion": "2022-04-05 23:15"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "ING. ALLAN",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-16 / 185-1-16",
+      "usuarios": "2415",
+      "normalizacion": "2022-04-05 23:15"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "12"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "25"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "28"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA CENTENARIO",
+      "usuarios": "56"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "5"
+    }
+  ]
+}

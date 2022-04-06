@@ -1,0 +1,52 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.235",
+  "totalUsuariosConSuministro": "2.997.256",
+  "ultimaActualizacion": "22:30",
+  "totalUsuariosAyer": "17.965",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR5 / 158-5486",
+      "usuarios": "214",
+      "normalizacion": "2022-04-05 23:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "subestacion_alimentador": "- / R:COLEGIALES / 46-TR3 / 46-5517",
+      "usuarios": "3",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "subestacion_alimentador": "- / R:CASANOVA / 63-TR2 / 63-5532",
+      "usuarios": "995",
+      "normalizacion": "2022-04-05 23:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAAVEDRA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "usuarios": "4"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "usuarios": "14"
+    }
+  ]
+}
