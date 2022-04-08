@@ -1,0 +1,109 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "5.507",
+  "totalUsuariosConSuministro": "2.528.673",
+  "ultimaActualizacion": "10:20",
+  "totalUsuariosAyer": "16.479",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-21 / 080-2-21",
+      "usuarios": "671",
+      "normalizacion": "2022-04-08 13:35"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA CENTENARIO",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-1-12 / 076-1-12",
+      "usuarios": "156",
+      "normalizacion": "2022-04-08 13:11"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-1-12 / 076-1-12",
+      "usuarios": "422",
+      "normalizacion": "2022-04-08 13:11"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "LOS POZOS",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "560",
+      "normalizacion": "2022-04-08 14:24"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "SANTA ANITA",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "336",
+      "normalizacion": "2022-04-08 14:24"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 1",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "114",
+      "normalizacion": "2022-04-08 14:24"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 2",
+      "subestacion_alimentador": "- / R:",
+      "usuarios": "636",
+      "normalizacion": "2022-04-08 14:24"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA FIORITO",
+      "subestacion_alimentador": "89-ALSINA / R:089-2-25 / 089-2-25",
+      "usuarios": "5",
+      "normalizacion": "2022-04-08 13:17"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "89-ALSINA / R:089-2-25 / 089-2-25",
+      "usuarios": "2419",
+      "normalizacion": "2022-04-08 13:17"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "39"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "25"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "30"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "usuarios": "48"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA GENERAL MITRE",
+      "usuarios": "30"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "16"
+    }
+  ]
+}
