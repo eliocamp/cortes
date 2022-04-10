@@ -1,0 +1,68 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.046",
+  "totalUsuariosConSuministro": "2.996.445",
+  "ultimaActualizacion": "11:05",
+  "totalUsuariosAyer": "13.826",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR3 / 65-5532",
+      "usuarios": "93",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR1 / 363-5513",
+      "usuarios": "281",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "MUNRO",
+      "subestacion_alimentador": "- / R:V.ADELINA / 155-TR2 / 155-5525",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CHACARITA",
+      "subestacion_alimentador": "- / R:COLEGIALES / 46-TR3 / 46-5518",
+      "usuarios": "540",
+      "normalizacion": "2022-04-10 15:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "subestacion_alimentador": "- / R:COLEGIALES / 46-TR3 / 46-5518",
+      "usuarios": "1019",
+      "normalizacion": "2022-04-10 15:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "subestacion_alimentador": "- / R:MORON / 67-TR2 / 67-5515",
+      "usuarios": "2",
+      "normalizacion": "2022-04-10 13:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "106"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "4"
+    }
+  ]
+}
