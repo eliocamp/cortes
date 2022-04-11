@@ -1,0 +1,77 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "9.701",
+  "totalUsuariosConSuministro": "2.988.790",
+  "ultimaActualizacion": "0:25",
+  "totalUsuariosAyer": "20.794",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR1 / 363-5513",
+      "usuarios": "281",
+      "normalizacion": "2022-04-11 01:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5512",
+      "usuarios": "3214",
+      "normalizacion": "2022-04-11 04:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "MARTIN CORONADO",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5512",
+      "usuarios": "257",
+      "normalizacion": "2022-04-11 04:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "VILLA BOSCH",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5512",
+      "usuarios": "1374",
+      "normalizacion": "2022-04-11 04:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "BILLINGHURST",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5512",
+      "usuarios": "577",
+      "normalizacion": "2022-04-11 04:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA LIBERTAD",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5512",
+      "usuarios": "517",
+      "normalizacion": "2022-04-11 04:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR1 / 258-5515",
+      "usuarios": "3197",
+      "normalizacion": "2022-04-11 01:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR1 / 258-5515",
+      "usuarios": "282",
+      "normalizacion": "2022-04-11 01:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "2"
+    }
+  ]
+}
