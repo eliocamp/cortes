@@ -1,0 +1,73 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.131",
+  "totalUsuariosConSuministro": "2.531.049",
+  "ultimaActualizacion": "23:35",
+  "totalUsuariosAyer": "9.803",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN NICOLAS",
+      "subestacion_alimentador": "210-CARLOS PELLEGRINI / R:210-2-19 / 210-2-19",
+      "usuarios": "169",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "286- / R:286-5-54 / 286-5-54",
+      "usuarios": "1087",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "286- / R:286-5-58 / 286-5-58",
+      "usuarios": "1639",
+      "normalizacion": "2022-04-12 01:37"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "subestacion_alimentador": "82-BURZACO / R:082-3-982 / 082-3-982",
+      "usuarios": "16",
+      "normalizacion": "2022-04-12 00:53"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "79"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "8"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "54"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "58"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "11"
+    }
+  ]
+}

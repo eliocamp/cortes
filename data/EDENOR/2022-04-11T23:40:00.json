@@ -1,0 +1,69 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "7.535",
+  "totalUsuariosConSuministro": "2.990.956",
+  "ultimaActualizacion": "23:40",
+  "totalUsuariosAyer": "31.006",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR1 / 363-5513",
+      "usuarios": "281",
+      "normalizacion": "2022-04-12 00:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5523",
+      "usuarios": "1310",
+      "normalizacion": "2022-04-12 01:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR1 / 258-5541",
+      "usuarios": "5461",
+      "normalizacion": "2022-04-12 00:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "GENERAL PACHECO",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR3 / 58-5538",
+      "usuarios": "365",
+      "normalizacion": "2022-04-12 01:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "38"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "PABLO NOGUES",
+      "usuarios": "17"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "usuarios": "34"
+    }
+  ]
+}
