@@ -1,0 +1,84 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.407",
+  "totalUsuariosConSuministro": "2.996.084",
+  "ultimaActualizacion": "14:55",
+  "totalUsuariosAyer": "45.887",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR1 / 169-5533",
+      "usuarios": "99",
+      "normalizacion": "2022-04-12 16:00"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "WILLIAM MORRIS",
+      "subestacion_alimentador": "- / R:MORON / 67-TR5 / 67-5547",
+      "usuarios": "1",
+      "normalizacion": "2022-04-12 16:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5524",
+      "usuarios": "207",
+      "normalizacion": "2022-04-12 15:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR1 / 365-5511",
+      "usuarios": "97",
+      "normalizacion": "2022-04-12 16:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "subestacion_alimentador": "- / R:MERLO / 62-TR4 / 62-5546",
+      "usuarios": "1",
+      "normalizacion": "2022-04-12 15:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "subestacion_alimentador": "- / R:S.MIGUEL / 165-TR2 / 165-5521",
+      "usuarios": "1571",
+      "normalizacion": "2022-04-12 15:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5523",
+      "usuarios": "398",
+      "normalizacion": "2022-04-12 15:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5521",
+      "usuarios": "3",
+      "normalizacion": "2022-04-12 16:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5481 / 132-5512",
+      "usuarios": "1",
+      "normalizacion": "2022-04-12 16:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "29"
+    }
+  ]
+}
