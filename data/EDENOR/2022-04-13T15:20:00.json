@@ -1,0 +1,66 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.149",
+  "totalUsuariosConSuministro": "2.997.342",
+  "ultimaActualizacion": "15:20",
+  "totalUsuariosAyer": "34.202",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "WILLIAM MORRIS",
+      "subestacion_alimentador": "- / R:MORON / 67-TR5 / 67-5545",
+      "usuarios": "113",
+      "normalizacion": "2022-04-13 16:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "122",
+      "normalizacion": "2022-04-13 16:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DIQUE LUJAN",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "37",
+      "normalizacion": "2022-04-13 16:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GRAL JOSE TOMAS GUIDO",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5518",
+      "usuarios": "182",
+      "normalizacion": "2022-04-13 16:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN GREGORIO LAS HERAS",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5518",
+      "usuarios": "659",
+      "normalizacion": "2022-04-13 16:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "28"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "4"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VILLA MARTELLI",
+      "usuarios": "4"
+    }
+  ]
+}
