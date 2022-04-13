@@ -1,0 +1,83 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.827",
+  "totalUsuariosConSuministro": "2.994.664",
+  "ultimaActualizacion": "14:30",
+  "totalUsuariosAyer": "34.202",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "WILLIAM MORRIS",
+      "subestacion_alimentador": "- / R:MORON / 67-TR5 / 67-5545",
+      "usuarios": "113",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "122",
+      "normalizacion": "2022-04-13 15:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DIQUE LUJAN",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "37",
+      "normalizacion": "2022-04-13 15:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5521",
+      "usuarios": "2",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GRAL JOSE TOMAS GUIDO",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5518",
+      "usuarios": "2798",
+      "normalizacion": "2022-04-13 18:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN GREGORIO LAS HERAS",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5518",
+      "usuarios": "659",
+      "normalizacion": "2022-04-13 18:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NU?EZ",
+      "usuarios": "12"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "28"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "usuarios": "30"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "usuarios": "22"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VILLA MARTELLI",
+      "usuarios": "4"
+    }
+  ]
+}
