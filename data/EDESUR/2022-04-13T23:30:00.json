@@ -1,0 +1,44 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "602",
+  "totalUsuariosConSuministro": "2.533.578",
+  "ultimaActualizacion": "23:30",
+  "totalUsuariosAyer": "9.840",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-2-26 / 270-2-26",
+      "usuarios": "507",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-2-26 / 270-2-26",
+      "usuarios": "9",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORESTA",
+      "usuarios": "72"
+    }
+  ]
+}
