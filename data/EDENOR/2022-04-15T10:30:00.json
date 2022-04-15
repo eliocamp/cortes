@@ -1,0 +1,45 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "57",
+  "totalUsuariosConSuministro": "2.998.434",
+  "ultimaActualizacion": "10:30",
+  "totalUsuariosAyer": "22.996",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "HURLINGHAM",
+      "subestacion_alimentador": "- / R:HURLINGHAM / 166-TR3 / 166-5536",
+      "usuarios": "1",
+      "normalizacion": "2022-04-15 11:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR2 / 168-5528",
+      "usuarios": "1",
+      "normalizacion": "2022-04-15 11:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LOMAS DEL MIRADOR",
+      "usuarios": "28"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "usuarios": "21"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "6"
+    }
+  ]
+}
