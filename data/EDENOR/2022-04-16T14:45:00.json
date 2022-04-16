@@ -1,0 +1,49 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "357",
+  "totalUsuariosConSuministro": "2.998.134",
+  "ultimaActualizacion": "14:45",
+  "totalUsuariosAyer": "18.035",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "89",
+      "normalizacion": "2022-04-16 16:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "206",
+      "normalizacion": "2022-04-16 16:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "SANTOS LUGARES",
+      "usuarios": "41"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "9"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "VILLA SARMIENTO",
+      "usuarios": "8"
+    }
+  ]
+}

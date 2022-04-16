@@ -1,0 +1,80 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "4.648",
+  "totalUsuariosConSuministro": "2.993.843",
+  "ultimaActualizacion": "14:05",
+  "totalUsuariosAyer": "18.035",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "216",
+      "normalizacion": "2022-04-16 18:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "1839",
+      "normalizacion": "2022-04-16 18:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "2267",
+      "normalizacion": "2022-04-16 18:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DIQUE LUJAN",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "37",
+      "normalizacion": "2022-04-16 18:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "206",
+      "normalizacion": "2022-04-16 18:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "SANTOS LUGARES",
+      "usuarios": "41"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "9"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "12"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "VILLA SARMIENTO",
+      "usuarios": "8"
+    }
+  ]
+}
