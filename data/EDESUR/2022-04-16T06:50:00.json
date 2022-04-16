@@ -1,0 +1,37 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "751",
+  "totalUsuariosConSuministro": "2.533.429",
+  "ultimaActualizacion": "6:50",
+  "totalUsuariosAyer": "38.631",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE CHACABUCO",
+      "subestacion_alimentador": "122-CABALLITO / R:122-1-17 / 122-1-17",
+      "usuarios": "608",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "47"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "80"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "usuarios": "16"
+    }
+  ]
+}
