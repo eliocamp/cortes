@@ -1,0 +1,77 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.407",
+  "totalUsuariosConSuministro": "2.530.773",
+  "ultimaActualizacion": "22:05",
+  "totalUsuariosAyer": "38.631",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "PTE PERON",
+      "localidad": "COPENHAGÜE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "26",
+      "normalizacion": "2022-04-17 01:45"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "PARQUE LAS NACIONES",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "820",
+      "normalizacion": "2022-04-17 01:45"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SAN MARTIN",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "1320",
+      "normalizacion": "2022-04-17 01:45"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA NUMANCIA SUR",
+      "subestacion_alimentador": "277-GLEW / R:277-4-46 / 277-4-46",
+      "usuarios": "349",
+      "normalizacion": "2022-04-17 02:54"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA PANAMERICANA",
+      "subestacion_alimentador": "277-GLEW / R:277-4-46 / 277-4-46",
+      "usuarios": "225",
+      "normalizacion": "2022-04-17 02:54"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA PANAMERICANA",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "571",
+      "normalizacion": "2022-04-17 01:45"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "9"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "47"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "20"
+    }
+  ]
+}
