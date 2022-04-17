@@ -1,0 +1,84 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.923",
+  "totalUsuariosConSuministro": "2.531.257",
+  "ultimaActualizacion": "20:10",
+  "totalUsuariosAyer": "38.631",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "ZONA RURAL 1 EE",
+      "subestacion_alimentador": "277-GLEW / R:277-4-46 / 277-4-46",
+      "usuarios": "204",
+      "normalizacion": "2022-04-16 20:54"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "80-EZPELETA / R:080-2-23 / 080-2-23",
+      "usuarios": "1",
+      "normalizacion": "2022-04-16 23:10"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SAN ROQUE",
+      "subestacion_alimentador": "277-GLEW / R:277-4-46 / 277-4-46",
+      "usuarios": "271",
+      "normalizacion": "2022-04-16 20:54"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SANTA MAGDALENA",
+      "subestacion_alimentador": "277-GLEW / R:277-4-46 / 277-4-46",
+      "usuarios": "692",
+      "normalizacion": "2022-04-16 21:37"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA NUMANCIA NORTE",
+      "subestacion_alimentador": "277-GLEW / R:277-4-46 / 277-4-46",
+      "usuarios": "1089",
+      "normalizacion": "2022-04-16 20:54"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA NUMANCIA SUR",
+      "subestacion_alimentador": "277-GLEW / R:277-4-46 / 277-4-46",
+      "usuarios": "367",
+      "normalizacion": "2022-04-16 20:54"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA PANAMERICANA",
+      "subestacion_alimentador": "277-GLEW / R:277-4-46 / 277-4-46",
+      "usuarios": "225",
+      "normalizacion": "2022-04-16 20:54"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "9"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "25"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "20"
+    }
+  ]
+}
