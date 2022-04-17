@@ -1,0 +1,27 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3",
+  "totalUsuariosConSuministro": "2.998.488",
+  "ultimaActualizacion": "8:00",
+  "totalUsuariosAyer": "8.044",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR4 / 59-5546",
+      "usuarios": "1",
+      "normalizacion": "2022-04-17 09:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "2"
+    }
+  ]
+}
