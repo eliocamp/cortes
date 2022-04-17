@@ -1,0 +1,34 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "320",
+  "totalUsuariosConSuministro": "2.998.171",
+  "ultimaActualizacion": "14:30",
+  "totalUsuariosAyer": "8.044",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN M DE PUEYRREDON",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR1 / 68-5517",
+      "usuarios": "44",
+      "normalizacion": "2022-04-17 15:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5522",
+      "usuarios": "254",
+      "normalizacion": "2022-04-17 16:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "22"
+    }
+  ]
+}
