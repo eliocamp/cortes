@@ -1,0 +1,51 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "721",
+  "totalUsuariosConSuministro": "2.533.459",
+  "ultimaActualizacion": "20:50",
+  "totalUsuariosAyer": "15.775",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-17 / 218-1-17",
+      "usuarios": "241",
+      "normalizacion": "2022-04-17 21:12"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORESTA",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-17 / 218-1-17",
+      "usuarios": "175",
+      "normalizacion": "2022-04-17 21:12"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "79-PInEYRO / R:079-5-56 / 079-5-56",
+      "usuarios": "242",
+      "normalizacion": "2022-04-18 00:26"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "19"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "34"
+    }
+  ]
+}
