@@ -1,0 +1,113 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.348",
+  "totalUsuariosConSuministro": "2.996.143",
+  "ultimaActualizacion": "11:45",
+  "totalUsuariosAyer": "13.771",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR2 / 168-5525",
+      "usuarios": "159",
+      "normalizacion": "2022-04-18 13:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR4 / 65-5561",
+      "usuarios": "17",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR1 / 65-5515",
+      "usuarios": "1",
+      "normalizacion": "2022-04-18 13:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR1 / 363-5516",
+      "usuarios": "4",
+      "normalizacion": "2022-04-18 13:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5481 / 132-5512",
+      "usuarios": "3",
+      "normalizacion": "2022-04-18 12:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "231",
+      "normalizacion": "2022-04-18 12:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DIQUE LUJAN",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "37",
+      "normalizacion": "2022-04-18 12:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "subestacion_alimentador": "- / R:P.NUEVO / 44-TR2 / 44-5523",
+      "usuarios": "24",
+      "normalizacion": "2022-04-18 13:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MAQUINISTA SAVIO",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR4 / 59-5548",
+      "usuarios": "1490",
+      "normalizacion": "2022-04-18 13:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR4 / 59-5548",
+      "usuarios": "169",
+      "normalizacion": "2022-04-18 13:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:S.FERNANDO / 351-TR2",
+      "usuarios": "123",
+      "normalizacion": "2022-04-18 15:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA LUZURIAGA",
+      "usuarios": "54"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "usuarios": "30"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "usuarios": "1"
+    }
+  ]
+}

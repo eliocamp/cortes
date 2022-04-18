@@ -1,0 +1,48 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.611",
+  "totalUsuariosConSuministro": "2.532.569",
+  "ultimaActualizacion": "10:20",
+  "totalUsuariosAyer": "3.743",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BALVANERA RP",
+      "subestacion_alimentador": "113-ONCE / R:113-1-12 / 113-1-12",
+      "usuarios": "3",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VELEZ SARFIELD",
+      "subestacion_alimentador": "143-SANTA RITA / R:143-1-17 / 143-1-17",
+      "usuarios": "1",
+      "normalizacion": "2022-04-18 11:33"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "186-GERLI / R:186-2-21 / 186-2-21",
+      "usuarios": "207",
+      "normalizacion": "2022-04-18 13:12"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "186-GERLI / R:186-2-21 / 186-2-21",
+      "usuarios": "1385",
+      "normalizacion": "2022-04-18 13:12"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "15"
+    }
+  ]
+}
