@@ -1,0 +1,32 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "315",
+  "totalUsuariosConSuministro": "2.998.176",
+  "ultimaActualizacion": "22:05",
+  "totalUsuariosAyer": "8.044",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JUAN M DE PUEYRREDON",
+      "subestacion_alimentador": "- / R:MALAVER / 68-TR2 / 68-5534",
+      "usuarios": "261",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAAVEDRA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA LUZURIAGA",
+      "usuarios": "42"
+    }
+  ]
+}
