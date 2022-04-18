@@ -1,0 +1,34 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "219",
+  "totalUsuariosConSuministro": "2.533.961",
+  "ultimaActualizacion": "0:45",
+  "totalUsuariosAyer": "3.743",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORESTA",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-17 / 218-1-17",
+      "usuarios": "175",
+      "normalizacion": "2022-04-18 03:12"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "79-PInEYRO / R:079-5-56 / 079-5-56",
+      "usuarios": "6",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "38"
+    }
+  ]
+}
