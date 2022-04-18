@@ -1,0 +1,41 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "4.044",
+  "totalUsuariosConSuministro": "2.530.136",
+  "ultimaActualizacion": "5:50",
+  "totalUsuariosAyer": "3.743",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORESTA",
+      "subestacion_alimentador": "143-SANTA RITA / R:143-1-17 / 143-1-17",
+      "usuarios": "3325",
+      "normalizacion": "2022-04-18 09:16"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VELEZ SARFIELD",
+      "subestacion_alimentador": "143-SANTA RITA / R:143-1-17 / 143-1-17",
+      "usuarios": "675",
+      "normalizacion": "2022-04-18 09:16"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "79-PInEYRO / R:079-5-56 / 079-5-56",
+      "usuarios": "6",
+      "normalizacion": "2022-04-18 06:26"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "38"
+    }
+  ]
+}
