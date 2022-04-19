@@ -1,0 +1,99 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.730",
+  "totalUsuariosConSuministro": "2.996.761",
+  "ultimaActualizacion": "10:10",
+  "totalUsuariosAyer": "19.082",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "ITUZAINGO",
+      "subestacion_alimentador": "- / R:SAN ALBERTO / 366-TR1 / 366-5512",
+      "usuarios": "414",
+      "normalizacion": "2022-04-19 11:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:AEROCLUB / 451-TR2 / 451-5524",
+      "usuarios": "291",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:ALTOS / 272-TR1 / 272-5515",
+      "usuarios": "311",
+      "normalizacion": "2022-04-19 11:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR2 / 363-5525",
+      "usuarios": "7",
+      "normalizacion": "2022-04-19 11:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR1 / 260-5541",
+      "usuarios": "170",
+      "normalizacion": "2022-04-19 12:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "ZELAYA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR1 / 51-5513",
+      "usuarios": "6",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "MARTINEZ",
+      "subestacion_alimentador": "- / R:EDISON / 57-TR1 / 57-5515",
+      "usuarios": "1",
+      "normalizacion": "2022-04-19 11:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "subestacion_alimentador": "- / R:MUNIZ / 265-TR1 / 265-5517",
+      "usuarios": "479",
+      "normalizacion": "2022-04-19 11:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5521",
+      "usuarios": "2",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA ORTUZAR",
+      "usuarios": "7"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "32"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VICTORIA",
+      "usuarios": "9"
+    }
+  ]
+}
