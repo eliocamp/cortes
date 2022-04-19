@@ -1,0 +1,52 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "376",
+  "totalUsuariosConSuministro": "2.998.115",
+  "ultimaActualizacion": "16:55",
+  "totalUsuariosAyer": "19.082",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR1 / 260-5541",
+      "usuarios": "170",
+      "normalizacion": "2022-04-19 18:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "HURLINGHAM",
+      "subestacion_alimentador": "- / R:HURLINGHAM / 166-TR3 / 166-5532",
+      "usuarios": "139",
+      "normalizacion": "2022-04-19 17:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "9",
+      "normalizacion": "2022-04-19 18:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "usuarios": "9"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "PABLO NOGUES",
+      "usuarios": "17"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "32"
+    }
+  ]
+}

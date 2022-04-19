@@ -1,0 +1,32 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "655",
+  "totalUsuariosConSuministro": "2.533.525",
+  "ultimaActualizacion": "16:55",
+  "totalUsuariosAyer": "33.979",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-2-23 / 218-2-23",
+      "usuarios": "533",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "114"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "8"
+    }
+  ]
+}
