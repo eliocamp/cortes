@@ -1,0 +1,82 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.719",
+  "totalUsuariosConSuministro": "2.532.461",
+  "ultimaActualizacion": "15:10",
+  "totalUsuariosAyer": "33.979",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-2-23 / 218-2-23",
+      "usuarios": "533",
+      "normalizacion": "2022-04-19 16:50"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "subestacion_alimentador": "79-PInEYRO / R:079-5-55 / 079-5-55",
+      "usuarios": "2",
+      "normalizacion": "2022-04-19 19:31"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "PIÑEYRO",
+      "subestacion_alimentador": "79-PInEYRO / R:079-5-55 / 079-5-55",
+      "usuarios": "937",
+      "normalizacion": "2022-04-19 19:31"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "118",
+      "normalizacion": "2022-04-19 16:07"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "URIBELARREA",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "3",
+      "normalizacion": "2022-04-19 16:07"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 4",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "23",
+      "normalizacion": "2022-04-19 16:07"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "70",
+      "normalizacion": "2022-04-19 16:07"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "79-PInEYRO / R:079-5-55 / 079-5-55",
+      "usuarios": "1",
+      "normalizacion": "2022-04-19 19:31"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "11"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "usuarios": "21"
+    }
+  ]
+}

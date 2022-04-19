@@ -1,0 +1,66 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "786",
+  "totalUsuariosConSuministro": "2.533.394",
+  "ultimaActualizacion": "15:30",
+  "totalUsuariosAyer": "33.979",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-2-23 / 218-2-23",
+      "usuarios": "533",
+      "normalizacion": "2022-04-19 16:50"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "118",
+      "normalizacion": "2022-04-19 16:07"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "URIBELARREA",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "3",
+      "normalizacion": "2022-04-19 16:07"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 4",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "23",
+      "normalizacion": "2022-04-19 16:07"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-23 / 271-2-23",
+      "usuarios": "70",
+      "normalizacion": "2022-04-19 16:07"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "usuarios": "21"
+    }
+  ]
+}
