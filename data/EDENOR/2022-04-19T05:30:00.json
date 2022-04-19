@@ -1,0 +1,54 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.841",
+  "totalUsuariosConSuministro": "2.995.650",
+  "ultimaActualizacion": "5:30",
+  "totalUsuariosAyer": "19.082",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MORON",
+      "localidad": "HAEDO",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR1 / 66-5517",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5476 / 255-5521",
+      "usuarios": "2",
+      "normalizacion": "2022-04-19 06:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "LA LUCILA",
+      "subestacion_alimentador": "- / R:V.LOPEZ / 50-TR1 / 50-5515",
+      "usuarios": "1866",
+      "normalizacion": "2022-04-19 09:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "subestacion_alimentador": "- / R:V.LOPEZ / 50-TR1 / 50-5515",
+      "usuarios": "931",
+      "normalizacion": "2022-04-19 09:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "32"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VICTORIA",
+      "usuarios": "9"
+    }
+  ]
+}
