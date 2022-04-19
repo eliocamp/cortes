@@ -1,0 +1,44 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "950",
+  "totalUsuariosConSuministro": "2.533.230",
+  "ultimaActualizacion": "7:05",
+  "totalUsuariosAyer": "33.979",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORESTA",
+      "subestacion_alimentador": "218-ALBERDI / R:218-1-17 / 218-1-17",
+      "usuarios": "175",
+      "normalizacion": "2022-04-19 10:41"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "76-HEROES DE MALVINAS / R:076-2-26 / 076-2-26",
+      "usuarios": "708",
+      "normalizacion": "2022-04-19 10:25"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "15"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "41"
+    }
+  ]
+}
