@@ -1,0 +1,56 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "201",
+  "totalUsuariosConSuministro": "2.998.290",
+  "ultimaActualizacion": "20:20",
+  "totalUsuariosAyer": "19.082",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "subestacion_alimentador": "- / R:PONTEVEDRA / 261-TR1 / 261-5517",
+      "usuarios": "1",
+      "normalizacion": "2022-04-19 21:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "9",
+      "normalizacion": "2022-04-19 22:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "MUNRO",
+      "subestacion_alimentador": "- / R:MUNRO / 55-TR1 / 55-5514",
+      "usuarios": "133",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "EJCTO MILITAR (TF)",
+      "usuarios": "13"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "COLEGIALES",
+      "usuarios": "9"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "32"
+    }
+  ]
+}
