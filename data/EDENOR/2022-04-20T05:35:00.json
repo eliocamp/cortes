@@ -1,0 +1,40 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "125",
+  "totalUsuariosConSuministro": "2.998.366",
+  "ultimaActualizacion": "5:35",
+  "totalUsuariosAyer": "27.719",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BOULOGNE",
+      "subestacion_alimentador": "- / R:BOULOGNE / 56-TR2 / 56-5524",
+      "usuarios": "77",
+      "normalizacion": "2022-04-20 06:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "9",
+      "normalizacion": "2022-04-20 06:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "20"
+    }
+  ]
+}
