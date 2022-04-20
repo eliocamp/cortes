@@ -1,0 +1,72 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "133",
+  "totalUsuariosConSuministro": "2.998.358",
+  "ultimaActualizacion": "18:40",
+  "totalUsuariosAyer": "27.719",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR3 / 58-5538",
+      "usuarios": "1",
+      "normalizacion": "2022-04-20 20:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "24",
+      "normalizacion": "2022-04-20 20:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR1 / 58-5512",
+      "usuarios": "14",
+      "normalizacion": "2022-04-20 20:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "VILLA UDAONDO",
+      "usuarios": "7"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "PONTEVEDRA",
+      "usuarios": "49"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "SAN ANTONIO DE PADUA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "20"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "4"
+    }
+  ]
+}
