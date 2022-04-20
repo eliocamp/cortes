@@ -1,0 +1,45 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "594",
+  "totalUsuariosConSuministro": "2.533.586",
+  "ultimaActualizacion": "12:10",
+  "totalUsuariosAyer": "4.338",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "subestacion_alimentador": "82-BURZACO / R:082-2-27 / 082-2-27",
+      "usuarios": "48",
+      "normalizacion": "2022-04-20 13:13"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS OESTE",
+      "subestacion_alimentador": "89-ALSINA / R:089-1-16 / 089-1-16",
+      "usuarios": "465",
+      "normalizacion": "2022-04-20 14:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "usuarios": "73"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "7"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "1"
+    }
+  ]
+}
