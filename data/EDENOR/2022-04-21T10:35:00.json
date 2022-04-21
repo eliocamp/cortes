@@ -1,0 +1,115 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.628",
+  "totalUsuariosConSuministro": "2.995.863",
+  "ultimaActualizacion": "10:35",
+  "totalUsuariosAyer": "19.030",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR1 / 158-5513",
+      "usuarios": "8",
+      "normalizacion": "2022-04-21 12:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "MARTIN CORONADO",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR1 / 69-5512",
+      "usuarios": "275",
+      "normalizacion": "2022-04-21 12:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "PABLO PODESTA",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2 / 262-5538",
+      "usuarios": "368",
+      "normalizacion": "2022-04-21 11:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5524",
+      "usuarios": "107",
+      "normalizacion": "2022-04-21 11:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "SAN ANTONIO DE PADUA",
+      "subestacion_alimentador": "- / R:SAN ALBERTO / 366-TR1 / 366-5514",
+      "usuarios": "497",
+      "normalizacion": "2022-04-21 11:00"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "EL PALOMAR",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR4 / 66-5532",
+      "usuarios": "154",
+      "normalizacion": "2022-04-21 11:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANZANARES",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR1 / 158-5513",
+      "usuarios": "1032",
+      "normalizacion": "2022-04-21 12:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR3 / 154-5473 / 951-5522",
+      "usuarios": "51",
+      "normalizacion": "2022-04-21 11:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR3 / 58-5538",
+      "usuarios": "1",
+      "normalizacion": "2022-04-21 12:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "MUNRO",
+      "subestacion_alimentador": "- / R:MUNRO / 55-TR1 / 55-5513",
+      "usuarios": "1",
+      "normalizacion": "2022-04-21 14:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "usuarios": "35"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "ITUZAINGO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "65"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "PONTEVEDRA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "20"
+    }
+  ]
+}
