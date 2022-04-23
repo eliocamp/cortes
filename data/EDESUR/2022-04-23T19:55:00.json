@@ -1,0 +1,56 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.363",
+  "totalUsuariosConSuministro": "2.530.817",
+  "ultimaActualizacion": "19:55",
+  "totalUsuariosAyer": "6.585",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "subestacion_alimentador": "82-BURZACO / R:082-1-11 / 082-1-11",
+      "usuarios": "2988",
+      "normalizacion": "2022-04-24 00:35"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "subestacion_alimentador": "82-BURZACO / R:082-1-11 / 082-1-11",
+      "usuarios": "221",
+      "normalizacion": "2022-04-24 00:35"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MINISTRO RIVADAVIA",
+      "subestacion_alimentador": "82-BURZACO / R:082-1-11 / 082-1-11",
+      "usuarios": "36",
+      "normalizacion": "2022-04-24 00:35"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "usuarios": "32"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "28"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "20"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA",
+      "usuarios": "38"
+    }
+  ]
+}
