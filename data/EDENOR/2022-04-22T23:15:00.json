@@ -1,0 +1,47 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "543",
+  "totalUsuariosConSuministro": "2.997.948",
+  "ultimaActualizacion": "23:15",
+  "totalUsuariosAyer": "55.866",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR4 / 263-5481",
+      "usuarios": "436",
+      "normalizacion": "2022-04-23 03:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "22"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "34"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "20"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "19"
+    }
+  ]
+}
