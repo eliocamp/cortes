@@ -1,0 +1,53 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.130",
+  "totalUsuariosConSuministro": "2.531.050",
+  "ultimaActualizacion": "6:15",
+  "totalUsuariosAyer": "6.585",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO GP",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-2-23 / 147-2-23",
+      "usuarios": "870",
+      "normalizacion": "2022-04-23 08:06"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LA PATERNAL",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-2-23 / 147-2-23",
+      "usuarios": "558",
+      "normalizacion": "2022-04-23 08:06"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-2-23 / 147-2-23",
+      "usuarios": "1215",
+      "normalizacion": "2022-04-23 08:06"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA GENERAL MITRE",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-2-23 / 147-2-23",
+      "usuarios": "456",
+      "normalizacion": "2022-04-23 08:06"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BARRACAS",
+      "usuarios": "9"
+    }
+  ]
+}
