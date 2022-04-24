@@ -1,0 +1,32 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "423",
+  "totalUsuariosConSuministro": "2.533.757",
+  "ultimaActualizacion": "10:05",
+  "totalUsuariosAyer": "11.650",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "80-EZPELETA / R:080-1-03 / 080-1-03",
+      "usuarios": "379",
+      "normalizacion": "2022-04-24 12:56"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "13"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "31"
+    }
+  ]
+}
