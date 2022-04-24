@@ -1,0 +1,35 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.418",
+  "totalUsuariosConSuministro": "2.532.762",
+  "ultimaActualizacion": "18:40",
+  "totalUsuariosAyer": "11.650",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "80-EZPELETA / R:080-1-03 / 080-1-03",
+      "usuarios": "379",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "186-GERLI / R:186-4-41 / 186-4-41",
+      "usuarios": "1036",
+      "normalizacion": "2022-04-24 21:02"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "LINIERS",
+      "usuarios": "3"
+    }
+  ]
+}
