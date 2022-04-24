@@ -1,0 +1,53 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "6.621",
+  "totalUsuariosConSuministro": "2.991.870",
+  "ultimaActualizacion": "6:35",
+  "totalUsuariosAyer": "15.171",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR1 / 69-5514",
+      "usuarios": "441",
+      "normalizacion": "2022-04-24 10:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR1 / 69-5514",
+      "usuarios": "615",
+      "normalizacion": "2022-04-24 10:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "SAENZ PE?A",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR1 / 69-5514",
+      "usuarios": "1337",
+      "normalizacion": "2022-04-24 10:00"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "SANTOS LUGARES",
+      "subestacion_alimentador": "- / R:CASEROS / 69-TR1 / 69-5514",
+      "usuarios": "4188",
+      "normalizacion": "2022-04-24 10:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "AGRONOMIA",
+      "usuarios": "27"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "13"
+    }
+  ]
+}
