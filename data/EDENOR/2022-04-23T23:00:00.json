@@ -1,0 +1,32 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.461",
+  "totalUsuariosConSuministro": "2.995.030",
+  "ultimaActualizacion": "23:00",
+  "totalUsuariosAyer": "11.588",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VICTORIA",
+      "subestacion_alimentador": "- / R:S.FERNANDO / 351-TR2 / 351-5526",
+      "usuarios": "3432",
+      "normalizacion": "2022-04-24 03:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "16"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "13"
+    }
+  ]
+}
