@@ -1,0 +1,37 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "59",
+  "totalUsuariosConSuministro": "2.998.432",
+  "ultimaActualizacion": "20:45",
+  "totalUsuariosAyer": "15.171",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR1 / 168-5511",
+      "usuarios": "3",
+      "normalizacion": "2022-04-24 21:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "1"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RICARDO ROJAS",
+      "usuarios": "6"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "usuarios": "49"
+    }
+  ]
+}
