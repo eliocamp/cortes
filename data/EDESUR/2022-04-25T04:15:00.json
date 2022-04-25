@@ -1,0 +1,60 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.817",
+  "totalUsuariosConSuministro": "2.531.363",
+  "ultimaActualizacion": "4:15",
+  "totalUsuariosAyer": "5.032",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-2-26 / 270-2-26",
+      "usuarios": "957",
+      "normalizacion": "2022-04-25 06:59"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-2-26 / 270-2-26",
+      "usuarios": "5",
+      "normalizacion": "2022-04-25 06:59"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-2-26 / 270-2-26",
+      "usuarios": "43",
+      "normalizacion": "2022-04-25 06:59"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "162- / R:162-1-11 / 162-1-11",
+      "usuarios": "400",
+      "normalizacion": "2022-04-25 08:13"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-4-41 / 184-4-41",
+      "usuarios": "1396",
+      "normalizacion": "2022-04-25 07:12"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "6"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "10"
+    }
+  ]
+}
