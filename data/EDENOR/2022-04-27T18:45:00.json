@@ -1,0 +1,804 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "39.273",
+  "totalUsuariosConSuministro": "3.160.798",
+  "ultimaActualizacion": "18:45",
+  "totalUsuariosAyer": "27.961",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "4",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5475",
+      "usuarios": "1",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5482",
+      "usuarios": "1",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5527",
+      "usuarios": "75",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5482 / 253-5521",
+      "usuarios": "173",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MORON / 67-TR4 / 67-5525",
+      "usuarios": "224",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5538",
+      "usuarios": "141",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "DELTA 1RA SECCION (ES)",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5482 / 253-5521",
+      "usuarios": "79",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "DELTA 1RA SECCION (ES)",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR3 / 154-5472 / 154-5482 / 154-5481 / 951-5512",
+      "usuarios": "10",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR3 / 154-5472 / 154-5482 / 154-5481 / 951-5512",
+      "usuarios": "72",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5482 / 253-5514",
+      "usuarios": "256",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5527",
+      "usuarios": "132",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR1 / 154-5516",
+      "usuarios": "107",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5482 / 253-5521",
+      "usuarios": "569",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5482 / 253-5522",
+      "usuarios": "62",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR4 / 154-5482 / 253-5523",
+      "usuarios": "97",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR4 / 59-5545",
+      "usuarios": "208",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR4 / 59-5545",
+      "usuarios": "912",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MAQUINISTA SAVIO",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR4 / 59-5545",
+      "usuarios": "304",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5526",
+      "usuarios": "21",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR4 / 263-5481",
+      "usuarios": "414",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5475",
+      "usuarios": "12",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5542",
+      "usuarios": "156",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR5 / 169-5486 / 255-5512",
+      "usuarios": "58",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "JOSE LEON SUAREZ",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR2 / 266-5527",
+      "usuarios": "540",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR1 / 254-5511",
+      "usuarios": "126",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:DELVISO / 251-TR2 / 251-5532",
+      "usuarios": "1963",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "subestacion_alimentador": "- / R:CASANOVA / 63-TR2 / 63-5531",
+      "usuarios": "1828",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR1 / 365-5511",
+      "usuarios": "395",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR2 / 168-5524",
+      "usuarios": "89",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:AEROCLUB / 451-TR2 / 451-5524",
+      "usuarios": "442",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:AEROCLUB / 451-TR1 / 451-5515",
+      "usuarios": "249",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "subestacion_alimentador": "- / R:AEROCLUB / 451-TR1 / 451-5515",
+      "usuarios": "2068",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "subestacion_alimentador": "- / R:CASANOVA / 63-TR1 / 63-5512",
+      "usuarios": "1013",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "subestacion_alimentador": "- / R:CASANOVA / 63-TR2 / 63-5535",
+      "usuarios": "1350",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR4 / 65-5562",
+      "usuarios": "733",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR1 / 365-5511",
+      "usuarios": "64",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR4 / 65-5562",
+      "usuarios": "264",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "subestacion_alimentador": "- / R:SAN JUSTO / 164-TR1 / 164-5518",
+      "usuarios": "94",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "subestacion_alimentador": "- / R:LUZURIAGA / 64-TR1 / 64-5542",
+      "usuarios": "387",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:CASANOVA / 63-TR2 / 63-5531",
+      "usuarios": "301",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR1 / 353-5517",
+      "usuarios": "1904",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "EL TRIANGULO",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5523",
+      "usuarios": "5",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:TORTUGUITA / 252-TR2 / 252-5538",
+      "usuarios": "36",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "subestacion_alimentador": "- / R:DELVISO / 251-TR1 / 251-5541",
+      "usuarios": "320",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR1 / 353-5517",
+      "usuarios": "397",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR4 / 353-5481",
+      "usuarios": "9",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR1 / 363-5517",
+      "usuarios": "125",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR2 / 363-5523",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:MARCOS PAZ / 363-TR4 / 363-5482",
+      "usuarios": "13",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "subestacion_alimentador": "- / R:PONTEVEDRA / 261-TR1 / 261-5517",
+      "usuarios": "5",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR1 / 365-5511",
+      "usuarios": "264",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR1 / 258-5541",
+      "usuarios": "272",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR2 / 254-5524",
+      "usuarios": "1571",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR4 / 263-5482",
+      "usuarios": "432",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5526",
+      "usuarios": "3",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "subestacion_alimentador": "- / R:LA REJA / 163-TR2 / 163-5521",
+      "usuarios": "1869",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "subestacion_alimentador": "- / R:LA REJA / 163-TR2 / 163-5521",
+      "usuarios": "251",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5531",
+      "usuarios": "388",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR2 / 258-5522",
+      "usuarios": "2090",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR2 / 258-5522",
+      "usuarios": "255",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5531",
+      "usuarios": "1767",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5523",
+      "usuarios": "1914",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5531",
+      "usuarios": "390",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "DEL VISO",
+      "subestacion_alimentador": "- / R:DELVISO / 251-TR1 / 251-5541",
+      "usuarios": "156",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PARQUE / 357-TR4 / 357-5483",
+      "usuarios": "163",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "subestacion_alimentador": "- / R:DELVISO / 251-TR1 / 251-5541",
+      "usuarios": "576",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANZANARES",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR1 / 158-5513",
+      "usuarios": "29",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR4 / 158-5481",
+      "usuarios": "707",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:PARQUE / 357-TR4 / 357-5483",
+      "usuarios": "4",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR1 / 169-5534",
+      "usuarios": "82",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5522",
+      "usuarios": "810",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:MANZONE / 257-TR2 / 257-5523",
+      "usuarios": "11",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "subestacion_alimentador": "- / R:JOSE C PAZ / 254-TR1 / 254-5545",
+      "usuarios": "704",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "572",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 3RA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "233",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BOULOGNE",
+      "subestacion_alimentador": "- / R:BOULOGNE / 56-TR1 / 56-5516",
+      "usuarios": "188",
+      "normalizacion": "2022-04-27 19:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "subestacion_alimentador": "- / R:MORON / 67-TR4 / 67-5525",
+      "usuarios": "2467",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR2 / 59-5526",
+      "usuarios": "243",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "250",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR2 / 58-5528",
+      "usuarios": "267",
+      "normalizacion": "2022-04-27 20:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "subestacion_alimentador": "- / R:BANCALARI / 157-TR2 / 157-5526",
+      "usuarios": "111",
+      "normalizacion": "2022-04-27 19:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "usuarios": "32"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "usuarios": "78"
+    },
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "usuarios": "15"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "106"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C LIBERTADOR SAN MART?N",
+      "usuarios": "6"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GRAL EUGENIO NECOCHEA",
+      "usuarios": "3"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "HURLINGHAM",
+      "usuarios": "30"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "WILLIAM MORRIS",
+      "usuarios": "25"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "VILLA UDAONDO",
+      "usuarios": "72"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "150"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "20 DE JUNIO",
+      "usuarios": "15"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "28"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "usuarios": "46"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "37"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "96"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "usuarios": "12"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "PABLO NOGUES",
+      "usuarios": "13"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "usuarios": "17"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "33"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "48"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "PONTEVEDRA",
+      "usuarios": "33"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "21"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "17"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "6"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "23"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "usuarios": "17"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "usuarios": "14"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "94"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "usuarios": "33"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "17"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "ACASSUSO",
+      "usuarios": "75"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BECCAR",
+      "usuarios": "3"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "MARTINEZ",
+      "usuarios": "10"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "SAN ISIDRO",
+      "usuarios": "99"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "usuarios": "6"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "usuarios": "13"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "usuarios": "5"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "NORDELTA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "usuarios": "51"
+    }
+  ]
+}
