@@ -1,0 +1,126 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "6.478",
+  "totalUsuariosConSuministro": "2.527.107",
+  "ultimaActualizacion": "23:00",
+  "totalUsuariosAyer": "225.342",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BARRACAS",
+      "subestacion_alimentador": "124-CONSTITUCION / R:124-1-15 / 124-1-15",
+      "usuarios": "1687",
+      "normalizacion": "2022-04-29 04:25"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA RIACHUELO",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-1-17 / 042-1-17",
+      "usuarios": "2",
+      "normalizacion": "2022-04-29 02:39"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-16 / 185-1-16",
+      "usuarios": "79",
+      "normalizacion": "2022-04-29 04:24"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "ING. ALLAN",
+      "subestacion_alimentador": "185-BOSQUES / R:185-2-22 / 185-2-22",
+      "usuarios": "890",
+      "normalizacion": "2022-04-29 03:31"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-1-17 / 042-1-17",
+      "usuarios": "738",
+      "normalizacion": "2022-04-29 02:39"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-1-17 / 042-1-17",
+      "usuarios": "2835",
+      "normalizacion": "2022-04-29 02:39"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "PARQUE LAS NACIONES",
+      "subestacion_alimentador": "277-GLEW / R:277-4-47 / 277-4-47",
+      "usuarios": "3",
+      "normalizacion": "2022-04-29 04:24"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "subestacion_alimentador": "185-BOSQUES / R:185-1-16 / 185-1-16",
+      "usuarios": "8",
+      "normalizacion": "2022-04-29 04:24"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "GLEW",
+      "usuarios": "62"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "14"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "usuarios": "14"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "usuarios": "34"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "79"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "7"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "3"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "10"
+    }
+  ]
+}
