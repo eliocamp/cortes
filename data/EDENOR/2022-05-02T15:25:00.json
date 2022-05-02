@@ -1,32 +1,39 @@
 {
   "fuente": "Web Service",
   "empresa": "EDENOR",
-  "totalUsuariosSinSuministro": "7.862",
-  "totalUsuariosConSuministro": "3.192.209",
-  "ultimaActualizacion": "15:00",
+  "totalUsuariosSinSuministro": "12.340",
+  "totalUsuariosConSuministro": "3.187.731",
+  "ultimaActualizacion": "15:25",
   "totalUsuariosAyer": "10.148",
   "cortesPreventivos": [],
   "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR4 / 66-5537",
+      "usuarios": "1871",
+      "normalizacion": "2022-05-02 19:00"
+    },
     {
       "partido": "GRAL SAN MARTIN",
       "localidad": "PARQUE SAN LORENZO",
       "subestacion_alimentador": "- / R:MALAVER / 68-TR2 / 68-5524",
       "usuarios": "536",
-      "normalizacion": "2022-05-02 16:00"
-    },
-    {
-      "partido": "JOSE C PAZ",
-      "localidad": "JOSE C PAZ",
-      "subestacion_alimentador": "- / R:S.MIGUEL / 165-TR2 / 165-5524",
-      "usuarios": "949",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-05-02 17:00"
     },
     {
       "partido": "PILAR",
       "localidad": "PILAR",
       "subestacion_alimentador": "- / R:MANZONE / 257-TR1 / 257-5518",
       "usuarios": "10",
-      "normalizacion": "2022-05-02 17:00"
+      "normalizacion": "2022-05-02 16:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR1 / 158-5513",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
     },
     {
       "partido": "TIGRE",
@@ -47,16 +54,30 @@
       "localidad": "VILLA MARTELLI",
       "subestacion_alimentador": "- / R:MUNRO / 55-TR1 / 55-5517",
       "usuarios": "429",
-      "normalizacion": "Sin datos"
+      "normalizacion": "2022-05-02 17:00"
     }
   ],
   "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5526",
+      "usuarios": "303",
+      "normalizacion": "2022-05-02 19:00"
+    },
     {
       "partido": "3 DE FEBRERO",
       "localidad": "EL LIBERTADOR",
       "subestacion_alimentador": "- / R:ROTONDA / 262-TR2 / 262-5521",
       "usuarios": "503",
       "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5526",
+      "usuarios": "2343",
+      "normalizacion": "2022-05-02 19:00"
     },
     {
       "partido": "GRAL SAN MARTIN",
@@ -66,20 +87,29 @@
       "normalizacion": "Sin datos"
     },
     {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5526",
+      "usuarios": "974",
+      "normalizacion": "2022-05-02 19:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR2 / 263-5526",
+      "usuarios": "19",
+      "normalizacion": "2022-05-02 19:00"
+    },
+    {
       "partido": "SAN ISIDRO",
       "localidad": "BOULOGNE",
       "subestacion_alimentador": "- / R:SUAREZ / 266-TR2 / 266-5531",
       "usuarios": "3724",
-      "normalizacion": "2022-05-02 19:00"
+      "normalizacion": "Sin datos"
     }
   ],
   "cortesComunicados": [],
   "cortesServicioBaja": [
-    {
-      "partido": "3 DE FEBRERO",
-      "localidad": "PABLO PODESTA",
-      "usuarios": "19"
-    },
     {
       "partido": "CAPITAL FEDERAL",
       "localidad": "VILLA URQUIZA",
@@ -104,11 +134,6 @@
       "partido": "MERLO",
       "localidad": "PONTEVEDRA",
       "usuarios": "30"
-    },
-    {
-      "partido": "MORENO",
-      "localidad": "LA REJA",
-      "usuarios": "65"
     },
     {
       "partido": "MORENO",
