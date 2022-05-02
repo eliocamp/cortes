@@ -1,0 +1,54 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "172",
+  "totalUsuariosConSuministro": "2.533.413",
+  "ultimaActualizacion": "7:00",
+  "totalUsuariosAyer": "14.311",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "GERLI",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "12"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "usuarios": "17"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA",
+      "usuarios": "39"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "50"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "22"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "usuarios": "17"
+    }
+  ]
+}
