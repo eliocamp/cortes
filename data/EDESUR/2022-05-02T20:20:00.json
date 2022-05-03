@@ -1,0 +1,99 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.013",
+  "totalUsuariosConSuministro": "2.531.572",
+  "ultimaActualizacion": "20:20",
+  "totalUsuariosAyer": "14.311",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-1-17 / 281-1-17",
+      "usuarios": "722",
+      "normalizacion": "2022-05-02 23:33"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-1-17 / 281-1-17",
+      "usuarios": "919",
+      "normalizacion": "2022-05-02 23:33"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "GLEW",
+      "usuarios": "29"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "46"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "MAXIMO PAZ",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "18"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "14"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "44"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "11"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "47"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "95"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "32"
+    }
+  ]
+}
