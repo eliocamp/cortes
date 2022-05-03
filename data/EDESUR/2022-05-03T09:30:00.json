@@ -1,0 +1,146 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.697",
+  "totalUsuariosConSuministro": "2.529.888",
+  "ultimaActualizacion": "9:30",
+  "totalUsuariosAyer": "46.175",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-24 / 271-2-24",
+      "usuarios": "6",
+      "normalizacion": "2022-05-03 20:00"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-2-21 / 281-2-21",
+      "usuarios": "65",
+      "normalizacion": "2022-05-03 21:00"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-2-21 / 281-2-21",
+      "usuarios": "241",
+      "normalizacion": "2022-05-03 21:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "subestacion_alimentador": "75-CORINA / R:075-1-12 / 075-1-12",
+      "usuarios": "287",
+      "normalizacion": "2022-05-03 14:02"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "subestacion_alimentador": "75-CORINA / R:075-2-26 / 075-2-26",
+      "usuarios": "450",
+      "normalizacion": "2022-05-03 14:18"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-2-23 / 218-2-23",
+      "usuarios": "1973",
+      "normalizacion": "2022-05-03 13:07"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-2-23 / 218-2-23",
+      "usuarios": "42",
+      "normalizacion": "2022-05-03 13:07"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE PATRICIOS",
+      "subestacion_alimentador": "15-PATRICIOS / R:015-2-27 / 015-2-27",
+      "usuarios": "1",
+      "normalizacion": "2022-05-03 12:59"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS ESTE",
+      "subestacion_alimentador": "75-CORINA / R:075-2-26 / 075-2-26",
+      "usuarios": "6",
+      "normalizacion": "2022-05-03 14:18"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "subestacion_alimentador": "75-CORINA / R:075-2-26 / 075-2-26",
+      "usuarios": "279",
+      "normalizacion": "2022-05-03 14:18"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "GLEW",
+      "usuarios": "37"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "10"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "46"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "19"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "52"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "32"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "25"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN NICOLAS",
+      "usuarios": "5"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "62"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "25"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "11"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "23"
+    }
+  ]
+}
