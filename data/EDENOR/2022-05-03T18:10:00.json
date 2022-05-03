@@ -1,0 +1,86 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.317",
+  "totalUsuariosConSuministro": "3.198.754",
+  "ultimaActualizacion": "18:10",
+  "totalUsuariosAyer": "66.756",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5524",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "1109",
+      "normalizacion": "2022-05-03 19:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "NORDELTA",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "1",
+      "normalizacion": "2022-05-03 19:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "usuarios": "34"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "usuarios": "20"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "25"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "32"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "usuarios": "4"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "usuarios": "20"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "CAMPO DE MAYO",
+      "usuarios": "12"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "FLORIDA",
+      "usuarios": "37"
+    }
+  ]
+}
