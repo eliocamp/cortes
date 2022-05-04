@@ -1,0 +1,107 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.168",
+  "totalUsuariosConSuministro": "2.531.417",
+  "ultimaActualizacion": "20:35",
+  "totalUsuariosAyer": "46.175",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-24 / 271-2-24",
+      "usuarios": "6",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "951- / R:951-1-01 / 951-1-01",
+      "usuarios": "996",
+      "normalizacion": "2022-05-03 23:54"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "subestacion_alimentador": "172-SARANDI / R:172-4-44 / 172-4-44",
+      "usuarios": "670",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "73"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "54"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "55"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "usuarios": "7"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "LUIS GUILLON",
+      "usuarios": "44"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "33"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "23"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "76"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "17"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "57"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "34"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "8"
+    }
+  ]
+}
