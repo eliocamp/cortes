@@ -1,0 +1,110 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "618",
+  "totalUsuariosConSuministro": "3.199.453",
+  "ultimaActualizacion": "21:25",
+  "totalUsuariosAyer": "66.756",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5524",
+      "usuarios": "1",
+      "normalizacion": "2022-05-03 22:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR1 / 168-5517",
+      "usuarios": "324",
+      "normalizacion": "2022-05-03 23:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "30"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "14"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "7"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "usuarios": "12"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "8"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "55"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "32"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "30"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VICTORIA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "SAN ISIDRO",
+      "usuarios": "31"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "MUÑIZ",
+      "usuarios": "4"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "4"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "usuarios": "47"
+    }
+  ]
+}
