@@ -1,0 +1,126 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "966",
+  "totalUsuariosConSuministro": "3.199.105",
+  "ultimaActualizacion": "12:55",
+  "totalUsuariosAyer": "31.322",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MALVINAS / 169-TR2 / 169-5475",
+      "usuarios": "1",
+      "normalizacion": "2022-05-05 13:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "subestacion_alimentador": "- / R:AGUAS / 129-TR1 / 129-5516",
+      "usuarios": "1",
+      "normalizacion": "2022-05-05 13:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5524",
+      "usuarios": "285",
+      "normalizacion": "2022-05-05 13:00"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "WILLIAM MORRIS",
+      "subestacion_alimentador": "- / R:MORON / 67-TR2 / 67-5518",
+      "usuarios": "1",
+      "normalizacion": "2022-05-05 14:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5524",
+      "usuarios": "1",
+      "normalizacion": "2022-05-05 14:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "subestacion_alimentador": "- / R:LA REJA / 163-TR1 / 163-5517",
+      "usuarios": "446",
+      "normalizacion": "2022-05-05 13:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5525",
+      "usuarios": "10",
+      "normalizacion": "2022-05-05 13:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "CAMPO DE MAYO",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / TR2 / 362-5533",
+      "usuarios": "55",
+      "normalizacion": "2022-05-05 14:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CHURRUCA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "COGHLAN",
+      "usuarios": "1"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "8"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "PONTEVEDRA",
+      "usuarios": "38"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "18"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "22"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "12"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "usuarios": "22"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "usuarios": "1"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VILLA MARTELLI",
+      "usuarios": "21"
+    }
+  ]
+}
