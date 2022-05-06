@@ -1,0 +1,102 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.206",
+  "totalUsuariosConSuministro": "3.198.865",
+  "ultimaActualizacion": "19:45",
+  "totalUsuariosAyer": "18.833",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "subestacion_alimentador": "- / R:AGUAS / 129-TR1 / 129-5516",
+      "usuarios": "1",
+      "normalizacion": "2022-05-06 21:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR1 / 365-5516",
+      "usuarios": "2",
+      "normalizacion": "2022-05-06 21:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5524",
+      "usuarios": "1",
+      "normalizacion": "2022-05-06 21:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "subestacion_alimentador": "- / R:LA REJA / 163-TR1 / 163-5517",
+      "usuarios": "57",
+      "normalizacion": "2022-05-06 20:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR2 / 59-5526",
+      "usuarios": "280",
+      "normalizacion": "2022-05-06 20:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL LAS HERAS",
+      "localidad": "GRAL LAS HERAS",
+      "subestacion_alimentador": "- / R:LAS HERAS / 269-TR1 / 269-5521",
+      "usuarios": "17",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "subestacion_alimentador": "- / R:ARA SAN JUAN / 362-TR1 / 362-5547",
+      "usuarios": "548",
+      "normalizacion": "2022-05-06 21:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "subestacion_alimentador": "- / R:VICTORIA / 53-TR1 / 53-5514",
+      "usuarios": "255",
+      "normalizacion": "2022-05-06 21:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "11"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "SAN ANDRES",
+      "usuarios": "1"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "WILLIAM MORRIS",
+      "usuarios": "11"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "19"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VICTORIA",
+      "usuarios": "2"
+    }
+  ]
+}
