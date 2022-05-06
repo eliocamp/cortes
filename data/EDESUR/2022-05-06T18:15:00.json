@@ -1,0 +1,105 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.078",
+  "totalUsuariosConSuministro": "2.532.507",
+  "ultimaActualizacion": "18:15",
+  "totalUsuariosAyer": "16.590",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "LOS POZOS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-26 / 271-2-26",
+      "usuarios": "454",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "SANTA ANITA",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-26 / 271-2-26",
+      "usuarios": "339",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 1",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-26 / 271-2-26",
+      "usuarios": "27",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LAVALLOL",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-1-11 / 084-1-11",
+      "usuarios": "4",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-1-11 / 084-1-11",
+      "usuarios": "8",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "usuarios": "28"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "22"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "13"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "18"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORESTA",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "23"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "41"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LAVALLOL",
+      "usuarios": "7"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "62"
+    }
+  ]
+}
