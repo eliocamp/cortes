@@ -1,0 +1,68 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "390",
+  "totalUsuariosConSuministro": "3.199.681",
+  "ultimaActualizacion": "12:55",
+  "totalUsuariosAyer": "42.885",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "subestacion_alimentador": "- / R:BENAVIDEZ / 59-TR1 / 59-5516",
+      "usuarios": "1",
+      "normalizacion": "2022-05-07 14:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "subestacion_alimentador": "- / R:LUZURIAGA / 64-TR2 / 64-5527",
+      "usuarios": "272",
+      "normalizacion": "2022-05-07 14:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5524",
+      "usuarios": "1",
+      "normalizacion": "2022-05-07 14:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5523",
+      "usuarios": "6",
+      "normalizacion": "2022-05-07 14:00"
+    },
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MORON / 67-TR2 / 67-5518",
+      "usuarios": "2",
+      "normalizacion": "2022-05-07 14:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR2 / 154-5523",
+      "usuarios": "70",
+      "normalizacion": "2022-05-07 14:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "19"
+    }
+  ]
+}
