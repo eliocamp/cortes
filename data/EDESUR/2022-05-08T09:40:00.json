@@ -1,0 +1,52 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "651",
+  "totalUsuariosConSuministro": "2.532.934",
+  "ultimaActualizacion": "9:40",
+  "totalUsuariosAyer": "9.250",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "ALMAGRO",
+      "subestacion_alimentador": "49-PARQUE CENTENARIO / R:049-3-32 / 049-3-32",
+      "usuarios": "265",
+      "normalizacion": "2022-05-08 12:57"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NUEVA POMPEYA",
+      "subestacion_alimentador": "39-POMPEYA / R:039-3-34 / 039-3-34 / 039-1-12",
+      "usuarios": "220",
+      "normalizacion": "2022-05-08 13:06"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA SOLDATI RP",
+      "subestacion_alimentador": "39-POMPEYA / R:039-3-34 / 039-3-34 / 039-1-12",
+      "usuarios": "143",
+      "normalizacion": "2022-05-08 13:06"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "8"
+    }
+  ]
+}
