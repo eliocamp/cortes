@@ -1,0 +1,71 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.229",
+  "totalUsuariosConSuministro": "2.531.356",
+  "ultimaActualizacion": "20:40",
+  "totalUsuariosAyer": "17.245",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "87-ESCALADA / R:087-4-44 / 087-4-44",
+      "usuarios": "424",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "subestacion_alimentador": "279-9 DE JULIO / R:279-2-27 / 279-2-27",
+      "usuarios": "1168",
+      "normalizacion": "2022-05-07 21:07"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "subestacion_alimentador": "279-9 DE JULIO / R:279-4-43 / 279-4-43",
+      "usuarios": "188",
+      "normalizacion": "2022-05-08 00:44"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "DOCK SUD",
+      "subestacion_alimentador": "279-9 DE JULIO / R:279-4-43 / 279-4-43",
+      "usuarios": "361",
+      "normalizacion": "2022-05-08 00:44"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "DOCK SUD",
+      "subestacion_alimentador": "279-9 DE JULIO / R:279-2-27 / 279-2-27",
+      "usuarios": "11",
+      "normalizacion": "2022-05-07 21:07"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "30"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "RECOLETA",
+      "usuarios": "28"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "7"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "12"
+    }
+  ]
+}

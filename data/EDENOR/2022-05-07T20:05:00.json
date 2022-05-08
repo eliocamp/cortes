@@ -1,0 +1,66 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "941",
+  "totalUsuariosConSuministro": "3.199.130",
+  "ultimaActualizacion": "20:05",
+  "totalUsuariosAyer": "42.885",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA LUZURIAGA",
+      "subestacion_alimentador": "- / R:CASANOVA / 63-TR2 / 63-5523",
+      "usuarios": "421",
+      "normalizacion": "2022-05-07 21:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5524",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "WILLIAM MORRIS",
+      "subestacion_alimentador": "- / R:MORON / 67-TR4 / 67-5535",
+      "usuarios": "3",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "subestacion_alimentador": "- / R:PONTEVEDRA / 261-TR2 / 261-5526",
+      "usuarios": "18",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR1 / 260-5512",
+      "usuarios": "348",
+      "normalizacion": "2022-05-07 21:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "25"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "106"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "19"
+    }
+  ]
+}
