@@ -1,0 +1,49 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.139",
+  "totalUsuariosConSuministro": "2.530.446",
+  "ultimaActualizacion": "8:35",
+  "totalUsuariosAyer": "9.250",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NUEVA POMPEYA",
+      "subestacion_alimentador": "39-POMPEYA / R:039-3-34 / 039-3-34 / 039-1-12",
+      "usuarios": "2943",
+      "normalizacion": "2022-05-08 13:06"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA SOLDATI RP",
+      "subestacion_alimentador": "39-POMPEYA / R:039-3-34 / 039-3-34 / 039-1-12",
+      "usuarios": "143",
+      "normalizacion": "2022-05-08 13:06"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "30"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "8"
+    }
+  ]
+}

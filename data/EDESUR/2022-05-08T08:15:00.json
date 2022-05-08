@@ -1,0 +1,57 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.783",
+  "totalUsuariosConSuministro": "2.529.802",
+  "ultimaActualizacion": "8:15",
+  "totalUsuariosAyer": "9.250",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "87-ESCALADA / R:087-4-44 / 087-4-44",
+      "usuarios": "424",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "NUEVA POMPEYA",
+      "subestacion_alimentador": "39-POMPEYA / R:039-3-34 / 039-3-34 / 039-1-12",
+      "usuarios": "3156",
+      "normalizacion": "2022-05-08 10:57"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA SOLDATI RP",
+      "subestacion_alimentador": "39-POMPEYA / R:039-3-34 / 039-3-34 / 039-1-12",
+      "usuarios": "143",
+      "normalizacion": "2022-05-08 10:57"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "30"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "8"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "17"
+    }
+  ]
+}
