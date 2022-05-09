@@ -1,0 +1,50 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "498",
+  "totalUsuariosConSuministro": "2.533.087",
+  "ultimaActualizacion": "9:40",
+  "totalUsuariosAyer": "11.119",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "subestacion_alimentador": "180-ALMIRANTE BROWN / R:180-3-34 / 180-3-34",
+      "usuarios": "354",
+      "normalizacion": "2022-05-09 11:32"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BARRACAS",
+      "subestacion_alimentador": "24-BARRACAS / R:024-1-16 / 024-1-16",
+      "usuarios": "64",
+      "normalizacion": "2022-05-09 10:45"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA PATERNAL",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA STA. RITA",
+      "usuarios": "47"
+    }
+  ]
+}
