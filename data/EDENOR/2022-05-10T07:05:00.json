@@ -1,0 +1,44 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.905",
+  "totalUsuariosConSuministro": "3.198.166",
+  "ultimaActualizacion": "7:05",
+  "totalUsuariosAyer": "23.472",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "FLORIDA",
+      "subestacion_alimentador": "- / R:MUNRO / 55-TR1 / 55-5521",
+      "usuarios": "660",
+      "normalizacion": "2022-05-10 09:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "subestacion_alimentador": "- / R:MUNRO / 55-TR1 / 55-5521",
+      "usuarios": "1135",
+      "normalizacion": "2022-05-10 09:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "29"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "58"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "23"
+    }
+  ]
+}
