@@ -1,0 +1,60 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "813",
+  "totalUsuariosConSuministro": "3.199.258",
+  "ultimaActualizacion": "8:05",
+  "totalUsuariosAyer": "23.472",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GREGORIA MATORRAS",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR2 / 266-5521",
+      "usuarios": "359",
+      "normalizacion": "2022-05-10 09:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5511",
+      "usuarios": "313",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "14"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "29"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "58"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "23"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "16"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "508",
+  "totalUsuariosConSuministro": "3.199.563",
+  "ultimaActualizacion": "8:45",
+  "totalUsuariosAyer": "23.472",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GREGORIA MATORRAS",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR2 / 266-5521",
+      "usuarios": "359",
+      "normalizacion": "2022-05-10 09:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "14"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "29"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "EL TRIANGULO",
+      "usuarios": "8"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "58"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "23"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "16"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.493",
+  "totalUsuariosConSuministro": "3.197.578",
+  "ultimaActualizacion": "8:25",
+  "totalUsuariosAyer": "23.472",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GREGORIA MATORRAS",
+      "subestacion_alimentador": "- / R:SUAREZ / 266-TR2 / 266-5521",
+      "usuarios": "359",
+      "normalizacion": "2022-05-10 09:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "subestacion_alimentador": "- / R:S.MIGUEL / 165-TR2 / 165-5524",
+      "usuarios": "1486",
+      "normalizacion": "2022-05-10 12:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "subestacion_alimentador": "- / R:S.MIGUEL / 165-TR2 / 165-5524",
+      "usuarios": "507",
+      "normalizacion": "2022-05-10 12:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "14"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "29"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "58"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "usuarios": "23"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "16"
+    }
+  ]
+}
