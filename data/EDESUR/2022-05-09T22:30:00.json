@@ -1,0 +1,57 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "634",
+  "totalUsuariosConSuministro": "2.532.951",
+  "ultimaActualizacion": "22:30",
+  "totalUsuariosAyer": "11.119",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CONSTITUCION",
+      "subestacion_alimentador": "31-HERNANDARIAS / R:031-2-21 / 031-2-21",
+      "usuarios": "380",
+      "normalizacion": "2022-05-10 01:59"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "32"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "10"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "32"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "110"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA CENTENARIO",
+      "usuarios": "13"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "48"
+    }
+  ]
+}
