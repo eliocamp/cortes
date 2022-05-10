@@ -1,0 +1,49 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "937",
+  "totalUsuariosConSuministro": "2.532.648",
+  "ultimaActualizacion": "0:55",
+  "totalUsuariosAyer": "2.857",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BALVANERA RP",
+      "subestacion_alimentador": "23-POZOS / R:023-1-12 / 023-1-12",
+      "usuarios": "43",
+      "normalizacion": "2022-05-10 05:07"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MONSERRAT",
+      "subestacion_alimentador": "23-POZOS / R:023-1-12 / 023-1-12",
+      "usuarios": "776",
+      "normalizacion": "2022-05-10 05:07"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "14"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "47"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "48"
+    }
+  ]
+}
