@@ -1,0 +1,69 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.176",
+  "totalUsuariosConSuministro": "2.532.409",
+  "ultimaActualizacion": "2:55",
+  "totalUsuariosAyer": "14.711",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-2-26 / 182-2-26",
+      "usuarios": "621",
+      "normalizacion": "2022-05-11 06:06"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TURDERA",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-2-26 / 182-2-26",
+      "usuarios": "366",
+      "normalizacion": "2022-05-11 06:06"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "DOCK SUD",
+      "usuarios": "32"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "usuarios": "45"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "18"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "usuarios": "22"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "29"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "31"
+    }
+  ]
+}
