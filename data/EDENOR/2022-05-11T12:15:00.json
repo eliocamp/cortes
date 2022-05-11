@@ -1,0 +1,90 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "966",
+  "totalUsuariosConSuministro": "3.199.105",
+  "ultimaActualizacion": "12:15",
+  "totalUsuariosAyer": "58.871",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR4 / 51-5482 / 4-5523",
+      "usuarios": "23",
+      "normalizacion": "2022-05-11 13:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:PANTANOSA / 365-TR1 / 365-5516",
+      "usuarios": "2",
+      "normalizacion": "2022-05-11 14:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "subestacion_alimentador": "- / R:GAONA / 263-TR3 / 263-5472",
+      "usuarios": "37",
+      "normalizacion": "2022-05-11 14:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "subestacion_alimentador": "- / R:MORON / 67-TR2 / 67-5515",
+      "usuarios": "2",
+      "normalizacion": "2022-05-11 14:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "subestacion_alimentador": "- / R:MUNIZ / 265-TR2 / 265-5525",
+      "usuarios": "385",
+      "normalizacion": "2022-05-11 14:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR2 / 156-5524",
+      "usuarios": "1",
+      "normalizacion": "2022-05-11 13:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "CHACABUCO",
+      "subestacion_alimentador": "- / R:MIGUELETES / 54-TR2 / 54-5525",
+      "usuarios": "139",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "COGHLAN",
+      "usuarios": "1"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "66"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "26"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "232"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VIRREYES",
+      "usuarios": "52"
+    }
+  ]
+}
