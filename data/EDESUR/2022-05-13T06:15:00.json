@@ -1,0 +1,91 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.355",
+  "totalUsuariosConSuministro": "2.530.230",
+  "ultimaActualizacion": "6:15",
+  "totalUsuariosAyer": "15.165",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "subestacion_alimentador": "82-BURZACO / R:082-1-05 / 082-1-05",
+      "usuarios": "2050",
+      "normalizacion": "2022-05-13 10:40"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "subestacion_alimentador": "82-BURZACO / R:082-1-05 / 082-1-05",
+      "usuarios": "221",
+      "normalizacion": "2022-05-13 10:40"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MINISTRO RIVADAVIA",
+      "subestacion_alimentador": "82-BURZACO / R:082-1-05 / 082-1-05",
+      "usuarios": "839",
+      "normalizacion": "2022-05-13 10:40"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "5"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "19"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "13"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "40"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "19"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "ING. ALLAN",
+      "usuarios": "35"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "55"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA CENTENARIO",
+      "usuarios": "30"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "6"
+    }
+  ]
+}
