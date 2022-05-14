@@ -1,0 +1,63 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.282",
+  "totalUsuariosConSuministro": "3.198.789",
+  "ultimaActualizacion": "17:10",
+  "totalUsuariosAyer": "10.712",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR2 / 167-5535",
+      "usuarios": "290",
+      "normalizacion": "2022-05-14 18:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CHACARITA",
+      "subestacion_alimentador": "- / R:COLEGIALES / 46-TR3 / 46-5512",
+      "usuarios": "42",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "WILLIAM MORRIS",
+      "subestacion_alimentador": "- / R:MORON / 67-TR5 / 67-5547",
+      "usuarios": "1",
+      "normalizacion": "2022-05-14 18:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "MORENO",
+      "localidad": "LA REJA",
+      "subestacion_alimentador": "- / R:LA REJA / 163-TR1 / 163-5516",
+      "usuarios": "247",
+      "normalizacion": "2022-05-14 18:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5524",
+      "usuarios": "165",
+      "normalizacion": "2022-05-14 19:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "GENERAL PACHECO",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5524",
+      "usuarios": "533",
+      "normalizacion": "2022-05-14 19:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "4"
+    }
+  ]
+}

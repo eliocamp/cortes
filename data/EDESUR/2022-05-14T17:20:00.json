@@ -1,0 +1,95 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "4.417",
+  "totalUsuariosConSuministro": "2.529.168",
+  "ultimaActualizacion": "17:20",
+  "totalUsuariosAyer": "31.963",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-15 / 271-1-15",
+      "usuarios": "1614",
+      "normalizacion": "2022-05-14 20:30"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-15 / 271-1-15",
+      "usuarios": "2",
+      "normalizacion": "2022-05-14 20:30"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "ALMAGRO",
+      "subestacion_alimentador": "49-PARQUE CENTENARIO / R:049-3-34 / 049-3-34",
+      "usuarios": "630",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA SOLDATI RP",
+      "subestacion_alimentador": "39-POMPEYA / R:039-3-32 / 039-3-32",
+      "usuarios": "143",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "186-GERLI / R:186-2-28 / 186-2-28",
+      "usuarios": "232",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "186-GERLI / R:186-4-42 / 186-4-42",
+      "usuarios": "109",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-4-46 / 189-4-46",
+      "usuarios": "1531",
+      "normalizacion": "2022-05-14 21:17"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "70"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA REAL",
+      "usuarios": "8"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "28"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "2"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "5"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "43"
+    }
+  ]
+}
