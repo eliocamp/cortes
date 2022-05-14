@@ -1,0 +1,42 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "893",
+  "totalUsuariosConSuministro": "2.532.692",
+  "ultimaActualizacion": "8:25",
+  "totalUsuariosAyer": "31.963",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "CANNING EE",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-21 / 083-2-21",
+      "usuarios": "732",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "66"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "usuarios": "14"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "59"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "22"
+    }
+  ]
+}
