@@ -1,0 +1,69 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.182",
+  "totalUsuariosConSuministro": "2.531.403",
+  "ultimaActualizacion": "10:15",
+  "totalUsuariosAyer": "31.963",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "CANNING EE",
+      "subestacion_alimentador": "83-ECHEVERRIA / R:083-2-21 / 083-2-21",
+      "usuarios": "732",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "subestacion_alimentador": "186-GERLI / R:186-4-42 / 186-4-42",
+      "usuarios": "109",
+      "normalizacion": "2022-05-14 12:33"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-4-44 / 182-4-44",
+      "usuarios": "617",
+      "normalizacion": "2022-05-14 11:58"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "286- / R:286-5-51 / 286-5-51",
+      "usuarios": "529",
+      "normalizacion": "2022-05-14 14:20"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "66"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "46"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "59"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "7"
+    }
+  ]
+}
