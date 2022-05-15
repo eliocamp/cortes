@@ -1,0 +1,128 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "6.690",
+  "totalUsuariosConSuministro": "2.526.895",
+  "ultimaActualizacion": "22:55",
+  "totalUsuariosAyer": "31.963",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-1-15 / 271-1-15",
+      "usuarios": "699",
+      "normalizacion": "2022-05-15 02:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "ALMAGRO",
+      "subestacion_alimentador": "49-PARQUE CENTENARIO / R:049-3-34 / 049-3-34",
+      "usuarios": "630",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "GLEW",
+      "subestacion_alimentador": "277-GLEW / R:277-4-47 / 277-4-47",
+      "usuarios": "148",
+      "normalizacion": "2022-05-15 01:40"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-4-46 / 189-4-46",
+      "usuarios": "1531",
+      "normalizacion": "2022-05-15 03:17"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "25 DE MAYO",
+      "subestacion_alimentador": "277-GLEW / R:277-4-47 / 277-4-47",
+      "usuarios": "778",
+      "normalizacion": "2022-05-15 01:40"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA OESTE",
+      "subestacion_alimentador": "277-GLEW / R:277-4-47 / 277-4-47",
+      "usuarios": "135",
+      "normalizacion": "2022-05-15 01:40"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "PARQUE AMERICANO",
+      "subestacion_alimentador": "277-GLEW / R:277-4-47 / 277-4-47",
+      "usuarios": "2030",
+      "normalizacion": "2022-05-15 01:40"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "PARQUE LAS NACIONES",
+      "subestacion_alimentador": "277-GLEW / R:277-4-47 / 277-4-47",
+      "usuarios": "3",
+      "normalizacion": "2022-05-15 01:40"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "QUINTAS AGRICOLAS",
+      "subestacion_alimentador": "277-GLEW / R:277-4-47 / 277-4-47",
+      "usuarios": "260",
+      "normalizacion": "2022-05-15 01:40"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SAN PABLO",
+      "subestacion_alimentador": "277-GLEW / R:277-4-47 / 277-4-47",
+      "usuarios": "111",
+      "normalizacion": "2022-05-15 01:40"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SANTA ELENA",
+      "subestacion_alimentador": "277-GLEW / R:277-4-47 / 277-4-47",
+      "usuarios": "217",
+      "normalizacion": "2022-05-15 01:40"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "20"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "RAFAEL CALZADA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "19"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA REAL",
+      "usuarios": "10"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "51"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "43"
+    }
+  ]
+}
