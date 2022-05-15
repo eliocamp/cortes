@@ -1,0 +1,32 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "35",
+  "totalUsuariosConSuministro": "3.200.036",
+  "ultimaActualizacion": "21:05",
+  "totalUsuariosAyer": "10.712",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "WILLIAM MORRIS",
+      "subestacion_alimentador": "- / R:MORON / 67-TR5 / 67-5547",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "12"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "MARTINEZ",
+      "usuarios": "22"
+    }
+  ]
+}
