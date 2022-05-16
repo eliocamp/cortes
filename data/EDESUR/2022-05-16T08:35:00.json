@@ -1,0 +1,82 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.340",
+  "totalUsuariosConSuministro": "2.532.245",
+  "ultimaActualizacion": "8:35",
+  "totalUsuariosAyer": "242.736",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "30",
+      "normalizacion": "2022-05-16 08:41"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 6",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "7",
+      "normalizacion": "2022-05-16 08:41"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 7",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-3-72 / 271-3-72",
+      "usuarios": "5",
+      "normalizacion": "2022-05-16 08:41"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE PATRICIOS",
+      "subestacion_alimentador": "15-PATRICIOS / R:015-1-13 / 015-1-13",
+      "usuarios": "1",
+      "normalizacion": "2022-05-16 11:13"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "PARQUE LAS NACIONES",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "305",
+      "normalizacion": "2022-05-16 11:18"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SAN MARTIN",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "943",
+      "normalizacion": "2022-05-16 11:18"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MARMOL",
+      "usuarios": "19"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "usuarios": "1"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "9"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LAVALLOL",
+      "usuarios": "12"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "8"
+    }
+  ]
+}

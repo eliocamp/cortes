@@ -1,0 +1,52 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "552",
+  "totalUsuariosConSuministro": "3.199.519",
+  "ultimaActualizacion": "8:40",
+  "totalUsuariosAyer": "32.569",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "M REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2 / 262-5527",
+      "usuarios": "411",
+      "normalizacion": "2022-05-16 10:00"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "WILLIAM MORRIS",
+      "subestacion_alimentador": "- / R:MORON / 67-TR5 / 67-5547",
+      "usuarios": "1",
+      "normalizacion": "2022-05-16 10:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
+      "usuarios": "60",
+      "normalizacion": "2022-05-16 10:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA URQUIZA",
+      "usuarios": "42"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "17"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "21"
+    }
+  ]
+}
