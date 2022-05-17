@@ -1,0 +1,137 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "9.696",
+  "totalUsuariosConSuministro": "2.523.889",
+  "ultimaActualizacion": "13:40",
+  "totalUsuariosAyer": "46.372",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-1-13 / 184-1-13",
+      "usuarios": "2365",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-2-21 / 084-2-21",
+      "usuarios": "748",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN FRANCISCO SOLANO",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-4-43 / 189-4-43",
+      "usuarios": "313",
+      "normalizacion": "2022-05-17 18:12"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BALVANERA RP",
+      "subestacion_alimentador": "21-AZCUENAGA / R:021-1-15 / 021-1-15",
+      "usuarios": "770",
+      "normalizacion": "2022-05-17 18:57"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LA PATERNAL",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-1-14 / 147-1-14",
+      "usuarios": "1614",
+      "normalizacion": "2022-05-17 18:55"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "RECOLETA",
+      "subestacion_alimentador": "21-AZCUENAGA / R:021-1-15 / 021-1-15",
+      "usuarios": "936",
+      "normalizacion": "2022-05-17 18:57"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA CRESPO",
+      "subestacion_alimentador": "147-VILLA CRESPO / R:147-1-14 / 147-1-14",
+      "usuarios": "2105",
+      "normalizacion": "2022-05-17 18:55"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "89-ALSINA / R:089-1-17 / 089-1-17",
+      "usuarios": "279",
+      "normalizacion": "2022-05-17 18:58"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "160"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "30"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "67"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "27"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "42"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "11"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "133"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA",
+      "usuarios": "24"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "47"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "9"
+    }
+  ]
+}
