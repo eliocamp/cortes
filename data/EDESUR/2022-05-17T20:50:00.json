@@ -1,0 +1,143 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "10.871",
+  "totalUsuariosConSuministro": "2.522.714",
+  "ultimaActualizacion": "20:50",
+  "totalUsuariosAyer": "46.372",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "RAFAEL CALZADA",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-4-45 / 184-4-45",
+      "usuarios": "1073",
+      "normalizacion": "2022-05-17 23:02"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN FRANCISCO SOLANO",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-4-43 / 189-4-43",
+      "usuarios": "313",
+      "normalizacion": "2022-05-18 02:22"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-4-45 / 184-4-45",
+      "usuarios": "2351",
+      "normalizacion": "2022-05-17 23:02"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI CENTRO",
+      "subestacion_alimentador": "80-EZPELETA / R:080-5-51 / 080-5-51",
+      "usuarios": "922",
+      "normalizacion": "2022-05-18 01:14"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-12 / 174-1-12",
+      "usuarios": "3164",
+      "normalizacion": "2022-05-17 23:39"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MATADEROS",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-3-35 / 048-3-35",
+      "usuarios": "381",
+      "normalizacion": "2022-05-18 00:21"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA LUGANO",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-3-35 / 048-3-35",
+      "usuarios": "1164",
+      "normalizacion": "2022-05-18 00:21"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-2-27 / 077-2-27",
+      "usuarios": "491",
+      "normalizacion": "2022-05-18 01:13"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "89-ALSINA / R:089-1-17 / 089-1-17",
+      "usuarios": "711",
+      "normalizacion": "2022-05-18 01:14"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "46"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "RAFAEL CALZADA",
+      "usuarios": "3"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "SARANDI",
+      "usuarios": "23"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "32"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "24"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "11"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "1"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "35"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "19"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "8"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "73"
+    }
+  ]
+}
