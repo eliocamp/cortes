@@ -1,0 +1,267 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "17.270",
+  "totalUsuariosConSuministro": "2.516.315",
+  "ultimaActualizacion": "6:30",
+  "totalUsuariosAyer": "15.020",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-27 / 271-2-27",
+      "usuarios": "1765",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 1",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-27 / 271-2-27",
+      "usuarios": "399",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 2",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-27 / 271-2-27",
+      "usuarios": "115",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 3",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-27 / 271-2-27",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 4",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-27 / 271-2-27",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "ZONA RURAL 8",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-27 / 271-2-27",
+      "usuarios": "29",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "271-CAnUELAS / R:271-2-27 / 271-2-27",
+      "usuarios": "3",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "GLEW",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "3929",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "332",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "CANNING EE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "670",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "1617",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "ZONA RURAL 1 EE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "242",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "AMERICA UNIDA",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "95",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "COPENHAGÜE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "26",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "PARQUE LAS NACIONES",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "822",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SAN MARTIN",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "1320",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SAN PABLO",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "1717",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SAN ROQUE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "271",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SANTA MAGDALENA",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "697",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA NUMANCIA NORTE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "1090",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA NUMANCIA SUR",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "368",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA PANAMERICANA",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "799",
+      "normalizacion": "2022-05-21 11:07"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "ZONA RURAL I PP",
+      "subestacion_alimentador": "277-GLEW / R:277-2-25 / 277-2-25",
+      "usuarios": "354",
+      "normalizacion": "2022-05-21 11:07"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "14"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "43"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "usuarios": "27"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "usuarios": "5"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "V. ESPAÑA",
+      "usuarios": "100"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "42"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "14"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA REAL",
+      "usuarios": "7"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "81"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "53"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "72"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LAVALLOL",
+      "usuarios": "25"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "17"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "22"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "45"
+    }
+  ]
+}
