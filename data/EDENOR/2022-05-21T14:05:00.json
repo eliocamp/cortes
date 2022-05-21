@@ -1,0 +1,64 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "394",
+  "totalUsuariosConSuministro": "3.199.677",
+  "ultimaActualizacion": "14:05",
+  "totalUsuariosAyer": "13.873",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR4 / 66-5537",
+      "usuarios": "212",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "21",
+      "normalizacion": "2022-05-21 15:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "usuarios": "15"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "DELTA 1RA SECCION (ES)",
+      "usuarios": "12"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "42"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA LYNCH",
+      "usuarios": "37"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "27"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA LUZURIAGA",
+      "usuarios": "24"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "VILLA DE MAYO",
+      "usuarios": "4"
+    }
+  ]
+}
