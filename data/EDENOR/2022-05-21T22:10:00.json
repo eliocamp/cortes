@@ -1,0 +1,42 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "71",
+  "totalUsuariosConSuministro": "3.200.000",
+  "ultimaActualizacion": "22:10",
+  "totalUsuariosAyer": "13.873",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "subestacion_alimentador": "- / R:LIBERTADOR / 41-TR1 / 41-5512",
+      "usuarios": "20",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA URQUIZA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "usuarios": "20"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "FLORIDA (OESTE)",
+      "usuarios": "16"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.951",
+  "totalUsuariosConSuministro": "3.196.120",
+  "ultimaActualizacion": "22:30",
+  "totalUsuariosAyer": "13.873",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BELGRANO",
+      "subestacion_alimentador": "- / R:LIBERTADOR / 41-TR1 / 41-5512",
+      "usuarios": "20",
+      "normalizacion": "2022-05-21 23:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "subestacion_alimentador": "- / R:CASANOVA / 63-TR1 / 63-5512",
+      "usuarios": "265",
+      "normalizacion": "2022-05-22 00:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "subestacion_alimentador": "- / R:CASANOVA / 63-TR1 / 63-5512",
+      "usuarios": "3641",
+      "normalizacion": "2022-05-22 00:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "5"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "usuarios": "20"
+    }
+  ]
+}
