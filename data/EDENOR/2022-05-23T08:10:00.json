@@ -1,0 +1,39 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.029",
+  "totalUsuariosConSuministro": "3.198.042",
+  "ultimaActualizacion": "8:10",
+  "totalUsuariosAyer": "12.200",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR1 / 167-5512",
+      "usuarios": "32",
+      "normalizacion": "2022-05-23 12:00"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "subestacion_alimentador": "- / R:LUZURIAGA / 64-TR1 / 64-5541",
+      "usuarios": "1974",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "VILLA UDAONDO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "22"
+    }
+  ]
+}

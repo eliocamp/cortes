@@ -1,0 +1,78 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "5.171",
+  "totalUsuariosConSuministro": "2.528.414",
+  "ultimaActualizacion": "8:15",
+  "totalUsuariosAyer": "1.080",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-3-38 / 189-3-38",
+      "usuarios": "421",
+      "normalizacion": "2022-05-23 11:48"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MARMOL",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-3-38 / 189-3-38",
+      "usuarios": "1090",
+      "normalizacion": "2022-05-23 11:48"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "RAFAEL CALZADA",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-3-38 / 189-3-38",
+      "usuarios": "485",
+      "normalizacion": "2022-05-23 11:48"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "RAFAEL CALZADA",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-2-21 / 189-2-21",
+      "usuarios": "3101",
+      "normalizacion": "2022-05-23 15:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "usuarios": "5"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LAVALLOL",
+      "usuarios": "21"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA",
+      "usuarios": "15"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "LAS LOMAS",
+      "usuarios": "6"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "PARQUE LAS NACIONES",
+      "usuarios": "12"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "usuarios": "8"
+    }
+  ]
+}

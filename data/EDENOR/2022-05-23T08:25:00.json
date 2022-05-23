@@ -1,0 +1,44 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "892",
+  "totalUsuariosConSuministro": "3.199.179",
+  "ultimaActualizacion": "8:25",
+  "totalUsuariosAyer": "12.200",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CIUDADELA",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR1 / 167-5512",
+      "usuarios": "32",
+      "normalizacion": "2022-05-23 09:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA URQUIZA",
+      "subestacion_alimentador": "- / R:TECNOPOLIS / 352-TR2 / 352-5524",
+      "usuarios": "836",
+      "normalizacion": "2022-05-23 12:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "VILLA UDAONDO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "PONTEVEDRA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "22"
+    }
+  ]
+}
