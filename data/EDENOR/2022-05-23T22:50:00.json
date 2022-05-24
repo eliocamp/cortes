@@ -1,0 +1,59 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "960",
+  "totalUsuariosConSuministro": "3.199.111",
+  "ultimaActualizacion": "22:50",
+  "totalUsuariosAyer": "12.200",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "subestacion_alimentador": "- / R:TAPIALES / 162-TR2 / 162-5524",
+      "usuarios": "602",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5523",
+      "usuarios": "243",
+      "normalizacion": "2022-05-23 23:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "18"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "usuarios": "34"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "12"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "24"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "DEL VISO",
+      "usuarios": "22"
+    }
+  ]
+}
