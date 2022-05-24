@@ -1,0 +1,34 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.700",
+  "totalUsuariosConSuministro": "3.198.371",
+  "ultimaActualizacion": "7:25",
+  "totalUsuariosAyer": "15.360",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "MORON",
+      "localidad": "CASTELAR",
+      "subestacion_alimentador": "- / R:CASTELAR / 61-TR2 / 61-5522",
+      "usuarios": "444",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "subestacion_alimentador": "- / R:CASTELAR / 61-TR2 / 61-5522",
+      "usuarios": "1227",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA BALLESTER",
+      "usuarios": "29"
+    }
+  ]
+}
