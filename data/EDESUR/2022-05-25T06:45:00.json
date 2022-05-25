@@ -1,0 +1,93 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "1.159",
+  "totalUsuariosConSuministro": "2.532.426",
+  "ultimaActualizacion": "6:45",
+  "totalUsuariosAyer": "15.070",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LAVALLOL",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-3-31 / 182-3-31",
+      "usuarios": "375",
+      "normalizacion": "2022-05-25 08:49"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA OESTE",
+      "subestacion_alimentador": "277-GLEW / R:277-1-15 / 277-1-15",
+      "usuarios": "135",
+      "normalizacion": "2022-05-25 09:24"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SAN PABLO",
+      "subestacion_alimentador": "277-GLEW / R:277-1-15 / 277-1-15",
+      "usuarios": "110",
+      "normalizacion": "2022-05-25 09:24"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "SANTA ELENA",
+      "subestacion_alimentador": "277-GLEW / R:277-1-15 / 277-1-15",
+      "usuarios": "217",
+      "normalizacion": "2022-05-25 09:24"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "27"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "16"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "37"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "23"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "usuarios": "21"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "5"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "146"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "usuarios": "31"
+    }
+  ]
+}
