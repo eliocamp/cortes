@@ -1,0 +1,95 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.746",
+  "totalUsuariosConSuministro": "2.530.839",
+  "ultimaActualizacion": "8:35",
+  "totalUsuariosAyer": "15.070",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "GLEW",
+      "subestacion_alimentador": "277-GLEW / R:277-1-15 / 277-1-15",
+      "usuarios": "148",
+      "normalizacion": "2022-05-25 13:00"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MONSERRAT",
+      "subestacion_alimentador": "126-AZOPARDO II / R:126-1-11 / 126-1-11",
+      "usuarios": "67",
+      "normalizacion": "2022-05-25 11:38"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "25 DE MAYO",
+      "subestacion_alimentador": "277-GLEW / R:277-1-15 / 277-1-15",
+      "usuarios": "155",
+      "normalizacion": "2022-05-25 13:00"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "PARQUE AMERICANO",
+      "subestacion_alimentador": "277-GLEW / R:277-1-15 / 277-1-15",
+      "usuarios": "2029",
+      "normalizacion": "2022-05-25 13:00"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "QUINTAS AGRICOLAS",
+      "subestacion_alimentador": "277-GLEW / R:277-1-15 / 277-1-15",
+      "usuarios": "41",
+      "normalizacion": "2022-05-25 13:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "27"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "37"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "23"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "usuarios": "21"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "5"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "146"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "usuarios": "31"
+    }
+  ]
+}
