@@ -1,0 +1,231 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.611",
+  "totalUsuariosConSuministro": "3.196.460",
+  "ultimaActualizacion": "18:05",
+  "totalUsuariosAyer": "49.041",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR1 / 262-5544",
+      "usuarios": "577",
+      "normalizacion": "2022-05-31 19:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR1 / 168-5513",
+      "usuarios": "173",
+      "normalizacion": "2022-05-31 19:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR2 / 353-5522",
+      "usuarios": "7",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR1 / 256-5518",
+      "usuarios": "467",
+      "normalizacion": "2022-05-31 20:45"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "subestacion_alimentador": "- / R:CIUDADELA / 167-TR2 / 167-5538",
+      "usuarios": "323",
+      "normalizacion": "2022-05-31 19:00"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR3 / 154-5472 / 253-5512",
+      "usuarios": "135",
+      "normalizacion": "2022-05-31 19:00"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "subestacion_alimentador": "- / R:PASO DEL REY / 258-TR2 / 258-5527",
+      "usuarios": "136",
+      "normalizacion": "2022-05-31 19:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5538",
+      "usuarios": "383",
+      "normalizacion": "2022-05-31 19:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "subestacion_alimentador": "- / R:MORON / 67-TR4 / 67-5527",
+      "usuarios": "1",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "EL TALAR",
+      "subestacion_alimentador": "- / R:TALAR / 58-TR2 / 58-5524",
+      "usuarios": "159",
+      "normalizacion": "2022-05-31 19:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "191"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "LOMA HERMOSA",
+      "usuarios": "31"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "42"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "GRAL EUGENIO NECOCHEA",
+      "usuarios": "26"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "99"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "33"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "18"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "usuarios": "50"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "usuarios": "35"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "22"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "PABLO NOGUES",
+      "usuarios": "35"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "usuarios": "23"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "34"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "SAN ANTONIO DE PADUA",
+      "usuarios": "29"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "26"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "53"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "usuarios": "73"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "usuarios": "31"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANZANARES",
+      "usuarios": "64"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "BELLA VISTA",
+      "usuarios": "40"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "usuarios": "124"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "GENERAL PACHECO",
+      "usuarios": "60"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RICARDO ROJAS",
+      "usuarios": "57"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "CARAPACHAY",
+      "usuarios": "14"
+    }
+  ]
+}
