@@ -1,0 +1,215 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.378",
+  "totalUsuariosConSuministro": "3.196.693",
+  "ultimaActualizacion": "19:50",
+  "totalUsuariosAyer": "38.235",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR1 / 168-5513",
+      "usuarios": "173",
+      "normalizacion": "2022-06-02 20:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5531",
+      "usuarios": "339",
+      "normalizacion": "2022-06-02 20:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5531",
+      "usuarios": "392",
+      "normalizacion": "2022-06-02 20:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:ALTOS / 272-TR1 / 272-5518",
+      "usuarios": "303",
+      "normalizacion": "2022-06-02 21:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR3 / 65-5534",
+      "usuarios": "297",
+      "normalizacion": "2022-06-02 20:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5538",
+      "usuarios": "383",
+      "normalizacion": "2022-06-02 20:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "subestacion_alimentador": "- / R:S.MIGUEL / 165-TR2 / 165-5526",
+      "usuarios": "60",
+      "normalizacion": "2022-06-02 20:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "103"
+    },
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "LOMA HERMOSA",
+      "usuarios": "54"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "usuarios": "5"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "usuarios": "33"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "122"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "90"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "95"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "70"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "usuarios": "38"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAFAEL CASTILLO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA LUZURIAGA",
+      "usuarios": "1"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "48"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "81"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "44"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TORTUGUITAS",
+      "usuarios": "24"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "19"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "SAN ANTONIO DE PADUA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "34"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "34"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "94"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "128"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "EL PALOMAR",
+      "usuarios": "3"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "usuarios": "42"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "usuarios": "5"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "80"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "44"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "usuarios": "48"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "CIUDAD DE TIGRE",
+      "usuarios": "35"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "usuarios": "42"
+    }
+  ]
+}
