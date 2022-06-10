@@ -1,0 +1,153 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.752",
+  "totalUsuariosConSuministro": "2.529.833",
+  "ultimaActualizacion": "18:35",
+  "totalUsuariosAyer": "33.770",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-1-17 / 281-1-17",
+      "usuarios": "722",
+      "normalizacion": "2022-06-10 22:03"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-1-17 / 281-1-17",
+      "usuarios": "929",
+      "normalizacion": "2022-06-10 22:03"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MONSERRAT",
+      "subestacion_alimentador": "126-AZOPARDO II / R:126-1-11 / 126-1-11",
+      "usuarios": "416",
+      "normalizacion": "2022-06-10 22:12"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAN TELMO",
+      "subestacion_alimentador": "126-AZOPARDO II / R:126-1-11 / 126-1-11",
+      "usuarios": "857",
+      "normalizacion": "2022-06-10 22:12"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "73-QUILMES / R:073-4-43 / 073-4-43",
+      "usuarios": "247",
+      "normalizacion": "2022-06-10 21:37"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "85-CALCHAQUI / R:085-2-25 / 085-2-25",
+      "usuarios": "121",
+      "normalizacion": "2022-06-10 19:20"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "46"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "GLEW",
+      "usuarios": "19"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "22"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA PATERNAL",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "26"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEVOTO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "usuarios": "25"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "TRISTAN SUAREZ",
+      "usuarios": "30"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "24"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "GERLI",
+      "usuarios": "36"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "BANDFIELD",
+      "usuarios": "107"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA",
+      "usuarios": "13"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "31"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "13"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "21"
+    }
+  ]
+}
