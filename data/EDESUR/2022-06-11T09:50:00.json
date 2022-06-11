@@ -1,0 +1,184 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.382",
+  "totalUsuariosConSuministro": "2.531.203",
+  "ultimaActualizacion": "9:50",
+  "totalUsuariosAyer": "49.052",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO RP",
+      "subestacion_alimentador": "122-CABALLITO / R:122-4-43 / 122-4-43",
+      "usuarios": "379",
+      "normalizacion": "2022-06-11 13:07"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "73-QUILMES / R:073-4-43 / 073-4-43",
+      "usuarios": "247",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA SOLDATI GP",
+      "subestacion_alimentador": "39-POMPEYA / R:039-1-17 / 039-1-17",
+      "usuarios": "8",
+      "normalizacion": "2022-06-11 14:50"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA SOLDATI RP",
+      "subestacion_alimentador": "39-POMPEYA / R:039-1-17 / 039-1-17",
+      "usuarios": "424",
+      "normalizacion": "2022-06-11 14:50"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "104"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "69"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN FRANCISCO SOLANO",
+      "usuarios": "24"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "31"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "105"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "usuarios": "49"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "62"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "RANELAGH",
+      "usuarios": "14"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "SOURIGUES",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "ALMAGRO",
+      "usuarios": "50"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "1"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONTE CASTRO",
+      "usuarios": "77"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA CRESPO",
+      "usuarios": "112"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEL PARQUE",
+      "usuarios": "173"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "8"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "usuarios": "32"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "67"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "44"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "31"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "67"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA CENTENARIO",
+      "usuarios": "62"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA FIORITO",
+      "usuarios": "27"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA",
+      "usuarios": "41"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "26"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "13"
+    }
+  ]
+}
