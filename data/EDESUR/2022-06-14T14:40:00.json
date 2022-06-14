@@ -1,0 +1,167 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "11.920",
+  "totalUsuariosConSuministro": "2.521.665",
+  "ultimaActualizacion": "14:40",
+  "totalUsuariosAyer": "40.053",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "VILLA RIACHUELO",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-2-22 / 042-2-22",
+      "usuarios": "2",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-2-22 / 042-2-22",
+      "usuarios": "985",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-2-22 / 042-2-22",
+      "usuarios": "2295",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "subestacion_alimentador": "87-ESCALADA / R:087-2-1516 / 087-2-1516",
+      "usuarios": "3839",
+      "normalizacion": "2022-06-14 18:35"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "87-ESCALADA / R:087-2-1516 / 087-2-1516",
+      "usuarios": "148",
+      "normalizacion": "2022-06-14 18:35"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-1-17 / 281-1-17",
+      "usuarios": "520",
+      "normalizacion": "2022-06-14 16:58"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "subestacion_alimentador": "175-SOBRAL / R:175-1-18 / 175-1-18",
+      "usuarios": "1562",
+      "normalizacion": "2022-06-14 19:51"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES ESTE",
+      "subestacion_alimentador": "175-SOBRAL / R:175-1-18 / 175-1-18",
+      "usuarios": "2191",
+      "normalizacion": "2022-06-14 19:51"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "GLEW",
+      "usuarios": "12"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "7"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "44"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEVOTO",
+      "usuarios": "6"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "usuarios": "33"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "LUIS GUILLON",
+      "usuarios": "32"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "20"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "7"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "23"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "31"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "5"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LAVALLOL",
+      "usuarios": "3"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "EL ROBLE",
+      "usuarios": "46"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "32"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "49"
+    }
+  ]
+}
