@@ -1,0 +1,109 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.454",
+  "totalUsuariosConSuministro": "2.531.131",
+  "ultimaActualizacion": "21:10",
+  "totalUsuariosAyer": "14.338",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "subestacion_alimentador": "281-TRANSRADIO / R:281-3-35 / 281-3-35",
+      "usuarios": "235",
+      "normalizacion": "2022-06-17 00:28"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "subestacion_alimentador": "186-GERLI / R:186-3-34 / 186-3-34",
+      "usuarios": "191",
+      "normalizacion": "2022-06-17 00:00"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "PIÑEYRO",
+      "subestacion_alimentador": "186-GERLI / R:186-3-34 / 186-3-34",
+      "usuarios": "1431",
+      "normalizacion": "2022-06-17 00:00"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-2-23 / 189-2-23",
+      "usuarios": "184",
+      "normalizacion": "2022-06-16 23:44"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "30"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "36"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "DOCK SUD",
+      "usuarios": "9"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "60"
+    },
+    {
+      "partido": "CAÑUELAS",
+      "localidad": "CAÑUELAS",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "54"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "103"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "usuarios": "7"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "10"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "55"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "GUERNICA",
+      "usuarios": "17"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "12"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "ALEJANDRO KORN",
+      "usuarios": "13"
+    }
+  ]
+}
