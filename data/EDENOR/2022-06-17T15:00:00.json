@@ -1,0 +1,137 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "2.398",
+  "totalUsuariosConSuministro": "3.197.673",
+  "ultimaActualizacion": "15:00",
+  "totalUsuariosAyer": "15.165",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR3 / 51-5474 / 4-5512",
+      "usuarios": "31",
+      "normalizacion": "2022-06-17 16:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR2 / 153-5526",
+      "usuarios": "15",
+      "normalizacion": "2022-06-17 16:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DON TORCUATO",
+      "subestacion_alimentador": "- / R:BANCALARI / 157-TR2 / 157-5527",
+      "usuarios": "17",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "subestacion_alimentador": "- / R:NORDELTA / 156-TR1 / 156-5513",
+      "usuarios": "84",
+      "normalizacion": "2022-06-17 16:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LOMAS DEL MIRADOR",
+      "subestacion_alimentador": "- / R:SAN JUSTO / 164-TR1 / 164-5544",
+      "usuarios": "1599",
+      "normalizacion": "2022-06-17 16:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "SAN JUSTO",
+      "subestacion_alimentador": "- / R:MATANZA / 65-TR1 / 65-5515",
+      "usuarios": "257",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "121",
+      "normalizacion": "2022-06-17 16:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "NORDELTA",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "1",
+      "normalizacion": "2022-06-17 16:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "LOMA HERMOSA",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "COLEGIALES",
+      "usuarios": "15"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "64"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C JARDIN EL LIBERTADOR",
+      "usuarios": "5"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "C LIBERTADOR SAN MART?N",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "27"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "LOS POLVORINES",
+      "usuarios": "21"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "28"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "37"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "usuarios": "22"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "20"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "NORDELTA",
+      "usuarios": "2"
+    }
+  ]
+}
