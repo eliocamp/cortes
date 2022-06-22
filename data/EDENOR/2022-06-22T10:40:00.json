@@ -1,0 +1,169 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "3.207",
+  "totalUsuariosConSuministro": "3.196.864",
+  "ultimaActualizacion": "10:40",
+  "totalUsuariosAyer": "20.208",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "ESCOBAR",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR3 / 51-5474 / 4-5512",
+      "usuarios": "3",
+      "normalizacion": "2022-06-22 14:00"
+    },
+    {
+      "partido": "HURLINGHAM",
+      "localidad": "HURLINGHAM",
+      "subestacion_alimentador": "- / R:HURLINGHAM / 166-TR3 / 166-5533",
+      "usuarios": "83",
+      "normalizacion": "2022-06-22 12:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR2 / 168-5526",
+      "usuarios": "605",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR2 / 168-5524",
+      "usuarios": "61",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR3 / 353-5472",
+      "usuarios": "89",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "PASO DEL REY",
+      "subestacion_alimentador": "- / R:CATONAS / 256-TR2 / 256-5531",
+      "usuarios": "407",
+      "normalizacion": "2022-06-22 12:00"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "subestacion_alimentador": "- / R:S.MIGUEL / 165-TR1 / 165-5516",
+      "usuarios": "290",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "MORON",
+      "localidad": "MORON",
+      "subestacion_alimentador": "- / R:CASTELAR / 61-TR1 / 61-5546",
+      "usuarios": "1004",
+      "normalizacion": "2022-06-22 11:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR5 / 158-5484",
+      "usuarios": "1",
+      "normalizacion": "2022-06-22 11:00"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "subestacion_alimentador": "- / ",
+      "usuarios": "21",
+      "normalizacion": "2022-06-22 11:00"
+    },
+    {
+      "partido": "SAN ISIDRO",
+      "localidad": "BECCAR",
+      "subestacion_alimentador": "- / R:VICTORIA / 53-TR1 / 53-5542",
+      "usuarios": "258",
+      "normalizacion": "2022-06-22 11:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "8",
+      "normalizacion": "2022-06-22 11:00"
+    }
+  ],
+  "cortesServicioMedia": [],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "SAAVEDRA",
+      "usuarios": "25"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "usuarios": "33"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "67"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "11"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "44"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "47"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "LIBERTAD",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "29"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "28"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "16"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "37"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "LA LONJA",
+      "usuarios": "14"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "usuarios": "21"
+    }
+  ]
+}
