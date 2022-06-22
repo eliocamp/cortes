@@ -1,0 +1,137 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "623",
+  "totalUsuariosConSuministro": "3.199.448",
+  "ultimaActualizacion": "3:10",
+  "totalUsuariosAyer": "20.138",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GREGORIO DE LAFERRERE",
+      "subestacion_alimentador": "- / R:GONZALEZ CATAN / 168-TR2 / 168-5524",
+      "usuarios": "61",
+      "normalizacion": "2022-06-22 04:00"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "DELTA 1RA SECCION (TI)",
+      "subestacion_alimentador": "- / R:TIGRE / 153-TR1 / 153-5517",
+      "usuarios": "8",
+      "normalizacion": "2022-06-22 05:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR4 / 158-5482",
+      "usuarios": "1",
+      "normalizacion": "2022-06-22 05:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "3 DE FEBRERO",
+      "localidad": "CASEROS",
+      "usuarios": "4"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MATHEU",
+      "usuarios": "62"
+    },
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "104"
+    },
+    {
+      "partido": "ITUZAINGO",
+      "localidad": "ITUZAINGO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "4"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "ADOLFO SOURDEAUX",
+      "usuarios": "31"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "GRAND BOURG",
+      "usuarios": "47"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MARIANO ACOSTA",
+      "usuarios": "29"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "MERLO",
+      "usuarios": "41"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "39"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "FRANCISCO ALVAREZ",
+      "usuarios": "16"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "8"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "5"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "usuarios": "63"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "17"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PTE DERQUI",
+      "usuarios": "10"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "DELTA 2DA SECCION (SF)",
+      "usuarios": "15"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "SAN FERNANDO",
+      "usuarios": "21"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "10"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "BENAVIDEZ",
+      "usuarios": "23"
+    }
+  ]
+}
