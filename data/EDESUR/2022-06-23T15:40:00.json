@@ -1,0 +1,215 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "7.904",
+  "totalUsuariosConSuministro": "2.525.681",
+  "ultimaActualizacion": "15:40",
+  "totalUsuariosAyer": "57.420",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "PIÑEYRO",
+      "subestacion_alimentador": "186-GERLI / R:186-2-23 / 186-2-23",
+      "usuarios": "415",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "subestacion_alimentador": "182-SANTA CATALINA / R:182-1-17 / 182-1-17",
+      "usuarios": "615",
+      "normalizacion": "2022-06-23 18:12"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "DOMSELAAR",
+      "subestacion_alimentador": "82-BURZACO / R:082-3-981 / 082-3-981",
+      "usuarios": "851",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "LINIERS",
+      "subestacion_alimentador": "43-LINIERS / R:043-2-24 / 043-2-24",
+      "usuarios": "1812",
+      "normalizacion": "2022-06-23 18:47"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "183-FLORENCIO VARELA / R:183-2-23 / 183-2-23",
+      "usuarios": "1066",
+      "normalizacion": "2022-06-23 18:48"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA FIORITO",
+      "subestacion_alimentador": "89-ALSINA / R:089-1-17 / 089-1-17",
+      "usuarios": "29",
+      "normalizacion": "2022-06-23 17:10"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "89-ALSINA / R:089-1-17 / 089-1-17",
+      "usuarios": "1362",
+      "normalizacion": "2022-06-23 17:10"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "usuarios": "36"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "BURZACO",
+      "usuarios": "141"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "usuarios": "14"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "72"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "DOCK SUD",
+      "usuarios": "2"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "usuarios": "43"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "54"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "327"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "206"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "73"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "9"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE CHACABUCO",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "RECOLETA",
+      "usuarios": "35"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN CRISTOBAL",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "23"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LURO",
+      "usuarios": "38"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "usuarios": "6"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "LUIS GUILLON",
+      "usuarios": "34"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "1"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "30"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "16"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "116"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "32"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "usuarios": "83"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "102"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "DON BOSCO",
+      "usuarios": "72"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "99"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "53"
+    }
+  ]
+}
