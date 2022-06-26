@@ -1,0 +1,210 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "21.167",
+  "totalUsuariosConSuministro": "2.512.418",
+  "ultimaActualizacion": "11:20",
+  "totalUsuariosAyer": "10.468",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-3-37 / 189-3-37",
+      "usuarios": "1652",
+      "normalizacion": "2022-06-26 12:50"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-4-41 / 189-4-41",
+      "usuarios": "2622",
+      "normalizacion": "2022-06-26 13:21"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-1-11 / 189-1-11",
+      "usuarios": "2517",
+      "normalizacion": "2022-06-26 12:57"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "CLAYPOLE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-1-15 / 189-1-15",
+      "usuarios": "4335",
+      "normalizacion": "2022-06-26 12:36"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MARMOL",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-2-22 / 189-2-22",
+      "usuarios": "329",
+      "normalizacion": "2022-06-26 12:52"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "RAFAEL CALZADA",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-2-22 / 189-2-22",
+      "usuarios": "4350",
+      "normalizacion": "2022-06-26 12:52"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-2-22 / 189-2-22",
+      "usuarios": "681",
+      "normalizacion": "2022-06-26 12:52"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LAVALLOL",
+      "subestacion_alimentador": "189-RAFAEL CALZADA / R:189-3-37 / 189-3-37",
+      "usuarios": "576",
+      "normalizacion": "2022-06-26 12:50"
+    },
+    {
+      "partido": "SAN VICENTE",
+      "localidad": "SAN VICENTE",
+      "subestacion_alimentador": "277-GLEW / R:277-2-27 / 277-2-27",
+      "usuarios": "242",
+      "normalizacion": "2022-06-26 13:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "286- / R:286-5-51 / 286-5-51",
+      "usuarios": "2319",
+      "normalizacion": "2022-06-26 15:31"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-1-16 / 077-1-16",
+      "usuarios": "50",
+      "normalizacion": "2022-06-26 16:42"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "73-QUILMES / R:073-3-36 / 073-3-36",
+      "usuarios": "897",
+      "normalizacion": "2022-06-26 14:38"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "26"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "22"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "13"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "17"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "15"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "48"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "17"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "125"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "LA BOCA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE AVELLANEDA",
+      "usuarios": "30"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "13"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA DEVOTO",
+      "usuarios": "34"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "EL JAGUEL",
+      "usuarios": "27"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "BARRIO LA UNION",
+      "usuarios": "68"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "BOSQUES",
+      "usuarios": "4"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "14"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "5"
+    },
+    {
+      "partido": "PTE PERON",
+      "localidad": "VILLA NUMANCIA",
+      "usuarios": "30"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "22"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "2"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "41"
+    }
+  ]
+}
