@@ -1,0 +1,147 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "11.237",
+  "totalUsuariosConSuministro": "2.522.348",
+  "ultimaActualizacion": "19:20",
+  "totalUsuariosAyer": "24.109",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-1-17 / 042-1-17",
+      "usuarios": "722",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "ZONA RURAL",
+      "subestacion_alimentador": "42-AUTODROMO / R:042-1-17 / 042-1-17",
+      "usuarios": "929",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-12 / 174-1-12",
+      "usuarios": "2684",
+      "normalizacion": "2022-07-01 22:23"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "HUDSON",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-15 / 174-1-15",
+      "usuarios": "741",
+      "normalizacion": "2022-07-02 00:24"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "PLATANOS",
+      "subestacion_alimentador": "174-GUTIERREZ II / R:174-1-15 / 174-1-15",
+      "usuarios": "1712",
+      "normalizacion": "2022-07-02 00:24"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "subestacion_alimentador": "286- / R:286-5-56 / 286-5-56",
+      "usuarios": "1038",
+      "normalizacion": "2022-07-02 00:36"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-1-16 / 077-1-16",
+      "usuarios": "1921",
+      "normalizacion": "2022-07-02 00:24"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "77-DON BOSCO / R:077-1-16 / 077-1-16",
+      "usuarios": "1101",
+      "normalizacion": "2022-07-02 00:24"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "SAN JOSE",
+      "usuarios": "58"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "EL PATO",
+      "usuarios": "3"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CABALLITO",
+      "usuarios": "64"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CONSTITUCION",
+      "usuarios": "25"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "27"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA SOLDATI",
+      "usuarios": "3"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "9 DE ABRIL",
+      "usuarios": "12"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "25"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "69"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "LANUS",
+      "usuarios": "10"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "VALENTIN ALSINA",
+      "usuarios": "9"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "LOMAS DE ZAMORA",
+      "usuarios": "27"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "usuarios": "25"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "EZPELETA",
+      "usuarios": "31"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "1"
+    }
+  ]
+}
