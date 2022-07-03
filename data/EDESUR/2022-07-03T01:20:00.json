@@ -1,0 +1,123 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "4.390",
+  "totalUsuariosConSuministro": "2.529.195",
+  "ultimaActualizacion": "1:20",
+  "totalUsuariosAyer": "45.466",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO RP",
+      "subestacion_alimentador": "122-CABALLITO / R:122-2-28 / 122-2-28",
+      "usuarios": "196",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "RANELAGH",
+      "subestacion_alimentador": "80-EZPELETA / R:080-1-11 / 080-1-11",
+      "usuarios": "11",
+      "normalizacion": "2022-07-03 04:43"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "SOURIGUES",
+      "subestacion_alimentador": "80-EZPELETA / R:080-1-11 / 080-1-11",
+      "usuarios": "733",
+      "normalizacion": "2022-07-03 04:43"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MATADEROS",
+      "subestacion_alimentador": "43-LINIERS / R:043-1-16 / 043-1-16",
+      "usuarios": "1004",
+      "normalizacion": "2022-07-03 05:44"
+    },
+    {
+      "partido": "EZEIZA",
+      "localidad": "JOSE MARIA EZEIZA",
+      "subestacion_alimentador": "270-SPEGAZZINI / R:270-1-18 / 270-1-18 / 083-1-11",
+      "usuarios": "7",
+      "normalizacion": "2022-07-03 05:24"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-3-35 / 184-3-35",
+      "usuarios": "2054",
+      "normalizacion": "2022-07-03 04:48"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "usuarios": "19"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "GLEW",
+      "usuarios": "35"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "AVELLANEDA",
+      "usuarios": "51"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "PIÑEYRO",
+      "usuarios": "2"
+    },
+    {
+      "partido": "BERAZATEGUI",
+      "localidad": "BERAZATEGUI",
+      "usuarios": "32"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MATADEROS",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "VILLA LUGANO",
+      "usuarios": "34"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "LUIS GUILLON",
+      "usuarios": "32"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "15"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "76"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "INGENIERO BUDGE",
+      "usuarios": "48"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES",
+      "usuarios": "10"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "23"
+    }
+  ]
+}
