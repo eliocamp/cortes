@@ -1,0 +1,99 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "583",
+  "totalUsuariosConSuministro": "3.199.488",
+  "ultimaActualizacion": "5:45",
+  "totalUsuariosAyer": "53.493",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "subestacion_alimentador": "- / R:MASCHWITZ / 154-TR1 / 154-5518",
+      "usuarios": "67",
+      "normalizacion": "2022-07-06 06:00"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "subestacion_alimentador": "- / R:EL PINO / 353-TR1 / 353-5517",
+      "usuarios": "133",
+      "normalizacion": "2022-07-06 09:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "GARIN",
+      "usuarios": "7"
+    },
+    {
+      "partido": "ESCOBAR",
+      "localidad": "MAQUINISTA SAVIO",
+      "usuarios": "9"
+    },
+    {
+      "partido": "JOSE C PAZ",
+      "localidad": "JOSE C PAZ",
+      "usuarios": "24"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "6"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "35"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA MADERO",
+      "usuarios": "10"
+    },
+    {
+      "partido": "MARCOS PAZ",
+      "localidad": "MARCOS PAZ",
+      "usuarios": "7"
+    },
+    {
+      "partido": "MERLO",
+      "localidad": "PONTEVEDRA",
+      "usuarios": "10"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "59"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "usuarios": "82"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "PILAR",
+      "usuarios": "8"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "usuarios": "30"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "usuarios": "91"
+    },
+    {
+      "partido": "TIGRE",
+      "localidad": "RINCON DE MILBERG",
+      "usuarios": "5"
+    }
+  ]
+}
