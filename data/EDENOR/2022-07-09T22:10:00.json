@@ -1,0 +1,64 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "674",
+  "totalUsuariosConSuministro": "3.199.397",
+  "ultimaActualizacion": "22:10",
+  "totalUsuariosAyer": "19.371",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR4 / 66-5522",
+      "usuarios": "498",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PARQUE / 357-TR4 / 357-5481",
+      "usuarios": "1",
+      "normalizacion": "2022-07-09 23:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "16"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "55"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "25"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TIERRAS ALTAS",
+      "usuarios": "18"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "CUARTEL V",
+      "usuarios": "43"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "17"
+    }
+  ]
+}
