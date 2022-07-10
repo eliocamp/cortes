@@ -1,0 +1,90 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "928",
+  "totalUsuariosConSuministro": "3.199.143",
+  "ultimaActualizacion": "11:25",
+  "totalUsuariosAyer": "18.227",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "VILLA BALLESTER",
+      "subestacion_alimentador": "- / R:ROTONDA / 262-TR2 / 262-5542",
+      "usuarios": "4",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR2 / 158-5523",
+      "usuarios": "1",
+      "normalizacion": "2022-07-10 13:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR1 / 51-5511",
+      "usuarios": "18",
+      "normalizacion": "2022-07-10 12:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:MATHEU / 51-TR2 / 51-5526",
+      "usuarios": "1",
+      "normalizacion": "2022-07-10 13:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PALERMO",
+      "subestacion_alimentador": "- / R:GUEMES / 111-TR2 / 111-5523",
+      "usuarios": "410",
+      "normalizacion": "2022-07-10 12:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PARQUE / 357-TR4 / 357-5481",
+      "usuarios": "1",
+      "normalizacion": "2022-07-10 12:00"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANZANARES",
+      "subestacion_alimentador": "- / R:PILAR / 158-TR1 / 158-5513",
+      "usuarios": "432",
+      "normalizacion": "2022-07-10 12:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "30"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANZANARES",
+      "usuarios": "23"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "usuarios": "2"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VIRREYES",
+      "usuarios": "5"
+    }
+  ]
+}

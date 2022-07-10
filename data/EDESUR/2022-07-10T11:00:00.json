@@ -1,0 +1,106 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "2.855",
+  "totalUsuariosConSuministro": "2.530.730",
+  "ultimaActualizacion": "11:00",
+  "totalUsuariosAyer": "17.347",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BALVANERA GP",
+      "subestacion_alimentador": "20-INDEPENDENCIA / R:020-4-42 / 020-4-42",
+      "usuarios": "332",
+      "normalizacion": "2022-07-10 12:57"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-2-25 / 084-2-25",
+      "usuarios": "405",
+      "normalizacion": "2022-07-10 11:59"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BARRACAS",
+      "subestacion_alimentador": "24-BARRACAS / R:024-1-16 / 024-1-16",
+      "usuarios": "2",
+      "normalizacion": "2022-07-10 16:01"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES ESTE",
+      "subestacion_alimentador": "73-QUILMES / R:073-4-46 / 073-4-46",
+      "usuarios": "1007",
+      "normalizacion": "2022-07-10 15:12"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "QUILMES OESTE",
+      "subestacion_alimentador": "73-QUILMES / R:073-4-46 / 073-4-46",
+      "usuarios": "880",
+      "normalizacion": "2022-07-10 15:12"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "LONGCHAMPS",
+      "usuarios": "6"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "DOCK SUD",
+      "usuarios": "25"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "73"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "5"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "CAPITAL",
+      "usuarios": "10"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "34"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "11"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "MONTE CHINGOLO",
+      "usuarios": "39"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "VILLA FIORITO",
+      "usuarios": "6"
+    }
+  ]
+}
