@@ -1,0 +1,92 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.343",
+  "totalUsuariosConSuministro": "2.530.242",
+  "ultimaActualizacion": "1:40",
+  "totalUsuariosAyer": "16.996",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-4-44 / 218-4-44",
+      "usuarios": "92",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BARRACAS",
+      "subestacion_alimentador": "24-BARRACAS / R:024-1-16 / 024-1-16",
+      "usuarios": "10",
+      "normalizacion": "2022-07-10 03:02"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "BERNAL",
+      "subestacion_alimentador": "184-MONTE CHINGOLO / R:184-2-24 / 184-2-24",
+      "usuarios": "3005",
+      "normalizacion": "2022-07-10 04:24"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "DOCK SUD",
+      "usuarios": "25"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "73"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "20"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "28"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "ESTEBAN ECHEVERRIA",
+      "localidad": "MONTE GRANDE",
+      "usuarios": "8"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "22"
+    },
+    {
+      "partido": "LANUS",
+      "localidad": "REMEDIOS DE ESCALADA",
+      "usuarios": "36"
+    },
+    {
+      "partido": "QUILMES",
+      "localidad": "SAN FRANCISCO SOLANO (Q)",
+      "usuarios": "3"
+    }
+  ]
+}
