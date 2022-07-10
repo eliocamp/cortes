@@ -1,0 +1,113 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "3.187",
+  "totalUsuariosConSuministro": "2.530.398",
+  "ultimaActualizacion": "17:20",
+  "totalUsuariosAyer": "17.347",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO RP",
+      "subestacion_alimentador": "122-CABALLITO / R:122-4-43 / 122-4-43",
+      "usuarios": "540",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "MATADEROS",
+      "subestacion_alimentador": "48-PERITO MORENO / R:048-1-11 / 048-1-11",
+      "usuarios": "197",
+      "normalizacion": "2022-07-10 20:33"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE PATRICIOS",
+      "subestacion_alimentador": "15-PATRICIOS / R:015-1-11 / 015-1-11",
+      "usuarios": "527",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-2-25 / 084-2-25",
+      "usuarios": "405",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BARRACAS",
+      "subestacion_alimentador": "24-BARRACAS / R:024-1-16 / 024-1-16",
+      "usuarios": "2",
+      "normalizacion": "2022-07-10 22:03"
+    },
+    {
+      "partido": "LOMAS DE ZAMORA",
+      "localidad": "TEMPERLEY",
+      "subestacion_alimentador": "84-TEMPERLEY / R:084-1-17 / 084-1-17",
+      "usuarios": "1334",
+      "normalizacion": "2022-07-10 19:49"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "usuarios": "24"
+    },
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "MARMOL",
+      "usuarios": "10"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "VILLA DOMINICO",
+      "usuarios": "13"
+    },
+    {
+      "partido": "AVELLANEDA",
+      "localidad": "WILDE",
+      "usuarios": "73"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BALVANERA",
+      "usuarios": "7"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "FLORES",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "MONSERRAT",
+      "usuarios": "6"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "4"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "RECOLETA",
+      "usuarios": "11"
+    },
+    {
+      "partido": "FLORENCIO VARELA",
+      "localidad": "FLORENCIO VARELA",
+      "usuarios": "6"
+    }
+  ]
+}
