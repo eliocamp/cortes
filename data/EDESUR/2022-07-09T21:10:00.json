@@ -1,0 +1,76 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDESUR",
+  "totalUsuariosSinSuministro": "5.623",
+  "totalUsuariosConSuministro": "2.527.962",
+  "ultimaActualizacion": "21:10",
+  "totalUsuariosAyer": "35.843",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "218-ALBERDI / R:218-4-44 / 218-4-44",
+      "usuarios": "92",
+      "normalizacion": "Sin datos"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "BOEDO",
+      "subestacion_alimentador": "122-CABALLITO / R:122-3-34 / 122-3-34",
+      "usuarios": "532",
+      "normalizacion": "2022-07-10 00:17"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "CABALLITO RP",
+      "subestacion_alimentador": "122-CABALLITO / R:122-3-34 / 122-3-34",
+      "usuarios": "601",
+      "normalizacion": "2022-07-10 00:17"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "FLORES GP",
+      "subestacion_alimentador": "122-CABALLITO / R:122-3-34 / 122-3-34",
+      "usuarios": "249",
+      "normalizacion": "2022-07-10 00:17"
+    },
+    {
+      "partido": "CAPITAL FEDERAL",
+      "localidad": "PARQUE CHACABUCO",
+      "subestacion_alimentador": "122-CABALLITO / R:122-3-34 / 122-3-34",
+      "usuarios": "4064",
+      "normalizacion": "2022-07-10 00:17"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ALMIRANTE BROWN",
+      "localidad": "ADROGUE",
+      "usuarios": "8"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "BOEDO",
+      "usuarios": "22"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "NUEVA POMPEYA",
+      "usuarios": "28"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "PARQUE PATRICIOS",
+      "usuarios": "11"
+    },
+    {
+      "partido": "CAPITAL",
+      "localidad": "SAN TELMO",
+      "usuarios": "16"
+    }
+  ]
+}

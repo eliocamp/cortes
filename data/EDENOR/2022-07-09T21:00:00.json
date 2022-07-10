@@ -1,0 +1,93 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "1.524",
+  "totalUsuariosConSuministro": "3.198.547",
+  "ultimaActualizacion": "21:00",
+  "totalUsuariosAyer": "19.371",
+  "cortesPreventivos": [],
+  "cortesProgramados": [],
+  "cortesServicioMedia": [
+    {
+      "partido": "",
+      "localidad": "",
+      "subestacion_alimentador": "- / R:MUNIZ / 265-TR1 / 265-5512",
+      "usuarios": "188",
+      "normalizacion": "2022-07-09 22:00"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "RAMOS MEJIA",
+      "subestacion_alimentador": "- / R:RAMOS MEJIA / 66-TR4 / 66-5522",
+      "usuarios": "585",
+      "normalizacion": "Sin datos"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "FATIMA",
+      "subestacion_alimentador": "- / R:PARQUE / 357-TR4 / 357-5481",
+      "usuarios": "1",
+      "normalizacion": "2022-07-09 23:00"
+    },
+    {
+      "partido": "SAN MIGUEL",
+      "localidad": "SAN MIGUEL",
+      "subestacion_alimentador": "- / R:MUNIZ / 265-TR1 / 265-5512",
+      "usuarios": "544",
+      "normalizacion": "2022-07-09 22:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "GRAL RODRIGUEZ",
+      "localidad": "GRAL RODRIGUEZ",
+      "usuarios": "4"
+    },
+    {
+      "partido": "GRAL SAN MARTIN",
+      "localidad": "AYACUCHO",
+      "usuarios": "11"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "CIUDAD EVITA",
+      "usuarios": "34"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "ISIDRO CASANOVA",
+      "usuarios": "4"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VILLA LUZURIAGA",
+      "usuarios": "16"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "VIRREY DEL PINO",
+      "usuarios": "16"
+    },
+    {
+      "partido": "MALVINAS ARGENTINAS",
+      "localidad": "TIERRAS ALTAS",
+      "usuarios": "18"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "MORENO",
+      "usuarios": "1"
+    },
+    {
+      "partido": "MORENO",
+      "localidad": "TRUJUI",
+      "usuarios": "61"
+    },
+    {
+      "partido": "SAN FERNANDO",
+      "localidad": "VIRREYES",
+      "usuarios": "41"
+    }
+  ]
+}
