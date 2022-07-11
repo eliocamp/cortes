@@ -1,0 +1,69 @@
+{
+  "fuente": "Web Service",
+  "empresa": "EDENOR",
+  "totalUsuariosSinSuministro": "4.685",
+  "totalUsuariosConSuministro": "3.195.386",
+  "ultimaActualizacion": "16:30",
+  "totalUsuariosAyer": "25.928",
+  "cortesPreventivos": [],
+  "cortesProgramados": [
+    {
+      "partido": "PILAR",
+      "localidad": "VILLA ROSA",
+      "subestacion_alimentador": "- / R:DERQUI / 260-TR1 / 260-5515",
+      "usuarios": "15",
+      "normalizacion": "2022-07-11 18:00"
+    }
+  ],
+  "cortesServicioMedia": [
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "FLORIDA",
+      "subestacion_alimentador": "- / R:ANIVERSARIO / 52-TR1 / 52-5545",
+      "usuarios": "3086",
+      "normalizacion": "2022-07-11 20:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "FLORIDA (OESTE)",
+      "subestacion_alimentador": "- / R:ANIVERSARIO / 52-TR1 / 52-5545",
+      "usuarios": "1",
+      "normalizacion": "2022-07-11 20:00"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "VICENTE LOPEZ",
+      "subestacion_alimentador": "- / R:ANIVERSARIO / 52-TR1 / 52-5545",
+      "usuarios": "1392",
+      "normalizacion": "2022-07-11 20:00"
+    }
+  ],
+  "cortesComunicados": [],
+  "cortesServicioBaja": [
+    {
+      "partido": "ESCOBAR",
+      "localidad": "INGENIERO MASCHWITZ",
+      "usuarios": "27"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "GONZALEZ CATAN",
+      "usuarios": "32"
+    },
+    {
+      "partido": "LA MATANZA",
+      "localidad": "LA TABLADA",
+      "usuarios": "23"
+    },
+    {
+      "partido": "PILAR",
+      "localidad": "MANUEL ALBERTI",
+      "usuarios": "75"
+    },
+    {
+      "partido": "VICENTE LOPEZ",
+      "localidad": "OLIVOS",
+      "usuarios": "34"
+    }
+  ]
+}
